@@ -132,16 +132,7 @@
       "quickSearch": 1,
       "filterable": 1
     }, 
-{
-      "key" : "csp_XYQBiu_凌云韩国",
-      "name" : "🍱凌云韩国",
-      "type" : 3,
-      "api" : "csp_XYQBiu",
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "filterable" : 1,
-      "ext" : "https://agit.ai/l/o/raw/branch/o/o/%E5%87%8C%E4%BA%91%E9%9F%A9%E5%9B%BD.json"
-    }, 
+{"key":"77韩剧","name":"77韩剧(佰欣园)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {
       "key": "天堂资源",
       "name": "📌天堂资源(官)",
