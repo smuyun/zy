@@ -1,4 +1,7 @@
 {
+"spider":"./JAR/Yoursmile.jar",
+"wallpaper":"http://maoyingshi.cc/api.php",
+
     "sites":[
         {
             "key":"teng",
