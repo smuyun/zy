@@ -111,7 +111,7 @@
             "searchable":1,
             "ext":"http://我不是.肥猫.love:63/json/饭团影院.json"
         },
-        {"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable": 1},
+  {"key":"csp_QQ","name":"🐧腾讯视频","type": 3,"api":"csp_QQ","searchable":1,"quickSearch": 1,"filterable": 1},
   {"key":"csp_MGTV","name":"🍊芒果TV","type": 3,"api":"csp_MGTV","searchable":1,"quickSearch": 1,"filterable": 1}, 
   {"key":"csp_IQIYI","name":"✨爱奇艺","type": 3,"api":"csp_IQIYI","searchable":1,"quickSearch": 1,"filterable": 1},
   {"key":"youku","name":"👑优酷","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,
