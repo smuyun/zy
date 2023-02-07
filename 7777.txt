@@ -224,6 +224,8 @@
   {"key": "csp_CZSPP","name": "🏭厂长资源","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 0},
   {"key": "Smdyy","name": "🐎神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key":"csp_xBPQ_韩剧堆","name":"韩剧堆","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hanjudui.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
+  {"key":"csp_xbb_韩剧佬","name":"🍀韩剧佬","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://xn--sss604efuw.ml/tvb/xb/韩剧佬.json"},
+  {"key":"77韩剧","name":"77韩剧(佰欣园)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
         {
             "key":"XBPQ_007",
             "name":"🍆┃零七┃影视",
