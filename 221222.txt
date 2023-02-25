@@ -1,9 +1,8 @@
 {
-
-//数据接口
+"spider":"./JAR/Yoursmile.jar",
+"wallpaper":"http://maoyingshi.cc/api.php",
 
 "sites": [
-
 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e4%b9%90%e7%8c%aaXP.json"}, 
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
     {
@@ -1425,8 +1424,20 @@
       "filterable": 0,
       "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 	}],
-
-"parses":[
+    "lives":[
+        {
+            "group":"redirect",
+            "channels":[
+                {
+                    "name":"live",
+                    "urls":[
+                        "proxy://do=live&type=txt&ext=https://agit.ai/smy/tv/raw/branch/main/1102.txt"
+                    ]
+                }
+            ]
+        }
+    ],
+ "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
@@ -1484,34 +1495,230 @@
 {"name":"云析","url":"https://jx.yparse.com/index.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"180","url":"https://jx.000180.top/jx/?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}},
 {"name":"1717云","url":"https://www.1717yun.com/jx/ty.php?url=","type":0,"ext":{"flag":["qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","sohu","xigua","fun","风行"],"header":{"User-Agent":"Mozilla/5.0"}},"header":{"User-Agent":"Mozilla/5.0"}}
-],
-
-//jar+壁纸
-
-"spider":"http://meow.miaotvs.cn/MTV数据包1.jar;md5;83FB605345300DA7C3D2C2F2A36C6CDC","wallpaper":"https://tool.weetai.cn/api",
-
-//电视直播
-
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://agit.ai/smy/tv/raw/branch/main/1102.txt"]}]}],
-
-//解码模式
-
-"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":4,"name":"framedrop","value":"1"},
-{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},
-{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},
-{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
-{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
-{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":4,"name":"framedrop","value":"1"},
-{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},
-{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},
-{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
-{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
-
-//广告过滤
-
-"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com",
-"cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com",
-"xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com",
-"xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com",
-"s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com",
-"z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]}
+    ],
+    "ijk":[
+        {
+            "group":"软解码",
+            "options":[
+                {
+                    "category":4,
+                    "name":"opensles",
+                    "value":"0"
+                },
+                {
+                    "category":4,
+                    "name":"overlay-format",
+                    "value":"842225234"
+                },
+                {
+                    "category":4,
+                    "name":"framedrop",
+                    "value":"1"
+                },
+                {
+                    "category":4,
+                    "name":"soundtouch",
+                    "value":"1"
+                },
+                {
+                    "category":4,
+                    "name":"start-on-prepared",
+                    "value":"1"
+                },
+                {
+                    "category":1,
+                    "name":"http-detect-range-support",
+                    "value":"0"
+                },
+                {
+                    "category":1,
+                    "name":"fflags",
+                    "value":"fastseek"
+                },
+                {
+                    "category":2,
+                    "name":"skip_loop_filter",
+                    "value":"48"
+                },
+                {
+                    "category":4,
+                    "name":"reconnect",
+                    "value":"1"
+                },
+                {
+                    "category":4,
+                    "name":"enable-accurate-seek",
+                    "value":"0"
+                },
+                {
+                    "category":4,
+                    "name":"mediacodec",
+                    "value":"0"
+                },
+                {
+                    "category":4,
+                    "name":"mediacodec-auto-rotate",
+                    "value":"0"
+                },
+                {
+                    "category":4,
+                    "name":"mediacodec-handle-resolution-change",
+                    "value":"0"
+                },
+                {
+                    "category":4,
+                    "name":"mediacodec-hevc",
+                    "value":"0"
+                },
+                {
+                    "category":1,
+                    "name":"dns_cache_timeout",
+                    "value":"600000000"
+                }
+            ]
+        },
+        {
+            "group":"硬解码",
+            "options":[
+                {
+                    "category":4,
+                    "name":"opensles",
+                    "value":"0"
+                },
+                {
+                    "category":4,
+                    "name":"overlay-format",
+                    "value":"842225234"
+                },
+                {
+                    "category":4,
+                    "name":"framedrop",
+                    "value":"1"
+                },
+                {
+                    "category":4,
+                    "name":"soundtouch",
+                    "value":"1"
+                },
+                {
+                    "category":4,
+                    "name":"start-on-prepared",
+                    "value":"1"
+                },
+                {
+                    "category":1,
+                    "name":"http-detect-range-support",
+                    "value":"0"
+                },
+                {
+                    "category":1,
+                    "name":"fflags",
+                    "value":"fastseek"
+                },
+                {
+                    "category":2,
+                    "name":"skip_loop_filter",
+                    "value":"48"
+                },
+                {
+                    "category":4,
+                    "name":"reconnect",
+                    "value":"1"
+                },
+                {
+                    "category":4,
+                    "name":"enable-accurate-seek",
+                    "value":"0"
+                },
+                {
+                    "category":4,
+                    "name":"mediacodec",
+                    "value":"1"
+                },
+                {
+                    "category":4,
+                    "name":"mediacodec-auto-rotate",
+                    "value":"1"
+                },
+                {
+                    "category":4,
+                    "name":"mediacodec-handle-resolution-change",
+                    "value":"1"
+                },
+                {
+                    "category":4,
+                    "name":"mediacodec-hevc",
+                    "value":"1"
+                },
+                {
+                    "category":1,
+                    "name":"dns_cache_timeout",
+                    "value":"600000000"
+                }
+            ]
+        }
+    ],
+    "ads":[
+        "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd",
+        "mimg.0c1q0l.cn",
+        "www.googletagmanager.com",
+        "www.google-analytics.com",
+        "mc.usihnbcq.cn",
+        "mg.g1mm3d.cn",
+        "mscs.svaeuzh.cn",
+        "cnzz.hhttm.top",
+        "tp.vinuxhome.com",
+        "cnzz.mmstat.com",
+        "www.baihuillq.com",
+        "s23.cnzz.com",
+        "z3.cnzz.com",
+        "c.cnzz.com",
+        "stj.v1vo.top",
+        "z12.cnzz.com",
+        "img.mosflower.cn",
+        "tips.gamevvip.com",
+        "ehwe.yhdtns.com",
+        "xdn.cqqc3.com",
+        "www.jixunkyy.cn",
+        "sp.chemacid.cn",
+        "hm.baidu.com",
+        "s9.cnzz.com",
+        "z6.cnzz.com",
+        "um.cavuc.com",
+        "mav.mavuz.com",
+        "wofwk.aoidf3.com",
+        "z5.cnzz.com",
+        "xc.hubeijieshikj.cn",
+        "tj.tianwenhu.com",
+        "xg.gars57.cn",
+        "k.jinxiuzhilv.com",
+        "cdn.bootcss.com",
+        "ppl.xunzhuo123.com",
+        "xomk.jiangjunmh.top",
+        "img.xunzhuo123.com",
+        "z1.cnzz.com",
+        "s13.cnzz.com",
+        "xg.huataisangao.cn",
+        "z7.cnzz.com",
+        "xg.huataisangao.cn",
+        "z2.cnzz.com",
+        "s96.cnzz.com",
+        "q11.cnzz.com",
+        "thy.dacedsfa.cn",
+        "xg.whsbpw.cn",
+        "s19.cnzz.com",
+        "z8.cnzz.com",
+        "s4.cnzz.com",
+        "f5w.as12df.top",
+        "ae01.alicdn.com",
+        "www.92424.cn",
+        "k.wudejia.com",
+        "vivovip.mmszxc.top",
+        "qiu.xixiqiu.com",
+        "cdnjs.hnfenxun.com",
+        "cms.qdwght.com"
+    ],
+    "wallpaper":"https://tool.weetai.cn/api",
+    //"spider":"http://我不是.肥猫.love:63/Jar/panda230130.jar;md5;CBDD0FBC4C46D813B2910CB876EE407E"
+    "spider":"https://store.heytapimage.com/cdo-portal/feedback/202302/02/e3657d7bb53ea43f992e361544f21f1c.png;md5;da6cba61d843301ee6c0d5b34a18992e"
+}
