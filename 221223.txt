@@ -6,6 +6,18 @@
 
 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e4%b9%90%e7%8c%aaXP.json"}, 
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
+{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"},
+{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
+{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"},
+{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"},
+     {
+            "key":"drpy_js_超前点播",
+            "name":"[JS]超前点播",
+            "type":3,
+            "api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js",
+            "ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
+        },
     {
               "key":"csp_xbb_奈菲影院",
               "name":"🍀奈菲影院",
@@ -35,19 +47,17 @@
         }
       }
     },
-     {
-            "key":"drpy_js_超前点播",
-            "name":"[JS]超前点播",
-            "type":3,
-            "api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js",
-            "ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
-        },
-{"key":"drpy_js_腾云驾雾","name":"官源 | 腾讯[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/腾云驾雾.js"},
-{"key":"drpy_js_奇珍异兽","name":"官源 | 爱奇艺[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"官源 | 优酷[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
-{"key":"drpy_js_百忙无果","name":"官源 | 芒果[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/百忙无果.js"},
-{"key":"drpy_js_菜狗","name":"官源 | 搜狗[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/菜狗.js"},
 {"key":"drpy_js_乐猪TV","name":"影视 | 乐猪TV[js]","type":3,"api":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy2.min.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/乐猪TV.js"},
+{"key":"csp_xBPQ_ 零零七","name":"🍀零零七（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"},
+{"key":"csp_XYQHiker_片库","name":"🌌片库(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/xyqh_片库.json"},
+{"key":"csp_XYQHiker_艾斯影院","name":"🌌艾斯影院(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/xyqh_艾斯影院.json"},
+{"key":"csp_XYQHiker_奈飞中文","name":"🌌奈飞中文(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/xyqh_奈飞中文.json"},
+{"key":"csp_XYQHiker_零度影视","name":"🌌零度影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/xyqh_零度影视.json"},
+{"key":"csp_Ysgc","name":"🎥影视工厂〔SP〕","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bttoo","name":"✌两个BT〔SP〕","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Cokemv","name":"🚗可乐影视〔SP〕","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Bd","name":"☀️哔嘀影视〔SP〕","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
   {"key": "csp_CZSPP","name": "🏭厂长资源","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 0},
   {"key": "Smdyy","name": "🐎神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key":"csp_xBPQ_韩剧堆","name":"韩剧堆","type":3,"api": "csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://hanjudui.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html"},
