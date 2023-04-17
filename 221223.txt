@@ -259,13 +259,6 @@
     ]
     },
     {
-    "key":"drpy_007",
-    "name":"影视┃007",
-    "type":3,
-    "api":"http://tvmvip110.club/tv/box/js/lib/drpy2.min.js",
-    "ext":"http://tvmvip110.club/tv/box/js/007.js"
-    },
-    {
               "key":"csp_xbb_奈菲影院",
               "name":"🍀奈菲影院",
               "api":"csp_XBiubiu",
