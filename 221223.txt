@@ -18,6 +18,13 @@
             "api":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/lib/drpy.min.js",
             "ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/JS/js/%E8%B6%85%E5%89%8D%E7%82%B9%E6%92%AD.js"
         },
+    {
+    "key":"drpy_007",
+    "name":"影视┃007",
+    "type":3,
+    "api":"http://tvmvip110.club/tv/box/js/lib/drpy2.min.js",
+    "ext":"http://tvmvip110.club/tv/box/js/007.js"
+    },
 {"key":"新片热播","name":"热播剧","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
     {
     "key":"drpy_狗狗",
