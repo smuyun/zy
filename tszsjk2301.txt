@@ -45,8 +45,8 @@
 {"name":"霹雳影视","url":"https://plyingshi.com/api.php/v1.vod"}, 
 {"name":"明帝影视","url":"https://ys.md214.cn/api.php/app/"}, 
 {"name": "萌蛋蛋","url": "http://app.mengdandan.com/xgapp.php/v1/"},
- {"name":"布雷","url":"http://36.170.49.206:1818/api.php/app/"},
- {"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},
+{"name":"布雷","url":"http://36.170.49.206:1818/api.php/app/"},
+{"name":"天天影院","url":"https://www.ttmja.com/api.php/app/"},
 {"name":"UM影院","url":"https://www.umkan.cc/mogai_api.php/v1.vod"},
 {"name":"旧梦影视","url":"http://43.139.139.17:4433/api.php/app/"},
 {"name":"青年影视","url":"https://qny4.top/api.php/app/"},
@@ -79,7 +79,6 @@
 {"name":"鑫悦影院","url":"http://www.shagyn.mom/api.php/v1.vod"},
 {"name":"天天视频","url":"http://app.qianju.cc/api.php/v1.vod"},
 {"name":"悟空影院","url":"http://dapi.pntao.com/api.php/v1.vod"},
-
 {"name":"玖卿乐播","url":"https://vod.nqcode.cn/api.php/v1.vod"}
 ],
 
@@ -93,24 +92,16 @@
 {"name":"U酷资源","url":"https://api.ukuapi.com/api.php"},
 {"name":"1080资源库","url":"https://api.1080zyku.com/inc/api_mac10.php"},
 {"name":"TOM资源","url":"https://api.tomcaiji.com/api.php"},
-
- {"name":"susong在线影视","url":"http://150.158.102.76/api.php/"},
-
- {"name":"醉璃笙TV","url":"http://164.88.188.138/api.php/iptv/vod/"},
- 
- {"name":"艾旦影视","url":"https://lovedan.net/api.php/"},
- {"name":"哆咪影视","url":"https://www.vbuyu.cn/api.php/"},
-
+{"name":"susong在线影视","url":"http://150.158.102.76/api.php/"},
+{"name":"醉璃笙TV","url":"http://164.88.188.138/api.php/iptv/vod/"},
+{"name":"艾旦影视","url":"https://lovedan.net/api.php/"},
+{"name":"哆咪影视","url":"https://www.vbuyu.cn/api.php/"},
 {"name":"U酷资源","url":"https://api.ukuapi.com/api.php/"},
-
 {"name":"1080资源库","url":"https://api.1080zyku.com/inc/api_mac10.php/"}, 
 {"name":"酷点","url":"http://kudianzy.com/api.php/"},
- 
 {"name":"乐活影视","url":"https://lehootv.com/api.php/"},
 {"name":"最大资源","url":"http://zuidazy.me/api.php/"}, 
- {"name":"ikun资源","url":"https://ikunzyapi.com/api.php/"},
- 
-
+{"name":"ikun资源","url":"https://ikunzyapi.com/api.php/"},
 {"name":"飞速资源{有广告}","url":"https://www.feisuzy.com/api.php/"}, 
 {"name":"光速资源","url":"https://api.guangsuapi.com/api.php/"}, 
 {"name":"快播资源{有广告}","url":"http://www.kuaibozy.com/api.php/"},
@@ -119,53 +110,43 @@
 {"name":"天堂资源","url":"http://vipmv.cc/api.php/"}, 
 {"name":"三级2号〔Z〕","url":"http://phoebe.cf/api.php/iptv/vod/"},
 {"name":"酷点","url":"http://kudianzy.com/api.php"}],
+{"name":"卧龙资源{有广告}","url":"https://collect.wolongzyw.com/api.php/"}
+],
 
-{"name":"卧龙资源{有广告}","url":"https://collect.wolongzyw.com/api.php/"}],
 "zhujiexi":[
+
 {"name":"小苹果","url":"http://j.grelighting.cn/parser/?url="},
 {"name":"主解1","url":"https://api.json.icu/api/?key=1d3834a00ca4c8680910a543c2968a26&url="}, 
 {"name":"新云","url":"https://json.key521.cn/api/?key=a161dfbdceebcd60c72bc1a87b1f3281&url="},
-
 {"name":"解析","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
- {"name": "主解","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
- {"name": "主解析","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
- {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
-
+{"name": "主解","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
+{"name": "主解析","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
+{"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
 {"name": "解析10","type": 1,"url": "https://www.1920lgzy.top/json.php?url="},
 ],
 
 "beiyongjiexi": [
 {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
- {"name":"少泽影客","url":"https://jx1.idcdr.com/111/555/?url="},
- {"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="}, 
- {"name":"臭蛋蛋","url":"https://bfq.cddys.vip/bfq/?url="},
- 
- {"name":"8k","url":"http://www.8kvod.com/player/?url="},
- {"name":"喵影视","url":"http://www.miaoys.cc/vip/?url="},
- {"name":" 橙皮","url":"https://www.cplive.icu/mplayer/?url="},
- 
- {"name":"blskk","url":"https://www.kuaikanys.net/jiexi/jiexi-gf/?url="},
- {"name":"1","url":"https://jx.777jiexi.com/player/?url="},
- {"name":"爱看","url":"https://jx1.idcdr.com/111/555/?url="},
- {"name":"夜幕","url":"https://www.yemu.xyz/?url="},
- {"name":"B站1","url":"https://jx.jsonplayer.com/player/?url="},
- {"name":"jsonplayer","url":"https://alijx.ddml.xyz/api.php?url="},
- {"name": "002","url":"https://jxdp.codermart.net/?url="},
-
- {"name": "解析7","type": 0,"url": "https://api.okjx.cc:3389/jx.php?url="},
- 
+{"name":"少泽影客","url":"https://jx1.idcdr.com/111/555/?url="},
+{"name":"综合/B站","url":"https://jx.jsonplayer.com/player/?url="}, 
+{"name":"臭蛋蛋","url":"https://bfq.cddys.vip/bfq/?url="},
+{"name":"8k","url":"http://www.8kvod.com/player/?url="},
+{"name":"喵影视","url":"http://www.miaoys.cc/vip/?url="},
+{"name":" 橙皮","url":"https://www.cplive.icu/mplayer/?url="},
+{"name":"blskk","url":"https://www.kuaikanys.net/jiexi/jiexi-gf/?url="},
+{"name":"1","url":"https://jx.777jiexi.com/player/?url="},
+{"name":"爱看","url":"https://jx1.idcdr.com/111/555/?url="},
+{"name":"夜幕","url":"https://www.yemu.xyz/?url="},
+{"name":"B站1","url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"jsonplayer","url":"https://alijx.ddml.xyz/api.php?url="},
+{"name": "002","url":"https://jxdp.codermart.net/?url="},
+{"name": "解析7","type": 0,"url": "https://api.okjx.cc:3389/jx.php?url="},
 {"name":"诺讯","url":"https://www.nxflv.com/?url="},
-
 {"name":"blsmm","url":"http://www.miaoys.cc/vip/?url="}, 
 {"name":"全民","url":"https://jx.blbo.cc:4433/?url="},
-
-
-
-
-
-
 ],
-"dianshizhibo": "https://cdn.staticaly.com/gh/tvbw/mytv/main/tv88",
+
+"dianshizhibo": "https://agit.ai/smy/tv/raw/branch/main/1101.txt",
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 "guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
 
@@ -6233,6 +6214,6 @@
 "播放剧集标题": ">$$<",
 "播放剧集链接": "href=\"$$\"",
 "播放剧集链接前缀": "空",
-"播放剧集链接后缀": "空"}
+"播放剧集链接后缀": "空"},
 ]
 }
