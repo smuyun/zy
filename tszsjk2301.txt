@@ -160,7 +160,7 @@
 
 
 ],
-"dianshizhibo": "https://cdn.staticaly.com/gh/tvbw/mytv/main/tv88",
+"dianshizhibo": "https://agit.ai/smy/tv/raw/branch/main/1101.txt",
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 "guolvdizhi": ".html#51.la#?url=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
 
