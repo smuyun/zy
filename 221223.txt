@@ -76,10 +76,10 @@
     "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","演员"]
     }, 
     {
-    "key":"zy_飞速资源",
-    "name":"飞速资源",
+    "key":"zy_卧龙资源",
+    "name":"卧龙资源",
     "type":1,
-    "api":"https://www.feisuzyapi.com/api.php/provide/vod/",
+    "api":"https://collect.wolongzyw.com/api.php/provide/vod/",
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
