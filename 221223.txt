@@ -4,7 +4,7 @@
 
 "sites": [
 
-{"key":"zy_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
     {
     "key":"zy_乱舞8",
     "name":"影视┃图图",
