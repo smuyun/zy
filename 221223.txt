@@ -26,6 +26,13 @@
     "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","记录片","台湾剧","韩国剧","日本剧","海外剧","泰国剧","伦理片","体育","足球","篮球","网球","斯诺克","演员"]
     },
   {
+    "name": "77影视",
+    "searchurl": "https://api.kunyu77.com/api.php/provide/searchVideo?pcode=040110002&version=1.8.5&package=com.idianVideo.app.android&sys=android&sysver=10&brand=vivo&model=V2136A&devid=5d6195167c4268ee03ac61044e453f74&sj=1672647882&searchName=",
+    "searchua": "okhttp/3.12.0",
+    "detailurl": "https://api.kunyu77.com/api.php/provide/videoPlaylist?pcode=040110002&version=1.8.5&package=com.idianVideo.app.android&sys=android&sysver=10&brand=vivo&model=V2136A&devid=5d6195167c4268ee03ac61044e453f74&sj=1672647882&ids=",
+    "detailua": "okhttp/3.12.0"
+  },
+  {
     "key":"zy_ikun资源",
     "name":"ikun影视",
     "type":1,
