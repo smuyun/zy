@@ -16,16 +16,6 @@
     "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]
     },
   {
-    "key":"zy_77影视",
-    "name":"77影视",
-    "type":3,
-    "api":"https://api.kunyu77.com/api.php/provide/vod/",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "categories":["最新","电影","电视剧","综艺","动漫"]
-    },
-  {
     "key":"zy_lziapi",
     "name":"量子影视",
     "type":1,
