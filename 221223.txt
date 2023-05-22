@@ -18,7 +18,7 @@
   {
     "key":"zy_77影视",
     "name":"77影视",
-    "type":1,
+    "type":3,
     "api":"https://api.kunyu77.com/api.php/provide/vod/",
     "searchable":1,
     "quickSearch":1,
