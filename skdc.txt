@@ -13,7 +13,7 @@
 "name": "YT线路"
 },
 {
-"url": "http://api.iqinu.com/app/conf/tv.json",
+"url": "http://api.lotics.com",
 "name": "QB线路"
 },
 {
