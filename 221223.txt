@@ -16,15 +16,6 @@
     "filterable":1,
     "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]
     },
-    {
-       "key": "77",
-       "name": "KUYUN77",
-       "type": 3,
-       "api": "csp_Kunyu77",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1 ,"jar": "https://download.kstore.space/download/3376/77.jar;md5; FAEEBD2B655F4340D2AF251A4055C1FE"
-     },
   {
     "key":"zy_lziapi",
     "name":"量子影视",
@@ -659,47 +650,6 @@
       "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
       "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%90%B8%E7%93%9C.js"
         },
-  {
-      "key": "MissAV",
-      "name": "MissAV",
-      "type": 3,
-      "api": "csp_Miss",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Jable",
-      "name": "Jable",
-      "type": 3,
-      "api": "csp_Jable",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Supjav",
-      "name": "Supjav",
-      "type": 3,
-      "api": "csp_Supjav",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Hanime",
-      "name": "Hanime",
-      "type": 3,
-      "api": "csp_Hanime",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "madouse.la",
-      "name": "成人01",
-      "type": 1,
-      "api": "http://madouse.la/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },      
     {
       "key": "❤速度资源",
       "name": "❤速度资源",
