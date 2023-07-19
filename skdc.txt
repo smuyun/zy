@@ -13,8 +13,12 @@
 "name": "YT线路"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/221223.txt",
+"url":"https://agit.ai/smy/zy/raw/branch/master/221222.txt",
 "name": "SS2"
+},
+{
+"url":"https://agit.ai/smy/zy/raw/branch/master/221223.txt",
+"name": "SS3"
 },
 {
 "url":"https://agit.ai/smy/zy/raw/branch/master/TSJK.txt",
