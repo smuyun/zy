@@ -206,13 +206,13 @@
 {"name":"主解2","url":"https://api.tyun77.cn/api.php/provide/parserUrl?url="},
 {"name":"肥猫官解","url":"https://vip.ckllk.com/API.php?appkey=404164cdd1472561b4c61f1845e0bff8&url="},
 {"name":"主解3","url":"http://xxx.com?url="},
-{"name":"江湖主解析","url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="}.
+{"name":"江湖主解析","url": "http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"解析","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
  {"name": "主解4","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
  {"name": "主解5","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
  {"name":"懒懒1","url":"http://lanlan.ckflv.cn/?url="},
 
-{"name": "解析10","type": 1,"url": "https://www.1920lgzy.top/json.php?url="},
+{"name": "解析10","type": 1,"url": "https://www.1920lgzy.top/json.php?url="}
 ],
 
 "beiyongjiexi": [
@@ -256,13 +256,7 @@
 {"name":"诺讯","url":"https://www.nxflv.com/?url="},
 
 {"name":"blsmm","url":"http://www.miaoys.cc/vip/?url="}, 
-{"name":"全民","url":"https://jx.blbo.cc:4433/?url="},
-
-
-
-
-
-
+{"name":"全民","url":"https://jx.blbo.cc:4433/?url="}
 ],
 "dianshizhibo": "https://agit.ai/smy/tv/raw/branch/main/1101.txt",
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
