@@ -610,7 +610,12 @@
 		"name": "Web聚合",
 		"type": 3,
 		"url": "Web"
-	}, {
+	}, 
+  {"name":"影探A","type": 1,"url":"https://vip.xiaomaomi.tv/api.php?key=afkrtuyDGHLMPTV567&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku", "优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+  {"name":"影探C","type": 1,"url":"https://kk.hdjh.xyz/home/api?type=ys&uid=5282164&key=cdfqstuwCFJSTWX679&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku", "优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},  
+ {"name":"影探D","type": 1,"url":"https://c.jonwer.cn/home/api?type=ys&uid=13139054&key=cdouvyDGNOPTV01369&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku", "优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},  
+ { "name": "影探E","type": 1,"url":"https://mg.zrjx.xyz/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku", "优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},  
+{
 		"name": "小新",
 		"type": 1,
 		"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=1442306&key=gmnrvwyCEGHKMNRT18&url=",
