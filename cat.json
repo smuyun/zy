@@ -3,13 +3,13 @@
     "sites": [
    {
         "key": "ikanbot",
-        "name": "猫佬丨爱看【国内】",
+        "name": "猫佬丨爱看",
         "type": 3,
         "api": "assets://js/ikanbot_open.js"
 }, 
    {
         "key": "kkys",
-        "name": "猫佬丨快看【国内】",
+        "name": "猫佬丨快看",
         "type": 3,
         "api": "assets://js/kkys_open.js"
 },
