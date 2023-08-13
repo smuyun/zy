@@ -34,7 +34,7 @@
 },
 {
 "url":"https://agit.ai/smy/zy/raw/branch/master/wljk2.txt",
-"name": "网络接口1"
+"name": "网络接口2"
 },
 {
 "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
