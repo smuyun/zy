@@ -13,7 +13,15 @@
 {"key":"小猫咪","name":"🐈小猫咪(官)🎷","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"http://xiaomaomi.cc/player/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_xml_小猫咪","name":"🐝小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","综合频道"]},
 {"key":"csp_Ysgc","name":"🎥影视工厂〔SP〕","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"影探","name":"👿影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ytcms.lfytyl.com/api.php/app/"},
+{
+    "key":"影探4K",
+    "name":"影探",
+    "type": 3,
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext":"http://long123.lfytyl.com/api.php/app/"},
 {"key":"csp_WoGG","name":"👽玩偶影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 {
             "key":"XBPQ_fant",
