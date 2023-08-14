@@ -23,6 +23,7 @@
     "filterable":1,
     "ext":"http://long123.lfytyl.com/api.php/app/"},
 {"key":"csp_WoGG","name":"👽玩偶影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
+{"key":"csp_WoGG","name": "🚛玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"./ali.jar"},
 {
             "key":"XBPQ_fant",
             "name":"🍙┃饭团┃影视",
