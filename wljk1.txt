@@ -312,6 +312,8 @@
       "searchable": 1,
       "filterable": 1
     },
+    {"key":"18AV","name":"18AV","type":1,"api":"https://agit.ai/smy/zy/raw/branch/master/JS/js/18av_open.js","searchable":0,"quickSearch":0},
+    {"key":"蜜桃视频","name":"蜜桃视频","type":1,"api":"hhttps://agit.ai/smy/zy/raw/branch/master/JS/js/mtsp_open.js","searchable":0,"quickSearch":0},
     {"key":"❤91麻豆","name":"❤91麻豆源","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
     {
       "key": "❤色窝资源",
