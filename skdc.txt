@@ -58,14 +58,6 @@
 "name": "820线路"
 },
 {
-"url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
-"name": "分享者线路"
-},
-{
-"url": "https://ju.binghe.ga/4.txt",
-"name": "冰河线路"
-},
-{
 "url": "http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
 "name": "线路④③"
 },
