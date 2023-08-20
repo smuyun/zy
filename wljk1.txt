@@ -493,7 +493,7 @@
       "key": "蜜桃视频",
       "name": "蜜桃视频",
       "type": 1,
-      "api": "http://mt88.pw/api.php/provide/vod/",
+      "api": "https://mtspw.app/api.php/provide/vod/",
       "searchable": 0,
       "quickSearch": 0
     },
