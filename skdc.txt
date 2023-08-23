@@ -29,6 +29,10 @@
 "name": "网络接口2"
 },
 {
+"url":"https://agit.ai/smy/zy/raw/branch/master/csjk.txt",
+"name": "测试接口"
+},
+{
 "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
 "name": "肥猫Panda"
 },
