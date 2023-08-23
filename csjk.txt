@@ -1,6 +1,8 @@
 {
 
-//数据接口
+"spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/Yoursmile.jar;md5;EC14722944CB094619829A8824876D73",
+	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+
 
 "sites": [
 
@@ -1411,7 +1413,5 @@
         "qiu.xixiqiu.com",
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
-    ],
-    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-    //"spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/Yoursmile.jar;md5;EC14722944CB094619829A8824876D73",
+    ]
 }
