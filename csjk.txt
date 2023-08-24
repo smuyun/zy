@@ -1,11 +1,7 @@
 {
-
 "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/Yoursmile.jar;md5;EC14722944CB094619829A8824876D73",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-
-
+"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "sites": [
-
 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
     {
@@ -28,15 +24,6 @@
     "filterable":1,
     "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","记录片","台湾剧","韩国剧","日本剧","海外剧","泰国剧","伦理片","体育","足球","篮球","网球","斯诺克","演员"]
     },
-{
-    "key":"影探4K",
-    "name":"影探",
-    "type": 3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext":"http://long123.lfytyl.com/api.php/app/"},
 {"key":"csp_WoGG","name":"👽玩偶影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
   {
     "key":"zy_ikun资源",
