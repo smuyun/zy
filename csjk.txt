@@ -96,6 +96,12 @@
       "ext": "459b1cb892e317546676a2c9dcec2bff"
     },
     {
+      "key":"subaibai",
+      "name":"素白白[cat]",
+      "type":3,
+      "api":"./cat/subaibai_open.js"
+    },
+    {
     "key":"影探4K",
     "name":"影探",
     "type": 3,
