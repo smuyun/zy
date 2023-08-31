@@ -36,11 +36,12 @@
     "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","记录片","台湾剧","韩国剧","日本剧","海外剧","泰国剧","动画片","惊悚片","家庭片","古装片","历史片","短片","伦理片"]
     }, 
     {"key":"t4_wo","name":"🚛玩偶┃T4","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=94fd5ab297e24a769bb762375118ec47","searchable":1,"quickSearch":1,"filterable":1},
-    {
+{
       "key": "腾讯资源",
       "name": "️🐧腾讯|影视",
-      "type": 3,
+      "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
+      "playUrl": "https://jxdp.codermart.net/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -70,8 +71,9 @@
     {
       "key": "芒果资源",
       "name": "️🥭芒果|影视",
-      "type": 3,
+      "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
+      "playUrl": "https://vip.lianfaka.com/vip/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
