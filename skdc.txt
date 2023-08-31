@@ -21,6 +21,10 @@
 "name": "TS线路"
 },
 {
+"url":"https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt",
+"name": "精选线路"
+},
+{
 "url":"https://agit.ai/smy/zy/raw/branch/master/wljk1.txt",
 "name": "网络接口1"
 },
