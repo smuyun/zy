@@ -36,6 +36,16 @@
     },
 {"key":"jp","name":"秒播┃荐片","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
 {"key":"ruyi","name":"APP┃如意","type": 3,"api": "csp_App","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
+{"key":"csp_如意4K","name":" 💫如意 ","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
+  {
+    "key": "SD-4K",
+    "name": "SD-4K",
+    "type":1,
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "api": "http://api.sd4k.cc:666/api/cj.php/?key=Vj6beRtOhkWDFMxxN7&ac=list"
+  },
   {
       "key": "极速资源lz",
       "name": "🌸SP┃极速资源一",
