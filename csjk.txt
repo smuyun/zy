@@ -36,16 +36,6 @@
     },
 {"key":"jp","name":"秒播┃荐片","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
 {"key":"ruyi","name":"APP┃如意","type": 3,"api": "csp_App","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
-{"key":"csp_如意4K","name":" 💫如意 ","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://cms.maoyingshi.cc/api.php/app/"},
-  {
-    "key": "SD-4K",
-    "name": "SD-4K",
-    "type":1,
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "api": "http://api.sd4k.cc:666/api/cj.php/?key=Vj6beRtOhkWDFMxxN7&ac=list"
-  },
   {
       "key": "极速资源lz",
       "name": "🌸SP┃极速资源一",
@@ -864,7 +854,6 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name":"Ok2","type":0,"url":"https://z1.m1907.cn/?a=1&jx="},
-{"name":"如意","type":1,"url":"https://api.sd4k.cc:666?url=","ext":{"flag":["ltnb","ruyi"]}},
 {"name": "影探","type": 1,"url": "http://lflong.lyyytv.cn/json.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
