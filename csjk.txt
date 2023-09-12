@@ -34,6 +34,10 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"ali_Wogg","name":"搜索┃玩偶WG","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"jp","name":"秒播┃荐片","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
+{"key":"ruyi","name":"APP┃如意","type": 3,"api": "csp_App","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
+{"key": "qqVoflix","name": "爬虫┃QQVOFLIX","type": 3,"api": "csp_MyQQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://f.haocew.com/TVBox/1/MaooXB/QQ_VOFLIX.json"},
   {
       "key": "极速资源lz",
       "name": "🌸SP┃极速资源一",
