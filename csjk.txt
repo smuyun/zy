@@ -4,6 +4,9 @@
 "sites": [
 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_QQ","name":"🐧腾讯视频💎","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/smy/zy/raw/branch/master/0804.jar"},
+{"key": "爱奇艺","name":"🍦爱奇艺💎","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar": "https://agit.ai/smy/zy/raw/branch/master/0804.jar"},
+{"key": "csp_MGTV","name":"🍊芒果TV💎","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/smy/zy/raw/branch/master/0804.jar"},
     {
     "key":"zy_乱舞8",
     "name":"影视┃图图",
