@@ -854,7 +854,7 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name":"Ok2","type":0,"url":"https://z1.m1907.cn/?a=1&jx="},
-{"name":"如意","type":1,"url":"https://api.sd4k.cc:6666?url=","ext":{"flag":["ltnb","ruyi"]}},
+{"name":"如意","type":1,"url":"https://api.sd4k.cc:666?url=","ext":{"flag":["ltnb","ruyi"]}},
 {"name": "影探","type": 1,"url": "http://lflong.lyyytv.cn/json.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
 {"name":"xmflv","type":0,"url":"https://jx.xmflv.com/?url="},
