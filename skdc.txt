@@ -41,6 +41,10 @@
 "name": "测试接口"
 },
 {
+"url":"https://agit.ai/smy/zy/raw/branch/master/xyxl.txt",
+"name":"小雅"
+},
+{
 "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
 "name": "肥猫Panda"
 },
