@@ -49,8 +49,8 @@
 "name": "线路20"
 },
 {
-"url": "http://52bsj.vip:98/wuai",
-"name": "吾爱"
+"url": "http://饭太硬.top/tv",
+"name": "饭太硬"
 },
 {
 "url": "https://weixine.net/ysc.json",
