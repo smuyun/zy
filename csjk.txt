@@ -324,10 +324,10 @@
              "ext":"http://panghuys.com/vodshow/{cateId}/page/{catePg}.html"
         },
 {
-        "key": "alist",
-        "name": "Alist",
-        "type": 40,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/alist_open.js",
+        "key":"csp_Alist",
+        "name":"Alist",
+        "type":3,
+        "api":"https://agit.ai/smy/zy/raw/branch/master/alist_open.js",
         "ext": [
           {
             "name": "🙋丫仙女",
