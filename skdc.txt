@@ -41,7 +41,7 @@
 "name": "测试接口"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/xyxl.txt",
+"url":"http://101.34.67.237/config/2",
 "name":"小雅"
 },
 {
