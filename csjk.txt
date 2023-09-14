@@ -25,6 +25,7 @@
     "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","记录片","台湾剧","韩国剧","日本剧","海外剧","泰国剧","伦理片","体育","足球","篮球","网球","斯诺克","演员"]
     },
 {"key":"csp_WoGG","name":"👽玩偶影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
+{"key": "影探vip","name": "影探vip","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/yt_open.js","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://ytcms.lyyytv.cn/api.php/app/"},
   {
       "key": "快看影视",
       "name": "🌸SP | 快看",
