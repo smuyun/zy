@@ -25,6 +25,10 @@
 "name": "精选线路"
 },
 {
+"url":"https://agit.ai/smy/zy/raw/branch/master/yt1.txt",
+"name": "精选线路1"
+},
+{
 "url":"https://agit.ai/smy/zy/raw/branch/master/wljk1.txt",
 "name": "网络接口1"
 },
@@ -40,7 +44,6 @@
 "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
 "name": "肥猫Panda"
 },
-
 {
 "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
 "name": "线路20"
