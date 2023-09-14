@@ -352,7 +352,7 @@
         "🕵️好汉吧": "https://8023.haohanba.cn",
         "💢repl": "https://ali.liucn.repl.co",
         "🌨秋雨分享": "https://share.laowang.me",
-        "🔞罗汉果": "https://lala-ofbip.run.goorm.site/"
+        "🔞罗汉果": "https://lala-ofbip.run.goorm.site/",
         "💦讯维云盘": "https://pan.xwbeta.com"
       }
     },
