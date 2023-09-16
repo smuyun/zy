@@ -85,6 +85,18 @@
 "name": "CR线路"
 },
 {
+"url":"https://agit.ai/smy/zy/raw/branch/master/thzx.txt",
+"name": "FL1线路"
+},
+{
+"url": "https://ghproxy.com/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json",
+"name": "FL2线路"
+},
+{
+"url": "https://pan.shangui.cc/f/6pKZtp/%E7%A6%8F%E5%88%A92.txt",
+"name": "FL3线路"
+},
+{
 "url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
 "name": "线路④⑨"
 }
