@@ -51,9 +51,8 @@
 {
       "key": "腾讯资源",
       "name": "️🐧腾讯|影视",
-      "type": 3,
+      "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
-      "playUrl": "http://pandown.pro/app/kkdy.php?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -85,7 +84,6 @@
       "name": "️🥭芒果|影视",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/mgtv/?at/xml/",
-      "playUrl": "http://pandown.pro/app/kkdy.php?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
