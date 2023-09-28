@@ -89,10 +89,6 @@
 "name": "CR2线路"
 },
 {
-"url": "https://agit.ai/smy/zy/raw/branch/master/xjzb.txt",
-"name": "ZB线路"
-},
-{
 "url":"https://agit.ai/smy/zy/raw/branch/master/thzx.txt",
 "name": "FL1线路"
 },
