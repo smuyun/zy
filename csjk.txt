@@ -50,7 +50,45 @@
 { "key": "csp_XYQHikerlg4k", "name": "💋云盘4k", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/raw/main/4KHDR.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"}, 
 { "key": "csp_XYQHiker4klg", "name": "💅🏻原盘4k", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 { "key": "csp_XYQHiker_‍dyx", "name": "🚢电影磁力4k", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/dyg.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
-{ "key": "狐狸", "name": "🦊狐狸蓝光", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.kuin.one/api.php/app/" },
+{
+  "key": "dr_ymzz",
+  "name": "👑猫技至尊4K👑",
+  "type": 3,
+  "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+  "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E8%B7%AF%E4%BA%BA%E9%A3%9E.js"},   
+{
+  "key": "dr_ymzx",
+  "name": "👑猫技尊享4K👑",
+  "type": 3,
+  "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+"ext": "https://jihulab.com/ymz1231/js/-/raw/main/猫技尊享.js"},
+{
+"key": "dr_ymry",
+"name": "👑猫技如意4K👑",
+"type": 3,
+"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+"ext": "https://jihulab.com/ymz1231/js/-/raw/main/如意_V2_.js"},        
+{
+"key": "飞",
+"name": "👑猫技云4K👑",
+"type": 3,
+"api": "csp_XBPQ",
+"playerType": "1",
+"ext": "https://jihulab.com/ymz1231/json/-/raw/main/飞云4k.json" }, 
+{
+"key": "ymzy",
+"name": "👑猫技自营蓝光👑",
+"type": 3,
+"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+"ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E8%87%AA%E8%90%A5.js"
+},          
+{"key":"EMO","name":"👑猫技蓝光APP👑","type":3,"api":"csp_AppYsV2","ext":"https://one2.emofun.top/mogai_api.php/v1.vod"},
+{
+"key": "dr_jqr",
+"name": "👑猫技聚影👑",
+"type": 3,
+"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+"ext": "https://jihulab.com/ymz1231/js/-/raw/main/ikan.js"},  
 {
       "key": "Qtv",
       "name": "🐧腾讯┃解析",
