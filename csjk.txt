@@ -125,7 +125,7 @@
       "filterable": 1
     },
 {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"jp","name":"秒播┃荐片","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
+{"key":"jp","name":"荐片","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
 {"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/奇珍异兽.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
 {"key": "drpy_js_优酷","name": "👑优酷","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/优酷.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
 {"key": "drpy_js_腾云驾雾","name": "🐧腾讯","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/腾云驾雾.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
