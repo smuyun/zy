@@ -69,7 +69,7 @@
     },
     {
       "key": "爱奇异",
-      "name": "📛TH┃爱奇艺(官源)",
+      "name": "📛爱奇艺(官源)",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
       "ext": "https://pan.shangui.cc/f/2z4Fx/iqy.js"
