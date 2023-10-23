@@ -21,6 +21,10 @@
 "name": "测试接口"
 },
 {
+"url":"https://agit.ai/smy/zy/raw/branch/master/gqxl.txt",
+"name": "高清线路"
+},
+{
 "url":"https://agit.ai/smy/zy/raw/branch/master/TSJK.txt",
 "name": "TS线路"
 },
