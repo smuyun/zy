@@ -26,40 +26,12 @@
       "ext": "vip.lyyytv.cn",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;f20b74480c058b1ff6236601f92d65a8"
     },
-{
-      "key": "drpy_js_优酷1",
-      "name": "📛TH┃优酷(官源)",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/MY1cy/youku.js"
-    },
-    {
-      "key": "搜狗2",
-      "name": "📛TH┃搜狗(官源)",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/ZXQHv/sougou.js"
-    },
-    {
-      "key": "腾讯2",
-      "name": "📛TH┃腾讯(官源)",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/EV3UD/tengxun.js"
-    },
-    {
-      "key": "爱奇异",
-      "name": "📛爱奇艺(官源)",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js",
-      "ext": "https://pan.shangui.cc/f/2z4Fx/iqy.js"
-    },
-{"key":"jp","name":"荐片","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
 {"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/奇珍异兽.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
 {"key": "drpy_js_优酷","name": "👑优酷","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/优酷.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
 {"key": "drpy_js_腾云驾雾","name": "🐧腾讯","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/腾云驾雾.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
 {"key": "drpy_js_百忙无果","name": "🥭芒果","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/百忙无果.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
 {"key": "drpy_js_菜狗","name": "🐭搜狗","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/菜狗.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
+{"key":"jp","name":"荐片","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
   {"key":"韩剧资源","name":"韩剧资源(切)","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"77韩剧","name":"77韩剧(佰欣园)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},  
 {
