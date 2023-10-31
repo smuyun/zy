@@ -324,16 +324,6 @@
         "欧美综艺"
       ]
     },
-    {
-      "key": "csp_XBPQ_6V",
-      "name": "4k┃影音┃天堂",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/新6v.json"
-    },
         {
       "key": "zxzj",
       "name": "📗┃在线┃2K",
