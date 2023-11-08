@@ -86,7 +86,11 @@
 },
 {
 "url":"https://agit.ai/smy/zy/raw/branch/master/thzx.txt",
-"name": "挺好线路"
+"name": "挺好线路1"
+},
+{
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/thzx1.json",
+"name": "挺好线路2"
 },
 {
 "url": "https://pan.shangui.cc/f/6pKZtp/%E7%A6%8F%E5%88%A92.txt",
