@@ -525,15 +525,6 @@
 {"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
   {"key":"4K狗","name":"4K狗(聚)","type":1,"api":"http://4kdog.tk/api.php/provide/vod/","searchable":1,"quickSearch":1},
   {"key":"韩剧资源","name":"韩剧资源(切)","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-    {
-    "key":"zy_77韩剧",
-    "name":"77韩剧",
-    "type":1,
-    "api":"https://www.77hanju.com/api.php/provide/vod/",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "categories":["最新","电影","韩剧","综艺"]},
   {"key":"77韩剧","name":"77韩剧(佰欣园)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
             {
             "key":"Kuaikan",
