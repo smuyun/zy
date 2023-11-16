@@ -8,6 +8,4 @@
 {"name":"挺好专享2","url":"https://pan.shangui.cc/f/N0eASj/%E6%8C%BA%E5%A5%BD%E4%B8%93%E4%BA%AB2.txt&&&https://mpimg.cn/view.php/9653d2cd9d584c6999f07beb322e4778.png"},
 {"name":"挺好专享3","url":"https://pan.shangui.cc/f/EozDHD/%E6%8C%BA%E5%A5%BD%E4%B8%93%E4%BA%AB3.txt&&&https://jihulab.com/ztha/ztha/-/raw/main/jpg/3.jpg"},
 {"name":"挺好专享4","url":"https://pan.shangui.cc/f/2p1wtx/%E6%8C%BA%E5%A5%BD%E4%B8%93%E4%BA%AB4.txt&&&https://download.kstore.space/download/4798/%E5%9B%BE%E7%89%87/%E8%80%81%E5%B8%881.jpg"}
-
-
 ]
