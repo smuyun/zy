@@ -1207,8 +1207,6 @@
       "url": "https://agit.ai/smy/tv/raw/branch/main/1102.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
-{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=https://agit.ai/smy/tv/raw/branch/main/1102.txt"]}]},
-"epg":"http://epg.51zmt.top:8000/api/diyp/"
 ],
     "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
