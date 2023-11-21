@@ -609,7 +609,7 @@
                 {
                     "name":"live",
                     "urls":[
-                        "proxy://do=live&type=txt&ext=https://agit.ai/smy/tv/raw/branch/main/1102.txt"
+                        "https://agit.ai/smy/tv/raw/branch/main/1102.txt"
                     ]
                 }
             ]
