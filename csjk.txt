@@ -1207,14 +1207,19 @@
       "filterable": 0,
       "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 	}],
-"lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "url": "https://agit.ai/smy/tv/raw/branch/main/1102.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-    },
-],
+"lives":[
+        {
+            "group":"redirect",
+            "channels":[
+                {
+                    "name":"live",
+                    "urls":[
+                        "https://agit.ai/smy/tv/raw/branch/main/1102.txt"
+                    ]
+                }
+            ]
+        }
+    ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
