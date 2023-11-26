@@ -2,26 +2,6 @@
   "warningText": "MUYUN天地",
   "sites": [
     
-     {
-      "key": "豆豆",
-      "name": "🍥影音天堂",
-      "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "js豆瓣",
-      "name": "🍥影音天堂App",
-      "type": 3,
-      "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/douban.js"
-    },
        {
       "key": "csp_Bttoo",
       "name": "🍄┃比特┃2K",
