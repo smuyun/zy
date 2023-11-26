@@ -49,12 +49,12 @@
 {
       "key": "爱奇艺资源",
       "name": "️🥝爱奇艺|影视",
-      "type": 3,
+      "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qiyi/?at/xml/",
-      "playUrl": "https://jxdp.codermart.net/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "changeable": 1,      
       "categories": [
         "国产剧",
         "韩国剧",
