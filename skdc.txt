@@ -49,6 +49,10 @@
 "name": "网络接口2"
 },
 {
+"url":"https://agit.ai/smy/zy/raw/branch/master/wljk3.txt",
+"name": "网络接口3"
+},
+{
 "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
 "name": "南风线路"
 },
