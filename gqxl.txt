@@ -14,7 +14,7 @@
     },
     {
       "key": "js豆瓣",
-      "name": "🍥影音天堂App下载地址tvbox.vip🍥",
+      "name": "🍥影音天堂App",
       "type": 3,
       "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
       "searchable": 0,
