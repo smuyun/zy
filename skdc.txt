@@ -101,10 +101,6 @@
 "name": "CR1线路"
 },
 {
-"url": "https://agit.ai/smy/zy/raw/branch/master/CR2.txt",
-"name": "CR2线路"
-},
-{
 "url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
 "name": "线路④⑨"
 }
