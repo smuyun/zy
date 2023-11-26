@@ -5,10 +5,6 @@
 "name": "SS1"
 },
 {
-"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-"name": "南风线路"
-},
-{
 "url":"https://agit.ai/smy/zy/raw/branch/master/221222.txt",
 "name": "SS2"
 },
@@ -51,6 +47,10 @@
 {
 "url":"https://agit.ai/smy/zy/raw/branch/master/wljk2.txt",
 "name": "网络接口2"
+},
+{
+"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+"name": "南风线路"
 },
 {
 "url": "https://agit.ai/zw8881/dc/raw/branch/master/ymz/api.json",
