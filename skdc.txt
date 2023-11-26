@@ -25,6 +25,10 @@
 "name": "GONGJIN线路"
 },
 {
+"url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
+"name": "GONGJIN线路1"
+},
+{
 "url":"https://agit.ai/smy/zy/raw/branch/master/gqxl.txt",
 "name": "高清线路"
 },
