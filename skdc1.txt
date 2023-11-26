@@ -1,12 +1,12 @@
 {
     "urls": [
         {
-            "url": "http://yydsys.top/duo",
-            "name": "🏡应用多多家庭版"
+            "url": "https://agit.ai/smy/zy/raw/branch/master/5555.txt",
+            "name": "MY1"
         },
         {
-            "url": "http://cdn.yydsys.top/duo",
-            "name": "🏡应用多多备用"
+            "url": "https://agit.ai/smy/zy/raw/branch/master/gongjin.txt",
+            "name": "MY2"
         },
         {
             "url": "http://yydsys.top/duo/ali",
