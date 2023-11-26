@@ -81,18 +81,6 @@
 "name": "巧技"
 },
 {
-"url": "https://agit.ai/so/gao/raw/branch/master/0820.json",
-"name": "820线路"
-},
-{
-"url": "http://home.jundie.top:81/TVBox/yosakoi.json",
-"name": "线路④⑤"
-},
-{
-"url": "http://home.jundie.top:81/top98.json",
-"name": "线路④⑦"
-},
-{
 "url":"https://agit.ai/smy/zy/raw/branch/master/thzx.txt",
 "name": "挺好线路1"
 },
@@ -103,10 +91,6 @@
 {
 "url": "https://pan.shangui.cc/f/6pKZtp/%E7%A6%8F%E5%88%A92.txt",
 "name": "FL1线路"
-},
-{
-"url": "https://agit.ai/kvinsun/TVBOXZY/raw/branch/main/js.json",
-"name": "线路④⑧"
 },
 {
 "url": "https://agit.ai/smy/zy/raw/branch/master/18.json",
