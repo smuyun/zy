@@ -1,197 +1,38 @@
- "sites": [
-            {
-                "key": "alist",
-                "name": "Alist",
-                "type": 40,
-                "api": "alist_open.js",
-                "ext": [
-                    {
-                        "name": "🙋丫仙女",
-                        "server": "http://alist.xiaoya.pro/",
-                        "startPage": "/",
-                        "showAll": false,
-                        "search": true,
-                        "headers": {
-                            "Authorization": ""
-                        },
-                        "params": {
-                            "/abc": {
-                                "password": "123"
-                            },
-                            "/abc/abc": {
-                                "password": "123"
-                            }
-                        }
-                    },
-{"name":"🔞ASMR语音","server":"https://www.asmrgay.com/"},
-{"name":"🔞大人盘","server": "https://hka.252798.xyz:1443/"},
-{"name":"🔞木偶","server":"https://abnormalize.icu/"},
-  {
-      "name": "🔞A大杂物库",
-      "server": "https://alist.qyide.com/"
-    },
-  {
-      "name": "🔞诸神小盘",
-      "server": "https://pan.zsxg.top/"
-    },
-  {
-      "name": "🔞福利盘",
-      "server": "http://69.161.221.160:5244/"
-    },
-  {
-      "name": "🔞罗汉果",
-      "server": "https://lala-ofbip.run.goorm.site/"
-    },
-{
-     "name": "🔞九T",
-     "server": "https://drive.9t.ee/"
-    },    
-    {
-      "name": "🔞涛涛收藏",
-      "server": "https://alist.eduedu.eu.org/"
-    },
-                    {
-                        "name": "🐋逗比鱼",
-                        "server": "https://dubi.tk/"
-                    },
-                    {
-                        "name": "🪅HTA资源",
-                        "server": "http://test.hta.ink/"
-                    },
-                    {
-                        "name": "⚜️91影视",
-                        "server": "https://alist.91ios.fun/"
-                    },
-                    {
-                        "name": "🎍柠木",
-                        "server": "http://pan.ipafree.top/"
-                    },
-                    {
-                        "name": "📯科技",
-                        "server": "https://pan.kejicode.cn/"
-                    },
-                    {
-                        "name": "🔅清烟",
-                        "server": "https://pan.qlam.cc/"
-                    },
-                    {
-                        "name": "🎇捷径",
-                        "server": "https://alist.jiejingfan.vip/"
-                    },
-                    {
-                        "name": "🌊七米",
-                        "server": "https://al.chirmyram.com"
-                    },
-                    {
-                        "name": "🐉神族",
-                        "server": "https://alist.shenzjd.com"
-                    },
-                    {
-                        "name": "☃️姬路",
-                        "server": "https://pan.jlbx.xyz"
-                    },
-                    {
-                        "name": "✨星梦",
-                        "server": "https://pan.bashroot.top"
-                    },
-                    {
-                        "name": "💢repl",
-                        "server": "https://ali.liucn.repl.co"
-                    },
-                    {
-                        "name": "💦讯维",
-                        "server": "https://pan.xwbeta.com"
-                    },
-                    {
-                        "name": "合集",
-                        "server": "http://www.jczyl.top:5244/"
-                    },
-                     {
-            "name": "🔞罗汉果",
-            "server": "https://lala-ofbip.run.goorm.site/"
-                    },
-                    {
-                        "name": "东哥",
-                        "server": "http://101.34.67.237:5244/"
-                    },
-                    {
-                        "name": "美云",
-                        "server": "https://h.dfjx.ltd/"
-                    },
-                    {
-                        "name": "小新盘",
-                        "server": "https://pan.cdnxin.top/"
-                    },
-                    {
-                        "name": "白云",
-                        "server": "http://breadmyth.asuscomm.com:22222/"
-                    },
-                    {
-                        "name": "小雅",
-                        "server": "http://www.214728327.xyz:5201/"
-                    },
-                    {
-                        "name": "瑶瑶",
-                        "server": "https://lyly.run.goorm.io/"
-                    },
-                    {
-                        "name": "潇洒",
-                        "server": "https://alist.azad.asia/"
-                    },
-                    {
-                        "name": "鹏程",
-                        "server": "https://pan.pengcheng.team/"
-                    },
-                    {
-                        "name": "轻弹",
-                        "server": "http://vtok.pp.ua/"
-                    },
-                    {
-                        "name": "触光",
-                        "server": "https://pan.ichuguang.com"
-                    },
-                    {
-                        "name": "星梦",
-                        "server": "https://pan.bashroot.top"
-                    },
-                    {
-                        "name": "弱水",
-                        "server": "http://shicheng.wang:555/"
-                    },
-                    {
-                        "name": "神器",
-                        "server": "https://alist.ygxz.xyz/"
-                    },
-                    {
-                        "name": "资源",
-                        "server": "https://pan.ecve.cn/"
-                    },
-                    {
-                        "name": "雨呢",
-                        "server": "https://pan.clun.top/"
-                    },
-                    {
-                        "name": "OEIO",
-                        "server": "https://o.oeio.repl.co/"
-                    },
-                    {
-                        "name": "悦享",
-                        "server": "https://nics.eu.org/"
-                    },
-                    {
-                        "name": "分享",
-                        "server": "https://ofoo.ml/"
-                    },
-                    {
-                        "name": "PRO",
-                        "server": "https://alist.prpr.run/"
-                    },
-                    {
-                        "name": "小陈",
-                        "server": "https://ypan.cc/"
-                    }
-                ]
-            }
-        ]
-    }
+ {
+  "xiaoya":"http://www.fenwe.tk:5678",
+  "Disk":"http://124.222.140.243:8080",
+  "一只魚":"https://alist.youte.ml",
+  "七米藍":"https://al.chirmyram.com",
+  "姬路白雪":"https://pan.jlbx.xyz",
+  "小兵":"https://6vv.app",
+  "小江":"https://dyj.me",
+  "小鴨":"http://43.139.29.179:5244",
+  "帥鵬":"https://hi.shuaipeng.wang",
+  "星夢":"https://pan.bashroot.top",
+  "晴園":"https://alist.52qy.repl.co",
+  "木偶":"https://www.kugutsu.ml",
+  "梓澪":"https://xn--i0v44m.xyz",
+  "浩瀚吧":"https://8023.haohanba.cn",
+  "神族九帝":"https://alist.shenzjd.com",
+  "秋雨":"https://share.laowang.me",
+  "米奇":"https://anime.mqmmw.ga",
+  "菊花":"https://pan.142856.xyz",
+  "觸光":"https://pan.ichuguang.com",
+  "資源小站":"https://960303.xyz",
+  "輕彈淺唱":"https://g.xiang.lol",
+  "Adult":"https://drive.9t.ee",
+  "kugutsu":"https://www.kugutsu.ml",
+"🔞大人盘":"https://hka.252798.xyz:1443/",
+"🔞木偶":"https://abnormalize.icu/",
+"🔞A大杂物库":"https://alist.qyide.com/",
+"🔞诸神小盘":"https://pan.zsxg.top/",
+"🔞福利盘":"http://69.161.221.160:5244/",
+"🔞九T":"https://drive.9t.ee/",    
+"🔞涛涛收藏":"https://alist.eduedu.eu.org/",
+  "🔞罗汉果":"https://lala-ofbip.run.goorm.site",
+  "🟡 A大":"https://alist.qyide.com/",
+  "🟡 诸神":"https://pan.zsxg.top/",
+  "🟡 福利":"http://69.161.221.160:5244/",
+  "🟡 爱豆":"https://alist.eduedu.eu.org/",
+  "雲播放": "https://quanzi.laoxianghuijia.cn"
 }
