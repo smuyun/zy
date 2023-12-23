@@ -2003,33 +2003,86 @@
         "isActive": false,
         "id": 35
       },
-      {"name":"🔞ASMR语音","server":"https://www.asmrgay.com/"},
-{"name":"🔞大人盘","server": "https://hka.252798.xyz:1443/"},
-{"name":"🔞木偶","server":"https://abnormalize.icu/"},
-  {
-      "name": "🔞A大杂物库",
-      "server": "https://alist.qyide.com/"
-    },
-  {
-      "name": "🔞诸神小盘",
-      "server": "https://pan.zsxg.top/"
-    },
-  {
-      "name": "🔞福利盘",
-      "server": "http://69.161.221.160:5244/"
-    },
-  {
-      "name": "🔞罗汉果",
-      "server": "https://lala-ofbip.run.goorm.site/"
-    },
-{
-     "name": "🔞九T",
-     "server": "https://drive.9t.ee/"
-    },    
-    {
-      "name": "🔞涛涛收藏",
-      "server": "https://alist.eduedu.eu.org/"
-    },
+      {
+        "name": "🎧听闻网盘",
+        "server": "https://wangpan.sangxuesheng.com",
+        "startPage": "",
+        "search": false,
+        "headers": null,
+        "params": null,
+        "isActive": false,
+        "id": 35
+      },
+      {
+        "name": "🔞大人盘",
+        "server": "https://hka.252798.xyz:1443/",
+        "startPage": "",
+        "search": false,
+        "headers": null,
+        "params": null,
+        "isActive": false,
+        "id": 35
+      },
+      {
+        "name": "🔞木偶",
+        "server": "https://abnormalize.icu/",
+        "startPage": "",
+        "search": false,
+        "headers": null,
+        "params": null,
+        "isActive": false,
+        "id": 35
+      },
+      {
+        "name": "🔞A大杂物库",
+        "server": "https://alist.qyide.com/",
+        "startPage": "",
+        "search": false,
+        "headers": null,
+        "params": null,
+        "isActive": false,
+        "id": 35
+      },
+      {
+        "name": "🔞福利盘",
+        "server": "http://69.161.221.160:5244/",
+        "startPage": "",
+        "search": false,
+        "headers": null,
+        "params": null,
+        "isActive": false,
+        "id": 35
+      },
+      {
+        "name": "🔞罗汉果",
+        "server": "https://lala-ofbip.run.goorm.site/",
+        "startPage": "",
+        "search": false,
+        "headers": null,
+        "params": null,
+        "isActive": false,
+        "id": 35
+      },            
+      {
+        "name": "🔞九T",
+        "server": "https://drive.9t.ee/",
+        "startPage": "",
+        "search": false,
+        "headers": null,
+        "params": null,
+        "isActive": false,
+        "id": 35
+      },
+      {
+        "name": "🔞涛涛收藏",
+        "server": "https://alist.eduedu.eu.org/",
+        "startPage": "",
+        "search": false,
+        "headers": null,
+        "params": null,
+        "isActive": false,
+        "id": 35
+      },         
       {
         "name": "✨星梦",
         "server": "https://pan.bashroot.top",
