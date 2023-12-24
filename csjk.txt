@@ -114,7 +114,7 @@
       "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
     },
 { "key": "js_菜狗", "name": "✮爱优腾芒", "type": 3, "api": "https://agit.ai/smy/zy/raw/branch/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://agit.ai/smy/zy/raw/branch/master/gy/caigou.txt" },   
-{"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/奇珍异兽.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
+{"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/gy/奇珍异兽.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key": "drpy_js_优酷","name": "👑优酷","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/优酷.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
 {"key": "drpy_js_腾云驾雾","name": "🐧腾讯","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/腾云驾雾.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
 {"key": "drpy_js_百忙无果","name": "🥭芒果","type": 3,"api": "https://codeberg.org/jgfx/gao/raw/branch/master/lib/drpy2.min.js","ext": "https://codeberg.org/jgfx/gao/raw/branch/master/js/百忙无果.js","jar": "https://agit.ai/65012833/Jar/raw/branch/master/02.jar"},
