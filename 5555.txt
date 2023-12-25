@@ -18,13 +18,6 @@
     "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]
     },
 {"key":"csp_WoGG","name":"👽玩偶影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
-{"key":"影探4K",
- "name":"影探",
-  "type": 3,
-  "api":"csp_AppYsV2",
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,"ext": "http://ytcms.lyyytv.cn/api.php/app/"},
     {
       "key": "49zy",
       "name": "♻️┃49Z┃2K",
@@ -263,18 +256,6 @@
         "日剧",
         "泰剧"
       ]
-    },
-{"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-    {
-      "key": "Kuaikan",
-      "name": "快看",
-      "type": "3",
-      "api": "csp_Dora",
-      "changeable": "0",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "459b1cb892e317546676a2c9dcec2bff"
     },
 {"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
   {"key":"77韩剧","name":"77韩剧(佰欣园)","type":1,"api":"https://www.77hanju.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
