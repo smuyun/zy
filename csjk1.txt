@@ -497,6 +497,12 @@
     "api": "http://52bsj.vip:81/api/v3/file/get/154864/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE%3D%3A0",
     "ext": "https://agit.ai/smy/zy/raw/branch/master/thzb.txt"
     },
+{"key":"dr_玩偶姐姐","name":"玩偶姐姐(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js","searchable":2,"quickSearch":0,"filterable":0},
+{"key":"dr_养端","name":"养端(道长)","type":1,"api":"https://drpy.owen10086.repl.co/vod?rule=养端&ext=txt/js/18/养端.js","searchable":2,"quickSearch":0,"filterable":0},
+{ "key": "芒果18+", "name": "芒果18", "type": 0, "api": "https://www.mgav1.cc/api.php/provide/vod/at/xml/", "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=", "searchable": 0, "quickSearch": 1, "filterable": 0 },
+{ "key": "afasu", "name": "小湿妹资源(已修复)", "type": 0, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "(18+)水蜜桃", "name": "18+(不错)水蜜桃", "type": 1, "api": "http://51smt4.xyz/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {
       "key":"chengren",
        "name":"🈵成人影视1",
