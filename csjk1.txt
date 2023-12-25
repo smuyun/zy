@@ -497,10 +497,6 @@
     "api": "http://52bsj.vip:81/api/v3/file/get/154864/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE%3D%3A0",
     "ext": "https://agit.ai/smy/zy/raw/branch/master/thzb.txt"
     },
-{"key": "drpy_js_玩偶姐姐","name": "玩偶姐姐","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/玩偶姐姐.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
-{"key": "drpy_js_养端","name": "养端","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/养端.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
-{"key": "drpy_js_Missav","name": "Missav","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/Missav.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
-{"key": "drpy_js_黄瓜TV","name": "黄瓜TV","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/黄瓜TV.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {
       "key":"chengren",
        "name":"🈵成人影视1",
