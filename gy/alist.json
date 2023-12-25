@@ -1,11 +1,4 @@
-"pan": {
-        "sites": [
-            {
-                "key": "alist",
-                "name": "Alist",
-                "type": 40,
-                "api": "alist_open.js",
-                "ext": [
+[
                     {
                         "name": "🙋丫仙女",
                         "server": "http://alist.xiaoya.pro/",
@@ -188,7 +181,3 @@
                         "server": "https://ypan.cc/"
                     }
                 ]
-            }
-        ]
-    }
-}
