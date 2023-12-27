@@ -1332,6 +1332,6 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "wallpaper":"http://我不是.肥猫.love:63/pic/feimao.php",
-    //"spider": "https://agit.ai/smy/zy/raw/branch/master/skdc.jar"
+    "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E0C92F27999DD969A31709E7561A7EEA"
 }
