@@ -1334,5 +1334,4 @@
     ],
     "wallpaper":"https://tool.weetai.cn/api",
     //"spider": "https://agit.ai/smy/zy/raw/branch/master/skdc.jar"
-    "spider":"https://store.heytapimage.com/cdo-portal/feedback/202302/02/e3657d7bb53ea43f992e361544f21f1c.png;md5;da6cba61d843301ee6c0d5b34a18992e"
     }
