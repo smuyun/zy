@@ -21,6 +21,10 @@
 "name": "测试接口1"
 },
 {
+"url":"https://agit.ai/smy/zy/raw/branch/master/csjk2.txt",
+"name": "测试接口2"
+},
+{
 "url":"https://agit.ai/smy/zy/raw/branch/master/gongjin.txt",
 "name": "GONGJIN线路"
 },
