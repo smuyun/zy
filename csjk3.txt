@@ -1326,6 +1326,6 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    ""wallpaper":"https://picsum.photos/1280/720/?blur=10",
+    "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1"
 }
