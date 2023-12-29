@@ -1326,5 +1326,5 @@
         "cms.qdwght.com"
     ],
   "spider": "./YSC.jar",
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302"
 }
