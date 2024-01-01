@@ -5,7 +5,7 @@
     {
       "name": "💕live",
       "type": 0,
-      "url": "https://agit.ai/smy/tv/raw/branch/main/1102.txt",
+      "url": "https://atomgit.com/hengxing/hx/raw/master/dsj.txt",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
