@@ -1,19 +1,33 @@
 {
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
-"lives":[
-        {
-            "group":"redirect",
-            "channels":[
-                {
-                    "name":"live",
-                    "urls":[
-                        "https://agit.ai/smy/tv/raw/branch/main/1101.txt"
-                    ]
-                }
-            ]
-        }
-    ],
+"lives": [
+    {
+      "name": "💕live",
+      "type": 0,
+      "url": "https://agit.ai/smy/tv/raw/branch/main/1101.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "💕TV",
+      "type": 0,
+      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/zhibo.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "💕MTV",
+      "type": 0,
+      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/MTV.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
+  "sites": [
 "sites": [
 {"key":"酷酷", "name":"酷酷APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.tvkuys.xyz/api.php/app/" },
 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
