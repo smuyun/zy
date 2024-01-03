@@ -1101,6 +1101,18 @@
         "ratio": 1.33
       }
     },
+   {
+      "key": "156ZY",
+      "name": "成人51",
+      "type": 0,
+      "api": "http://156.249.29.8/inc/apijson_vod.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
     {
       "key": "sewozyapi.com",
       "name": "成人50",
