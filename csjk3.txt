@@ -1,5 +1,4 @@
 {
-  //"spider":"http://我不是.肥猫.love:63/Jar/panda230130.jar;md5;CBDD0FBC4C46D813B2910CB876EE407E"
   "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
 "lives": [
