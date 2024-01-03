@@ -1191,30 +1191,12 @@
 	}],
 "lives": [
     {
-      "name": "💕live",
+      "name": "直播",
       "type": 0,
       "url": "https://agit.ai/smy/tv/raw/branch/main/1102.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
-    {
-      "name": "💕TV",
-      "type": 0,
-      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/zhibo.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "💕MTV",
-      "type": 0,
-      "url": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/MTV.txt",
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
+],
 "parses": [
     {
       "name": "超级嗅探",
@@ -1520,6 +1502,7 @@
         "cms.qdwght.com"
     ],
     "wallpaper":"https://tool.weetai.cn/api",
-    //"spider":"http://我不是.肥猫.love:63/Jar/panda230130.jar;md5;CBDD0FBC4C46D813B2910CB876EE407E"
+    //"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+    "spider":"http://我不是.肥猫.love:63/Jar/panda230130.jar;md5;CBDD0FBC4C46D813B2910CB876EE407E",
     "spider":"https://store.heytapimage.com/cdo-portal/feedback/202302/02/e3657d7bb53ea43f992e361544f21f1c.png;md5;da6cba61d843301ee6c0d5b34a18992e"
 }
