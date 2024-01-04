@@ -695,53 +695,9 @@
     "ext": "https://agit.ai/smy/zy/raw/branch/master/thzb.txt"
     },
 {"key":"XYQBiu_测试2","name":"🔞zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61636/zb.json?sign=8LTHZaZKDLP4de3-Zz9jo1dH9RhzDHApOBqpLTv7Q3M%3D%3A0","jar": "http://52bsj.vip:81/api/v3/file/get/61634/1103.jar?sign=j_ZL6-vGc9fGqhh9ed-mtyRqnQzZG4gslD22H7dCo-g%3D%3A0"},
-{"key":"lf_js_lf_live","name":"🍓直播(直连)(蜂蜜)","type":3,"api":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).js","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).txt"},
+{"key":"lf_js_lf_live","name":"🍓直播(直连)(蜂蜜)","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live1.txt"},
+{"key":"lf_js_lf_live","name":"🍓直播(直连)(2)","type":3,"api":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).js","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).txt"},
 {"key":"zp028","name":"🔞zp028","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"zp020","name":"🔞zp020","type":0,"api":"http://m.7777688.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"精工厂","name":"🔞精工厂","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"秀色采集","name":"🔞秀色av","type":0,"api":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/","playUrl":"https://api.xiusebf.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
-    {
-      "key": "cjmygzy.com",
-      "name": "🔞采集.美阅阁",
-      "type": 0,"viewType": 1,
-      "api":"http://cjmygzy.com/inc/sapi.php?ac=videolist",
-      "searchable": 1
-    },
-{"key": "辣椒专场","name": "❤辣椒采集","type": 1,"api": "https://apilj.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"viewType": 1,"filterable": 1,"categories": [    
-"国产自拍","欧美极品","日韩无码","AV明星","中文字幕","动漫精品","极骚萝莉","人妖视频","重咸口味","三级自慰","强奸乱伦","独家擂台格斗","辣椒GIGA","HEYZO","独家DMM","HEY诱惑","童颜巨乳","高潮喷吹","激情口交","绝美少女","首次亮相","AV明星1"]},
-        {
-            "key": "丝袜",
-            "name": "❤丝袜采集",
-            "type": 1,"viewType": 1,
-            "api": "https://siwazyw.cc/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "亚洲有码",
-                "亚洲无码",
-                "欧美情色",
-                "中文字幕",
-                "动漫卡通",
-                "美女主播",
-                "人妻熟女",
-                "强奸乱伦",
-                "日韩伦理",
-                "国产自拍",
-                
-                "精选口爆",
-                "同性同志",
-                "重口味",
-                
-                "91大神",
-                "AV解说"
-                
-            ]
-        },
-{"key":"国色","name":"🍎国色","type":1,"api":"https://api.guosezy.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"drpy_js_玩偶姐姐","name":"🍓玩偶姐姐(直连)","type":3,"api":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","filterable":1,"ext":"https://github.moeyy.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/js/玩偶姐姐.js"},
-    {
       "key": "玩偶",
       "name": "❤玩偶",
       "type": 3,"viewType": 1,
