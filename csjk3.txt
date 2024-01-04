@@ -694,7 +694,7 @@
     "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/点播1.js",
     "ext": "https://agit.ai/smy/zy/raw/branch/master/thzb.txt"
     },
-{"key":"XYQBiu_测试2","name":"🔞zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/smy/zy/raw/branch/master/xjzb.txt","jar": "http://52bsj.vip:81/api/v3/file/get/61634/1103.jar?sign=j_ZL6-vGc9fGqhh9ed-mtyRqnQzZG4gslD22H7dCo-g%3D%3A0"},
+{"key":"XYQBiu_测试2","name":"🔞zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61636/zb.json?sign=8LTHZaZKDLP4de3-Zz9jo1dH9RhzDHApOBqpLTv7Q3M%3D%3A0","jar": "http://52bsj.vip:81/api/v3/file/get/61634/1103.jar?sign=j_ZL6-vGc9fGqhh9ed-mtyRqnQzZG4gslD22H7dCo-g%3D%3A0"},
 {
       "key":"chengren",
        "name":"🈵成人影视1",
