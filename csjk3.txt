@@ -894,6 +894,8 @@
 
 {"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"HAHA资源","name":"HAHA资源","type":1,"api":"https://www.haha888.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"CK资源2","name":"CK资源2","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"JAV名优","name":"JAV名优","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":1},
