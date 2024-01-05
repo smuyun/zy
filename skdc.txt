@@ -105,7 +105,7 @@
 "name": "CR1线路"
 },
 {
-"url": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/CRJK2.txt",
+"url": "https://agit.ai/smy/zy/raw/branch/master/CRJK2.txt",
 "name": "CR2线路"
 },
 {
