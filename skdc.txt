@@ -105,6 +105,10 @@
 "name": "CR1线路"
 },
 {
+"url": "https://agit.ai/yy5202/TVBox/raw/branch/master/cr.json",
+"name": "CR2线路"
+},
+{
 "url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
 "name": "线路④⑨"
 }
