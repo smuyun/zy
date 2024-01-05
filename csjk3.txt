@@ -686,14 +686,14 @@
 {"key":"XYQBiu_测试2","name":"🔞zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61636/zb.json?sign=8LTHZaZKDLP4de3-Zz9jo1dH9RhzDHApOBqpLTv7Q3M%3D%3A0","jar": "http://52bsj.vip:81/api/v3/file/get/61634/1103.jar?sign=j_ZL6-vGc9fGqhh9ed-mtyRqnQzZG4gslD22H7dCo-g%3D%3A0"},
 {"key":"lf_js_lf_live","name":"🍓直播(直连)","type":3,"api":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).js","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).txt"},
         {
-            "key": "csp_xBPQ_香蕉直播",
-            "name": "🏆香蕉直播",
+            "key": "csp_xBPQ_聚优直播",
+            "name": "🏆聚优直播",
             "type": 3,
             "api": "csp_xBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉实时直播.json"
+            "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/聚优直播.json"
         },
 {"key":"zp028","name":"🔞zp028","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {
