@@ -1,8 +1,7 @@
 {
-  "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/Yoursmile.jar",
- 
-  "wallpaper": "https://tool.weetai.cn/api",
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
+
+//数据接口
+
 "lives":[
         {
             "group":"redirect",
@@ -16,7 +15,9 @@
             ]
         }
     ],
-  "sites": [
+
+"sites": [
+
 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷酷", "name":"酷酷APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.tvkuys.xyz/api.php/app/" },
@@ -1761,5 +1762,7 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ]
+  ],
+  "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E0C92F27999DD969A31709E7561A7EEA"
 }
