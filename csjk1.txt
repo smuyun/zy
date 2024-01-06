@@ -1,4 +1,9 @@
-{"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+{
+
+//0730JAR
+"spider":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXB2/0926.jar",
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+
 "lives":[
         {
             "group":"redirect",
