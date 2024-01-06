@@ -1,8 +1,6 @@
 {
   "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/Yoursmile.jar;md5;632ADF6446656E28A9F31033F3C2F416",
- 
-  "wallpaper": "https://tool.weetai.cn/api",
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=meinv&type=302",
+  "wallpaper": "https://壁纸.神器每日推送.tk",
 "lives":[
         {
             "group":"redirect",
@@ -685,21 +683,7 @@
     },
 {"key":"XYQBiu_测试2","name":"🔞zb(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61636/zb.json?sign=8LTHZaZKDLP4de3-Zz9jo1dH9RhzDHApOBqpLTv7Q3M%3D%3A0","jar": "http://52bsj.vip:81/api/v3/file/get/61634/1103.jar?sign=j_ZL6-vGc9fGqhh9ed-mtyRqnQzZG4gslD22H7dCo-g%3D%3A0"},
 {"key":"lf_js_lf_live","name":"🍓直播(直连)","type":3,"api":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).js","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).txt"},
-        {
-            "key": "csp_xBPQ_香蕉直播",
-            "name": "🏆香蕉直播",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/新香蕉实时直播.json"
-        },
 {"key":"zp028","name":"🔞zp028","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_xBPQ_聚优直播","name":"聚优直播","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,
-"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/香蕉直播.json"},
-{"key": "dr_玩偶姐姐","name": "玩偶姐姐(道长)","type": 1,"api": "http://www.fenwe.tk:5700/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js",
-"searchable": 2,"quickSearch": 0,"filterable": 0},
 {"key":"*色南国资源","name":"*🔞色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {
       "key":"chengren",
@@ -709,16 +693,6 @@
         "searchable":1, 
         "quickSearch":1
      },
-{
-"key": "csp_xBPQ_超清",
-"name": "🚸香蕉超清",
-"type": 3,
-"api": "csp_xBPQ",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 0,
-"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }","jar":"https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
-},
 {"key":"美少女","name":"🈴美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},    
 {"key": "KOK资源","name": "🔞KOK资源","type": 1,"api": "https://api.vodkok2.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1, "filterable": 0 },
 {"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
