@@ -694,6 +694,8 @@
     "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/点播1.js",
     "ext": "https://agit.ai/smy/zy/raw/branch/master/thzb.txt"
     },
+{"key":"lf_js_lf_live","name":"🍓直播(直连)","type":3,"api":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).js","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).txt"},
+{"key":"zp028","name":"🔞zp028","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {
       "key":"chengren",
        "name":"🈵成人影视1",
