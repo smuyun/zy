@@ -1,5 +1,5 @@
 {
-  "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/Yoursmile.jar;md5;632ADF6446656E28A9F31033F3C2F416",
+  "spider": "https://agit.ai/895322156/Q/raw/branch/master/jar/9.jar;md5;CD3F89F218985E3C3BA577CEBF5C039C",
   "wallpaper": "https://壁纸.神器每日推送.tk",
 "lives":[
         {
