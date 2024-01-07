@@ -152,7 +152,7 @@
       "type": 1,
       "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/fan.jar",
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/",
-      "playUrl": "http://lanlan.ckflv.cn/?url=",
+      "playUrl": "https://jx.zhanlangbu.com/?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
