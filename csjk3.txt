@@ -1,8 +1,7 @@
 {
-
-//数据接口
-
-"sites": [
+  "spider": "./fty.jar;md5;ea2690fc66083afe1431071968e60395",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "sites": [
 
 {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -1341,6 +1340,5 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-  "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E0C92F27999DD969A31709E7561A7EEA"
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img"
 }
