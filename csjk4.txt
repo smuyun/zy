@@ -674,12 +674,12 @@
       "key": "csp_jy",
       "name": "🍑女女优选",
       "type": 3,
-      "api": "csp_xBPQ",
+      "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/聚优直播.json",
-      "jar": "http://刘公子.hk3.20212021.cf/json/xb.jar"
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/gy/yt.jar"
     },
 {"key":"zp028","name":"🔞zp028","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
 {
