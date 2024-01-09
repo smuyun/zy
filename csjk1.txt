@@ -1,6 +1,6 @@
 {
-  "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/Yoursmile.jar;md5;632ADF6446656E28A9F31033F3C2F416",
-  "wallpaper": "https://壁纸.神器每日推送.tk",
+  "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/Yoursmile.jar;md5;EC14722944CB094619829A8824876D73",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
       "name": "💕live",
