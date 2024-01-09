@@ -1557,5 +1557,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=5",
-  "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/newjar.bmp;md5;eca57f9215a31f57f6822e0a53066294"
+  "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/yt.jar;md5;eca57f9215a31f57f6822e0a53066294"
 }
