@@ -1315,5 +1315,5 @@
         "cms.qdwght.com"
     ],
   "wallpaper": "http://我不是.肥猫.love:63/pic/feimao.php",
-  "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/Yoursmile.jar;md5;632ADF6446656E28A9F31033F3C2F416"
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E0C92F27999DD969A31709E7561A7EEA"
 }
