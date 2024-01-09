@@ -678,7 +678,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://52bsj.vip:81/api/v3/file/get/172537/juyou.json?sign=nWaufA0t_rLk6tlG48Y8qzG6n1mgbE1Wg6jOBL0WLNY%3D%3A0",
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/聚优直播.json",
       "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/18.jar"
     },
 {"key":"zp028","name":"🔞zp028","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
