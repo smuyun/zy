@@ -668,10 +668,9 @@
     },
 {"key":"lf_js_lf_live","name":"🍓直播(直连)","type":3,"api":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).js","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).txt"},
 {"key": "csp_jiujiuzhobo","name":"🔞久久直播","type": 3, "api": "csp_xBPQ","searchable": 0,"quickSearch": 0,  "filterable": 0, "ext":"http://lgz.hk3.20212021.cf/json/jiujiu.json","jar":"http://lgz.hk3.20212021.cf/json/xb.jar"},
-{"key":"csp_jy","name":"🔞聚优直播","type":3,"api":"https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/聚优直播.json","jar":"https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key":"drpy_js_色色","name":"涩涩🔞直播","type":3,"api":"http://lgz.hk3.20212021.cf/json/drpy.min.js","ext":"http://lgz.hk3.20212021.cf/json/ss直播.js","playerType":"1"}, 
 {
-      "key": "csp_jy",
+      "key": "csp_聚优直播",
       "name": "🍑女女优选",
       "type": 3,
       "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
