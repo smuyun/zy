@@ -112,9 +112,16 @@
 "url": "https://agit.ai/smy/zy/raw/branch/master/CRJK2.txt",
 "name": "CR2线路"
 },
-{
-"url": "https://agit.ai/Jonwall/Box/raw/branch/a/T20.json",
-"name": "线路④⑨"
-}
+{ "url": "https://www.hmg.pw:9999/心魔/api.json", "name": "🚀心魔专线" },
+
+{ "url": "https://www.hmg.pw:9999/业余打发/api.json", "name": "🚀业余打发" },
+
+{ "url": "https://www.hmg.pw:9999/辟邪剑法/api.json", "name": "🚀辟邪剑法" },
+
+{ "url": "https://www.hmg.pw:9999/杨家枪法/api.json", "name": "🚀杨家枪法" },
+
+{ "url": "https://www.hmg.pw:9999/玉女剑法/api.json", "name": "🚀玉女剑法" },
+
+{ "url": "https://www.hmg.pw:9999/六脉神剑/api.json", "name": "🚀六脉神剑" }
 ]
 }
