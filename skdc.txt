@@ -37,12 +37,8 @@
 "name": "测试接口5"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/gongjin.txt",
-"name": "GONGJIN线路"
-},
-{
 "url":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json",
-"name": "GONGJIN线路1"
+"name": "GONGJIN线路"
 },
 {
 "url":"https://agit.ai/smy/zy/raw/branch/master/gqxl.txt",
@@ -59,14 +55,6 @@
 {
 "url":"https://agit.ai/smy/zy/raw/branch/master/wljk2.txt",
 "name": "网络接口2"
-},
-{
-"url":"https://agit.ai/smy/zy/raw/branch/master/wljk3.txt",
-"name": "网络接口3"
-},
-{
-"url":"https://agit.ai/al757/TVBOXZY02/raw/commit/5c27e16929ccf177ea76a15f407a013afa4ee1be/tvbox.json",
-"name": "网络接口4"
 },
 {
 "url":"https://agit.ai/smy/zy/raw/branch/master/daozhang.txt",
@@ -101,10 +89,6 @@
 "name": "挺好线路2"
 },
 {
-"url": "https://pan.shangui.cc/f/6pKZtp/%E7%A6%8F%E5%88%A92.txt",
-"name": "FL1线路"
-},
-{
 "url": "https://agit.ai/smy/zy/raw/branch/master/18.json",
 "name": "CR1线路"
 },
@@ -112,12 +96,6 @@
 "url": "https://agit.ai/smy/zy/raw/branch/master/CRJK2.txt",
 "name": "CR2线路"
 },
-{ "url": "https://www.hmg.pw:9999/心魔/api.json", "name": "🚀心魔专线" },
-
-{ "url": "https://www.hmg.pw:9999/业余打发/api.json", "name": "🚀业余打发" },
-
-{ "url": "https://www.hmg.pw:9999/辟邪剑法/api.json", "name": "🚀辟邪剑法" },
-
 { "url": "https://www.hmg.pw:9999/杨家枪法/api.json", "name": "🚀杨家枪法" },
 
 { "url": "https://www.hmg.pw:9999/玉女剑法/api.json", "name": "🚀玉女剑法" },
