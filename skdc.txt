@@ -13,6 +13,10 @@
 "name": "SS3"
 },
 {
+"url":"https://agit.ai/smy/zy/raw/branch/master/ziyong.txt",
+"name": "ZIYONG"
+},
+{
 "url":"https://agit.ai/smy/zy/raw/branch/master/csjk.txt",
 "name": "测试接口"
 },
