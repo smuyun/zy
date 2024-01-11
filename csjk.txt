@@ -187,6 +187,7 @@
 {"key": "drpy_js_两个BT","name": "两个BT","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/两个BT.js" },
 {"key": "drpy_js_乐鱼影视","name": "乐鱼影视","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/乐鱼影视.js" },
 {"key": "drpy_js_哔哩影视","name": "哔哩影视","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/哔哩影视.js" },
+{"key": "drpy_js_我的哔哩","name": "我的哔哩","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/我的哔哩.js" },
 {"key": "drpy_js_看韩剧","name": "看韩剧","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/看韩剧.js" },
 {"key": "drpy_js_Icio影视","name": "Icio影视","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/Icio影视.js" },
 {"key": "drpy_js_热播库","name": "热播库","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/热播库.js" },
