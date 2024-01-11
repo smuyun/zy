@@ -4,13 +4,31 @@
 
 "sites": [
 
-{"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/68479/%E4%B9%90%E7%8C%AAXP.json?sign=-mbGfklZSjyMYL-zyJ_0rE2igcXTzyt8TXw0nyk2-7g%3D%3A0"},
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷酷", "name":"酷酷APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.tvkuys.xyz/api.php/app/" },
 {"key":"一起看","name":"💡一起看┃影视","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1}, 
 {"key":"极速播","name":"😎极速┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"加速器","name":"😎加速┃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
 {"key":"酷影视","name":"😎酷影┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+      {
+            "key": "狐狸",
+            "name": "🦊狐狸┃蓝光",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.kuin.one/api.php/app/"
+        },
+        {
+            "key": "csp_Bttoo",
+            "name": "✌比特┃直连",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },       
        {
             "key": "南瓜",
             "name": "南瓜┃App",
@@ -22,6 +40,53 @@
             "filterable": 1,
             "ext": ""
         },
+  
+   {
+      "key": "csp_zxzj",
+      "name": "🍏┃超前┃2K",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.zxzj.pro/"
+    },
+    {
+      "key": "csp_yayaya",
+      "name": "👧┃耐菲┃2K",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+    {
+      "key": "cjzy_暴风资源",
+      "name": "🎈┃暴风┃影视",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "大陆综艺",
+        "港台综艺",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "日本综艺",
+        "综艺频道",
+        "新马泰综艺",
+        "纪录片",
+        "科幻片",
+        "喜剧片",
+        "战争片"
+      ]
+    },
     {
     "key":"zy_乱舞8",
     "name":"影视┃图图",
@@ -122,6 +187,7 @@
 {"key": "drpy_js_两个BT","name": "两个BT","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/两个BT.js" },
 {"key": "drpy_js_乐鱼影视","name": "乐鱼影视","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/乐鱼影视.js" },
 {"key": "drpy_js_哔哩影视","name": "哔哩影视","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/哔哩影视.js" },
+{"key": "drpy_js_我的哔哩","name": "我的哔哩","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/我的哔哩.js" },
 {"key": "drpy_js_看韩剧","name": "看韩剧","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/看韩剧.js" },
 {"key": "drpy_js_Icio影视","name": "Icio影视","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/Icio影视.js" },
 {"key": "drpy_js_热播库","name": "热播库","type": 3, "api": "https://atomgit.com/smy/zy/raw/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://atomgit.com/smy/zy/raw/master/gy/热播库.js" },
