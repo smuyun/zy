@@ -51,16 +51,7 @@
       "filterable": 1,
       "ext": "https://www.zxzj.pro/"
     },
-    {
-      "key": "csp_yayaya",
-      "name": "👧┃耐菲┃2K",
-      "api": "csp_AppYsV2",
-      "type": 3,
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
-    },
+{"key":"csp_WoGG","name":"👽玩偶影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 {"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/奇珍异兽.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key": "drpy_js_腾云驾雾","name": "🐧腾讯","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/腾云驾雾.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key": "drpy_js_百忙无果","name": "🥭芒果","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/百忙无果.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
@@ -278,6 +269,16 @@
             "ext": ""
         },
     {
+      "key": "csp_yayaya",
+      "name": "👧┃耐菲┃2K",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
+    {
       "key": "cjzy_暴风资源",
       "name": "🎈┃暴风┃影视",
       "type": 1,
@@ -323,7 +324,6 @@
     "filterable":1,
     "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","记录片","台湾剧","韩国剧","日本剧","海外剧","泰国剧","伦理片","体育","足球","篮球","网球","斯诺克","演员"]
     },
-{"key":"csp_WoGG","name":"👽玩偶影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
     {
       "key": "49zy",
       "name": "♻️┃49Z┃2K",
