@@ -349,46 +349,6 @@
       "filterable": 1,
       "ext": "https://agit.ai/smy/zy/raw/branch/master/哔哩哔哩高中.txt"
     },
-    {
-      "key": "py_youer",
-      "name": "💕幼儿┃教育",
-      "type": 3,
-      "api": "py_youer",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/幼儿.txt"
-    },
-    {
-      "key": "py_xiaoxue",
-      "name": "💕小学┃教育",
-      "type": 3,
-      "api": "py_xiaoxue",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/小学.txt"
-    },
-    {
-      "key": "py_czxx",
-      "name": "💕初中┃教育",
-      "type": 3,
-      "api": "py_czxx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/初中.txt"
-    },
-    {
-      "key": " py_中国文化",
-      "name": "💕中国文化",
-      "type": 3,
-      "api": "py_中国文化",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/中国文化.txt"
-    },
 {
       "key": "push_agent",
       "name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
