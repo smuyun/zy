@@ -247,7 +247,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童拼音.json"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童拼音.txt"
     },
     {
       "key": "儿童识字",
@@ -257,7 +257,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master//儿童识字.txt"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童识字.txt"
     },
     {
       "key": "儿童英语",
@@ -267,7 +267,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童英语.json"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童英语.txt"
     },
     {
       "key": "儿童硬笔",
@@ -277,7 +277,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童硬笔.json"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童硬笔.txt"
     },
     {
       "key": "儿童思维",
@@ -287,7 +287,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童思维.json"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童思维.txt"
     },
     {
       "key": "儿童口才",
@@ -297,7 +297,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童口才.json"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童口才.txt"
     },
     {
       "key": "儿童编程",
@@ -307,17 +307,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童编程.json"
-    },
-    {
-      "key": "儿童武术",
-      "name": "💕儿童武术",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/儿童武术.json"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/儿童编程.txt"
     },
     {
       "key": "兴趣培养",
@@ -327,7 +317,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/兴趣培养.json"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/兴趣培养.txt"
     },
     {
       "key": "小学",
@@ -337,7 +327,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/哔哩哔哩小学.json"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/哔哩哔哩小学.txt"
     },
     {
       "key": "初中",
@@ -347,7 +337,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/哔哩哔哩初中.json"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/哔哩哔哩初中.txt"
     },
     {
       "key": "高中",
@@ -357,7 +347,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/哔哩哔哩高中.json"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/哔哩哔哩高中.txt"
     },
     {
       "key": "py_youer",
@@ -367,7 +357,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/幼儿.py"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/幼儿.txt"
     },
     {
       "key": "py_xiaoxue",
@@ -377,7 +367,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/小学.py"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/小学.txt"
     },
     {
       "key": "py_czxx",
@@ -387,17 +377,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/初中.py"
-    },
-    {
-      "key": "csp_Bili",
-      "name": "💕动物世界",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/吾爱动物世界.json"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/初中.txt"
     },
     {
       "key": " py_中国文化",
@@ -407,7 +387,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/py_中国文化.py"
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/中国文化.txt"
     },
 {
       "key": "push_agent",
