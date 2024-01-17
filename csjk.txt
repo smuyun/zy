@@ -39,6 +39,7 @@
 {"key": "drpy_js_哔哩影视","name": "哔哩影视","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/哔哩影视.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key": "drpy_js_139影视","name": "139影视","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/139影视.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key": "drpy_js_酷云77","name": "酷云77","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy.min.js","playUrl": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/酷云77.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
+{"key":"影探","name":"👉春盈┃影探","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://d.kstore.space/download/6296/js/yt.js"},
 {
       "key": "腾讯资源",
       "name": "️🐧腾讯影视💕",
