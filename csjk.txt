@@ -257,7 +257,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },  
+    },
+    {
+            "key": "迪迪",
+            "name": "迪迪",
+            "api": "csp_AppYsV2",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "https://api123.adys.app/xgapp.php/v3/"
+        },  
  {
       "key": "csp_XBPQ_多剧",
       "name": "剧多🏰观影",
