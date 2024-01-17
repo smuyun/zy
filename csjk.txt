@@ -222,15 +222,14 @@
         "战争片"
       ]
     },
- {
+        {
             "key": "XC", 
             "name":  "🌠星辰",
             "type": 3, 
             "api": "csp_AppYsV2", 
             "searchable": 1, 
             "quickSearch": 1, 
-            "filterable": 1, 
-         
+            "filterable": 1,  
        "ext": "http://ttsp.live/api.php/app/"
         },
         {
