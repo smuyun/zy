@@ -248,32 +248,6 @@
         "综艺"
       ]
     },
-        {
-      "key": "csp_芒芒",
-      "name": "💜芒果",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/mangguo",      
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺"
-      ]
-    },
-        {
-      "key": "csp_优优",
-      "name": "💜优酷",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://tvbox-1-g5221611.deta.app/vod/youku",      
-      "categories": [
-        "电影",
-        "电视剧",
-        "动漫",
-        "综艺"
-      ]
-    },
     {
       "key": "csp_搜搜",
       "name":  "🦊搜狐",
