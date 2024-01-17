@@ -238,7 +238,6 @@
       "type": 1,
       "playerType": 2,
       "api": "http://tvbox-1-g5221611.deta.app/vod/qq",      
-      "playUrl": "json:http://221.229.173.30:8808/jhjson/daoyongsiquanjia.php?url=",
       "categories": [
         "电影",
         "电视剧",
@@ -252,7 +251,6 @@
       "type": 1,
       "playerType": 2,
       "api": "http://tvbox-1-g5221611.deta.app/vod/iqiyi",      
-      "playUrl": " json:http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
       "categories": [
         "电影",
         "电视剧",
