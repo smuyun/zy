@@ -226,6 +226,15 @@
         "战争片"
       ]
     },
+    {
+      "key": "sohu",
+      "name": "搜狐",
+      "type": 1,
+      "api": "http://tvbox-1-g5221611.deta.app/vod/sohu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playUrl": "parse:搜狐"
+    },
         {
       "key": "csp_秋秋",
       "name": "🐧腾讯",
