@@ -1,5 +1,3 @@
-var rule = {
-    title:'麦游',
     import { Crypto, load, _ } from 'assets://js/lib/cat.js';
 /**
  * 直播源
