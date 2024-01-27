@@ -882,17 +882,14 @@
     },
 {"key":"lf_js_lf_live","name":"🍓直播(直连)","type":3,"api":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).js","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).txt"},
 {"key":"zp028","name":"🔞zp028","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
-    {
-      "key": "csp_麦游",
-      "name": "❤️麦游",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable": 0,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/maiyoux_open.js",
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"
-    },
+ {
+        "key": "maiyoux_open",
+        "name": "麦游【🪜】",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/maiyoux_open.js",
+        "searchable":1, 
+        "quickSearch":1
+   },      
 {
       "key":"chengren",
        "name":"🈵伙伴天空",
