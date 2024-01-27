@@ -885,7 +885,7 @@
  {
         "key": "maiyoux_open",
         "name": "麦游【🪜】",
-        "type": 3,
+        "type": 1,
         "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/maiyoux_open.js",
         "searchable":1, 
         "quickSearch":1
