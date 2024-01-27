@@ -886,7 +886,7 @@
         "key": "maiyoux_open",
         "name": "麦游【🪜】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/maiyoux_open.js",
+        "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/maiyoux_open.js"
    },      
 {
       "key":"chengren",
