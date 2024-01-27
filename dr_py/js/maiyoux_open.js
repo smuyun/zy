@@ -1,3 +1,5 @@
+var rule = {
+    title:'麦游',
 import { Crypto, load, _ } from 'https://agit.ai/smy/zy/raw/branch/master/JS/lib/cat.js';
 /**
  * 直播源
@@ -95,4 +97,5 @@ export function __jsEvalReturn() {
         detail: detail,
         play: play,
     };
+}
 }
