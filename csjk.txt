@@ -364,6 +364,13 @@
 {"key":"极速播","name":"😎极速┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"加速器","name":"😎加速┃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
 {"key":"酷影视","name":"😎酷影┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{
+  "key": "hanjuzy",
+  "name": "🪜[韩剧]",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "http://www.hanjuzy.com/inc/apijson_vod.php"
+  },
    {
         "key": "nmddd_open",
         "name": "nmdd【📺】",
@@ -1090,6 +1097,119 @@
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://91md.me/api.php/provide/vod/at/json"
   },
+{
+  "key": "apittzy.com",
+  "name": "🪜天天",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://apittzy.com/api.php/provide/vod/at/json"
+  },
+{
+  "key": "8day",
+  "name": "🪜七天",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://8day.icu/api.php/provide/vod/at/json"
+  },
+ {
+ "key": "91av",
+ "name": "🪜91视频",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "https://91av.cyou/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "92free",
+ "name": "🪜久爱",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "http://92free.icu/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "tmav",
+ "name": "🪜美亚",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "https://tmav.art/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "sezy",
+ "name": "🪜色网",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "https://sezy.website/api.php/provide/vod/at/json"
+ },
+{
+ "key": "xxavs",
+ "name": "🪜湿园",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "https://xxavs.com/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "qqcm",
+ "name": "🪜传媒",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "https://qqcm.sbs/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "apilsbzy1",
+ "name": "🪜色逼",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "https://apilsbzy1.com/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "slapibf",
+ "name": "🪜森林",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "https://slapibf.com/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "apiyutu",
+ "name": "🪜玉兔",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "https://apiyutu.com/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "hszy",
+ "name": "🪜黄色",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "http://hszy.me/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "haopianapi",
+ "name": "🪜好片",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "https://haopianapi.com/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "ziyuan",
+ "name": "🪜速看",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "https://ziyuan.skm3u8.com/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "jkunzyapi",
+ "name": "🪜鸡坤",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "https://jkunzyapi.com/api.php/provide/vod/at/json"
+ },
+ {
+ "key": "10042",
+ "name": "🪜010爱",
+ "type": 3,
+ "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "ext": "http://100.42.227.80/api/macs.php"
+ },
+
 {
       "key":"chengren",
        "name":"🈵伙伴天空",
