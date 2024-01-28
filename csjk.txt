@@ -1009,14 +1009,14 @@
 {
   "key": "api.maozyapi.com",
   "name": "🪜[猫咪]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
                 "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
   },
 {
   "key": "siwazywtw",
   "name": "🪜[袜丝]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://www.siwazyw.tv/api.php/provide/vod/at/json"
   },
@@ -1024,13 +1024,13 @@
   "key": "siwa",
   "name": "🪜[丝袜]",
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-  "type": 1,
+  "type": 3,
   "ext": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json"
   },
 {
   "key": "putaozyw",
   "name": "🪜[葡萄]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://caiji.putaozyw.net/inc/apijson_vod.php"
   },
