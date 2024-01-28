@@ -404,90 +404,83 @@
   {
         "key": "kkys",
         "name": "📺快看",
-        "type": 1,
+        "type": 3,
         "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/kkys_open.js"
    },               
    {"key": "kuin","name": "APP丨北极狐[V2]","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/appysv2.js","ext": "https://www.kuin.one/api.php/app/"},
           {"key": "火狐资源","name": "采集丨火狐","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js","ext":{"url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8","categories": [ "内地剧","欧美剧","香港剧","台湾剧","马泰剧","韩剧","日剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","记录片","","动画片","中国动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]	}},
-   {
-        "key": "wogg",
-        "name": "玩偶【📺】",
-        "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/wogg_open.js",
-        "ext": "填你的阿里token"
+{
+  "key": "aliys",
+  "name": "阿里【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/appysv2.js",
+  "ext": "http://aliys.cn:90/api.php/v1.vod"
+  },
+{
+  "key": "ddys_open",
+  "name": "荻荻【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ddys_open.js"
    },
-  {
-                "key": "aliys",
-                "name": "阿里【📺】",
-                "type": 3,
-                "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/appysv2.js",
-                "ext": "http://aliys.cn:90/api.php/v1.vod"
-            },
-   {
-        "key": "ddys_open",
-        "name": "荻荻【📺】",
-        "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ddys_open.js"
+{
+  "key": "ys996_open",
+  "name": "ys996【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ys996_open.js"
    },
-   {
-        "key": "ys996_open",
-        "name": "ys996【📺】",
-        "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ys996_open.js"
+{
+  "key": "蚂蚁呀",
+  "name": "蚂蚁【📺️】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/mayiya_open.js"
+  },
+{
+  "key": "吾爱剧",
+  "name": "吾爱【📺️】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/52ju_open.js"
    },
-   {
-        "key": "蚂蚁呀",
-        "name": "蚂蚁【📺️】",
-        "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/mayiya_open.js"
-   },
-      {
-        "key": "吾爱剧",
-        "name": "吾爱【📺️】",
-        "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/52ju_open.js"
-   },
-            {
-                "key": "hongniu",
-                "name": "红牛【📺】",
-                "type": 3,
-                "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-                "ext":{"url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
-            },
-            {
-                "key": "ikun",
-                "name": "爱坤【📺】",
-                "type": 3,
-                "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-                "ext": {"url":"https://ikunzyapi.com/api.php/provide/vod","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
-            },
-            {
-                "key": "jinying",
-                "name": "金鹰【📺】",
-                "type": 3,
-                "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-                "ext":{"url": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
-            }, 
-            {
-                "key": "qihu",
-                "name": "奇虎【📺】",
-                "type": 3,
-                "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-                "ext":{"url": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
-            },
-    {
-         "key": "鸭奈飞",
-         "name": "鸭鸭【📺】",
-         "type": 3,
-         "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/appysv2.js",
-         "ext": "https://yanetflix.me/api.php/app/"
-    },
-   {
-        "key": "caiji",
-        "name": "采集【📺】",
-        "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji_open.js",
-        "ext": "https://ikunzyapi.com/api.php/provide/vod"
+{
+  "key": "hongniu",
+  "name": "红牛【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext":{"url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
+  },
+{
+  "key": "ikun",
+  "name": "爱坤【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": {"url":"https://ikunzyapi.com/api.php/provide/vod","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
+  },
+{
+  "key": "jinying",
+  "name": "金鹰【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext":{"url": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
+  }, 
+{
+  "key": "qihu",
+  "name": "奇虎【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext":{"url": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
+  },
+{
+  "key": "鸭奈飞",
+  "name": "鸭鸭【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/appysv2.js",
+  "ext": "https://yanetflix.me/api.php/app/"
+  },
+{
+  "key": "caiji",
+  "name": "采集【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji_open.js",
+  "ext": "https://ikunzyapi.com/api.php/provide/vod"
     },                 
       {
             "key": "狐狸",
@@ -1147,25 +1140,11 @@
  "ext": "https://xxavs.com/api.php/provide/vod/at/json"
  },
  {
- "key": "qqcm",
- "name": "🪜传媒",
- "type": 3,
- "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
- "ext": "https://qqcm.sbs/api.php/provide/vod/at/json"
- },
- {
  "key": "apilsbzy1",
  "name": "🪜色逼",
  "type": 3,
  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
  "ext": "https://apilsbzy1.com/api.php/provide/vod/at/json"
- },
- {
- "key": "slapibf",
- "name": "🪜森林",
- "type": 3,
- "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
- "ext": "https://slapibf.com/api.php/provide/vod/at/json"
  },
  {
  "key": "apiyutu",
