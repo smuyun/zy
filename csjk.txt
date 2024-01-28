@@ -364,6 +364,30 @@
 {"key":"极速播","name":"😎极速┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"加速器","name":"😎加速┃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
 {"key":"酷影视","name":"😎酷影┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+   {
+        "key": "nmddd_open",
+        "name": "nmdd【📺】",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/nmddd_open.js"
+   },   
+   {
+        "key": "奈飞影视",
+        "name": "奈飞【📺️】",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/wf_open.js"
+   }, 
+   {
+        "key": "91free_open",
+        "name": "91free【📺】",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/91free_open.js"
+   },
+   {
+        "key": "4kys_open",
+        "name": "4K影视【📺️】",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/4kys_open.js"
+   },       
       {
             "key": "狐狸",
             "name": "🦊狐狸┃蓝光",
