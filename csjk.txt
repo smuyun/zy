@@ -1011,7 +1011,7 @@
   "name": "🪜[猫咪]",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-                "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
+  "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
   },
 {
   "key": "siwazywtw",
@@ -1037,42 +1037,42 @@
 {
   "key": "apiddapi",
   "name": "🪜[滴滴]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://api.ddapi.cc/api.php/provide/vod/at/json"
   },
 {
   "key": "apixbapi",
   "name": "🪜[️雪豹]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://api.xbapi.cc/api.php/provide/vod/at/json"
   },
 {
   "key": "timizy10",
   "name": "🪜[甜蜜]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://timizy10.cc/api.php/provide/vod/at/json"
   },
 {
   "key": "naixxzy",
   "name": "🪜[奶香]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://naixxzy.com/api.php/provide/vod/at/json"
   },
 {
   "key": "156249",
   "name": "🪜[蛋蛋]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "http://156.249.29.8/inc/apijson_vod.php"
   },
  {
   "key": "bominzy",
   "name": "🪜博民",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://www.bominzy.com/api.php/provide/vod/at/json"
   },
