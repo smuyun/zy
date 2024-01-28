@@ -1007,6 +1007,76 @@
         "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/maiyoux_open.js"
    },      
 {
+  "key": "api.maozyapi.com",
+  "name": "🪜[猫咪]",
+  "type": 1,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+                "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
+  },
+{
+  "key": "siwazywtw",
+  "name": "🪜[袜丝]",
+  "type": 1,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://www.siwazyw.tv/api.php/provide/vod/at/json"
+  },
+{
+  "key": "siwa",
+  "name": "🪜[丝袜]",
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "type": 1,
+  "ext": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json"
+  },
+{
+  "key": "putaozyw",
+  "name": "🪜[葡萄]",
+  "type": 1,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://caiji.putaozyw.net/inc/apijson_vod.php"
+  },
+{
+  "key": "apiddapi",
+  "name": "🪜[滴滴]",
+  "type": 1,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://api.ddapi.cc/api.php/provide/vod/at/json"
+  },
+{
+  "key": "apixbapi",
+  "name": "🪜[️雪豹]",
+  "type": 1,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://api.xbapi.cc/api.php/provide/vod/at/json"
+  },
+{
+  "key": "timizy10",
+  "name": "🪜[甜蜜]",
+  "type": 1,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://timizy10.cc/api.php/provide/vod/at/json"
+  },
+{
+  "key": "naixxzy",
+  "name": "🪜[奶香]",
+  "type": 1,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://naixxzy.com/api.php/provide/vod/at/json"
+  },
+{
+  "key": "156249",
+  "name": "🪜[蛋蛋]",
+  "type": 1,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "http://156.249.29.8/inc/apijson_vod.php"
+  },
+ {
+  "key": "bominzy",
+  "name": "🪜博民",
+  "type": 1,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://www.bominzy.com/api.php/provide/vod/at/json"
+  },
+{
       "key":"chengren",
        "name":"🈵伙伴天空",
         "type":1,
