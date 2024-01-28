@@ -1079,14 +1079,14 @@
 {
   "key": "888dav",
   "name": "🪜抖阴",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://www.888dav.com/api.php/provide/vod/at/json"
   },
 {
   "key": "91md",
   "name": "🪜九麻",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://91md.me/api.php/provide/vod/at/json"
   },
