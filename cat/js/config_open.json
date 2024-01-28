@@ -1,10 +1,4 @@
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;EC14722944CB094619829A8824876D73",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-
-"sites": [
-
-{
     "video": {
         "sites": [
 
@@ -2166,4 +2160,3 @@
         }
     ]      
 }
-]}
