@@ -49,10 +49,6 @@
 "name": "独家接口"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/cat/js/config_open.json",
-"name": "CAT接口"
-},
-{
 "url":"https://jihulab.com/jigedos/dym/-/raw/master/master825.json",
 "name": "非凡接口"
 },
