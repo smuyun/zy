@@ -375,7 +375,7 @@
   "key": "hanjuzy",
   "name": "韩剧",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js"
   },
    {
         "key": "nmddd_open",
