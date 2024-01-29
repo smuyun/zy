@@ -365,10 +365,23 @@
 {"key":"加速器","name":"😎加速┃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
 {"key":"酷影视","name":"😎酷影┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {
+  "key": "kkys",
+  "name": "📺快看",
+  "type": 1,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/kkys_open.js"
+  },
+{
+  "key": "ng",
+  "name": "南瓜【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ng_open.js"
+  },
+{
   "key": "hanjuzy",
   "name": "🪜[韩剧]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js"
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "http://www.hanjuzy.com/inc/apijson_vod.php"
   },
    {
         "key": "nmddd_open",
