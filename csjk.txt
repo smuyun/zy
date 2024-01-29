@@ -369,7 +369,7 @@
   "name": "🪜[韩剧]",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-  "ext": "http://www.hanjuzy.com/inc/apijson_vod.php"
+  "ext": "http://www.hanjuzy.com/inc/api.php/inc/ldg_api_all.php"
   },
    {
         "key": "nmddd_open",
