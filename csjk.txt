@@ -412,13 +412,7 @@
           "name": "素白【📺】",
           "type": 3,
           "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/subaibai_open.js"
-    },
-  {
-        "key": "kkys",
-        "name": "📺快看",
-        "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/kkys_open.js"
-   },               
+    },            
 {
   "key": "klm_open",
   "name": "库洛米【📺】",
