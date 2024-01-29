@@ -406,13 +406,7 @@
         "name": "📺快看",
         "type": 3,
         "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/kkys_open.js"
-   },
-{
-  "key": "555",
-  "name": "五五【📺】",
-  "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/555dy_open.js"
-  },                  
+   },               
 {
   "key": "klm_open",
   "name": "库洛米【📺】",
@@ -427,7 +421,7 @@
    },
 {
   "key": "555电影",
-  "name": "🐾丨三五【📺️】",
+  "name": "三五【📺️】",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/555dy_open.js"
   },
@@ -466,13 +460,7 @@
   "name": "耐看【📺】",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/nkvod_open.js"
-  },
-{
-  "key": "xinshijue",
-  "name": "视觉【📺】",
-  "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/xinshijue_open.js"
-  },   
+  }, 
 {
   "key": "sc1080",
   "name": "圣城【📺】",
