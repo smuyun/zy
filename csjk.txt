@@ -1035,16 +1035,9 @@
       "filterable": 1,
       "ext": "https://app.bl210.com/api.php/v1.vod"
     }, 
-{
-    "key": "直播转点播2",
-    "name": "📛TH┃福利点播",
-    "type": 3,
-    "api": "http://52bsj.vip:81/api/v3/file/get/154864/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD2.js?sign=xMh0sTTPC8ojlcxFuPPdSwRlla4XIZ8sPC3OUoFq_AE%3D%3A0",
-    "ext": "https://ghproxy.net/https://raw.githubusercontent.com/ZTHA000/tvbox/main/dbiptv69.json"
-    },
     {
     "key": "直播转点播",
-    "name": "📛TH┃福利点播1",
+    "name": "📛TH┃福利点播",
     "type": 3,
     "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/点播1.js",
     "ext": "https://agit.ai/smy/zy/raw/branch/master/thzb.txt"
