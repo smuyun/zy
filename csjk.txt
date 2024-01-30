@@ -401,7 +401,7 @@
         "type": 3,
         "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/4kys_open.js"
    }, 
-{"key":"csp_Bdys","name":"💥哔嘀┃影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"},
+{"key":"csp_Bdys","name":"💥哔嘀┃影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"},
 {"key": "csp_XYQHiker_哔嘀影视","name":"🧲哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/cat/js/bidi.js","jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"},
    {
           "key": "subaibai",
