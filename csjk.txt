@@ -401,12 +401,7 @@
         "type": 3,
         "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/4kys_open.js"
    }, 
-   {
-        "key": "bidi",
-        "name": "哔嘀影视【📺️】",
-        "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/bidi.js"
-   }, 
+{"key":"csp_Bd","name":"🚕哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":""},
    {
           "key": "subaibai",
           "name": "素白【📺】",
