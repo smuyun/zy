@@ -365,11 +365,11 @@
 {"key":"加速器","name":"加速┃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
 {"key":"酷影视","name":"酷影┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {
-        "key": "kkys2",
-        "name": "快看2【📺】",
-        "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/kkys_open2.js"
-   },   
+  "key": "kkys2",
+  "name": "快看2【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/kkys_open2.js"
+  },   
 {
   "key": "hanjuzy",
   "name": "🪜[韩剧]",
@@ -377,12 +377,18 @@
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "http://www.hanjuzy.com/inc/apijson_vod.php"
   },
-   {
-        "key": "nmddd_open",
-        "name": "nmdd【📺】",
-        "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/nmddd_open.js"
-   },   
+{
+  "key": "nmddd_open",
+  "name": "nmdd【📺】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/nmddd_open.js"
+  },
+{
+  "key": "YT",
+  "name": "影探【📺️】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/yt_open.js"
+  },    
    {
         "key": "奈飞影视",
         "name": "奈飞【📺️】",
