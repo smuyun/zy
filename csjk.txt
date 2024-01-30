@@ -55,7 +55,7 @@
     },
     {
       "key": "csp_XBPQ_多剧",
-      "name": "剧多🏰观影",
+      "name": "剧多/观影",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -330,7 +330,7 @@
     },
     {
       "key": "saohuo",
-      "name": " 骚火👗影视",
+      "name": " 骚火/影视",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -338,7 +338,7 @@
     },
     {
       "key": "爱看影视",
-      "name": "爱看❤影视",
+      "name": "爱看/影视",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -346,7 +346,7 @@
     },
     {
       "key": "新视觉",
-      "name": "视觉🐦影视",
+      "name": "视觉/影视",
       "type": 3,
       "playerType": "2",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
@@ -354,7 +354,7 @@
     },
     {
       "key": "007影视",
-      "name": "邦德🍭影视",
+      "name": "邦德/影视",
       "type": 3,
       "playerType": "1",
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
