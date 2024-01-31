@@ -250,7 +250,8 @@
         "综艺",
         "动漫"
       ]
-    },  
+    }, 
+    {"key": "优酷","name": "👉春盈┃优酷","type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/","playUrl": "", 
         {
       "key": "csp_秋秋",
       "name": "🐧腾讯",
