@@ -375,7 +375,49 @@
   "name": "快看2【📺】",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/kkys_open2.js"
-  },   
+  },
+{
+  "key": "hw8",
+  "name": "🪜[华为]",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://hw8.live/api.php/provide/vod/at/json"
+  }, 
+{
+  "key": "apiapibdzy",
+  "name": "🪜[百度]",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://api.apibdzy.com/api.php/provide/vod/at/json"
+  },
+{
+  "key": "apiwujinapi",
+  "name": "🪜[无尽]",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://api.wujinapi.net/api.php/provide/vod/at/json"
+  },
+{
+  "key": "apitiankongapi",
+  "name": "🪜[天空]",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://api.tiankongapi.com/api.php/provide/vod/at/json"
+  },
+ {
+  "key": "kczyapi",
+  "name": "🪜[快车]",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://caiji.kczyapi.com/api.php/provide/vod/at/json"
+  }, 
+ {
+  "key": "qhzyapi",
+  "name": "🪜[奇虎]",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://caiji.qhzyapi.com/api.php/provide/vod/at/json"
+  }, 
 {
   "key": "taopianapi",
   "name": "🪜[淘片]",
