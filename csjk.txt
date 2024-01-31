@@ -251,7 +251,7 @@
         "动漫"
       ]
     }, 
-    {"key": "优酷","name": "👉春盈┃优酷","type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/","playUrl": "", 
+{"key": "优酷资源","name": "👉春盈┃优酷","type": 1, "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/youku/?at/xml/","playUrl": "","searchable": 1,"quickSearch": 1, "filterable": 1,"categories": ["国产剧","动作片","喜剧片"]},
         {
       "key": "csp_秋秋",
       "name": "🐧腾讯",
