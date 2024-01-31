@@ -592,22 +592,11 @@
       ]
     },
 {
-      "key": "影探",
+      "key": "影探1",
       "name": "拾光┃影探",
       "type": 3,
       "api": "https://d.kstore.space/download/4708/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/4708/js/影探4K.js"
-    },
-{
-      "key": "csp_XYQHiker_锐行加速影院",
-      "name": "拾光┃锐行",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://d.kstore.space/download/4708/js/锐行影院.json",
-      "jar": "https://d.kstore.space/download/4708/lib/xyq723.jar"
     },
  {
       "key": "csp_XYQHiker_奇趣影院",
@@ -618,17 +607,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://d.kstore.space/download/4708/js/奇趣影视.json",
-      "jar": "https://d.kstore.space/download/4708/lib/xyq723.jar"
-    },
- {
-      "key": "csp_XYQHiker_电影牛影院",
-      "name": "拾光┃影牛",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://d.kstore.space/download/4708/js/电影牛影院.json",
       "jar": "https://d.kstore.space/download/4708/lib/xyq723.jar"
     },
   {
