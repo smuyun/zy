@@ -567,7 +567,7 @@
     },
     {
       "key": "cjzy_暴风资源",
-      "name": "🎈┃暴风┃影视",
+      "name": "暴风┃影视",
       "type": 1,
       "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
       "playUrl": "",
@@ -592,12 +592,12 @@
       ]
     },
 {
-      "key": "影探1",
-      "name": "拾光┃影探",
-      "type": 3,
-      "api": "https://d.kstore.space/download/4708/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/4708/js/影探4K.js"
-    },
+  "key": "影探1",
+  "name": "拾光┃影探",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
+  "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/影探4K.js"
+  },
  {
       "key": "csp_XYQHiker_奇趣影院",
       "name": "拾光┃奇趣",
