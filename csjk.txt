@@ -692,20 +692,11 @@
       "changeable": 1,
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
-  {
-      "key": "快看影视",
-      "name": "🌸SP | 快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 {
       "key": "Czsapp",
       "name": "📔┃厂长┃4K",
       "type": 3,
-      "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a",
+      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621",
       "api": "csp_Czsapp",
       "playerType": 2,
       "searchable": 1,
@@ -773,16 +764,6 @@
         "欧美综艺"
       ]
     },
-        {
-      "key": "zxzj",
-      "name": "📗┃在线┃2K",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
     {
       "key": "csp_XYQHiker_‍dyx",
       "name": "🧲┃电影┃4k",
@@ -796,8 +777,6 @@
     },
  { "key": "zycj_天天", "name": "海燕采集", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8", "playUrl": "", "categories": [ "内地剧", "动作片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片", "伦理片", "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫" ] },
 {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"jp","name":"荐片","type": 3,"api": "csp_RinHome","searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
-{"key":"ruyi","name":"APP┃如意","type": 3,"api": "csp_App","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://cms.maoyingshi.cc/api.php/app/","jar":"http://f.haocew.com/TVBox/1/jar/other0815.jar;md5;9F0FAE900C5334C6F04C18DB69BF789A"},
 {"key":"csp_CZSPP","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
   {
       "key": "极速资源lz",
@@ -928,16 +907,6 @@
     "filterable":1,
     "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","大陆剧","港澳剧","欧美剧","犯罪片","台湾剧","韩剧","日剧","泰剧","动画片","奇幻片","灾难片","纪录片","体育","伦理片"]
     },
-{"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-            {
-            "key":"Kuaikan",
-            "name":"👀┃快看┃影视",
-            "type":3,
-            "api":"csp_Kuaikan",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
-        },
     {
     "key":"zy_卧龙资源",
     "name":"卧龙资源",
@@ -990,17 +959,6 @@
       "filterable": 1,
       "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/nm4k.jar"
     },
-{
-      "key": "看球",
-      "name": "拾光┃看球",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "gridview": 3,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/nm4k.jar"
-    },
         {
             "key":"csp_XBPQ新大米",
             "name":"大米┃影视",
@@ -1026,15 +984,6 @@
                 "分类":"电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
                 "分类url":"https://ys.ccmoe.cc/vodshow/{cateId}--{by}--{class}----{cateid}---{year}/"
             }
-        },
-        {
-            "key":"csp_Aue",
-            "name":"Aue┃影视",
-            "type":3,
-            "api":"csp_Auete",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":1
         },
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key": "csp_Alist","name": "Alist","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/smy/zy/raw/branch/master/alist.json","jar":"https://agit.ai/smy/zy/raw/branch/master/Tangrenjie.jar"},
