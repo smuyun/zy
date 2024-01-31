@@ -595,7 +595,7 @@
   "key": "影探1",
   "name": "拾光┃影探",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
+  "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/drpy2.min.js",
   "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/影探4K.js"
   },
  {
