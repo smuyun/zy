@@ -377,72 +377,65 @@
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/kkys_open2.js"
   },   
 {
-  "key": "hanjuzy",
-  "name": "🪜[韩剧]",
-  "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-  "ext": "http://www.hanjuzy.com/inc/apijson_vod.php"
-  },
-{
   "key": "taopianapi",
   "name": "🪜[淘片]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://taopianapi.com/cjapi/mc10/vod/json.html"
   },
 {
   "key": "apizuidapi",
   "name": "🪜[最大]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
   },
 {
   "key": "inmi",
   "name": "🪜[映迷]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://www.inmi.app/api.php/provide/vod/at/json"
   },
 {
   "key": "82156",
   "name": "🪜[至圣]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "http://82.156.40.118:1234/api.php/provide/vod/at/json"
   },
 {
   "key": "pgfenwe078",
   "name": "🪜[四圈]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://pg.fenwe078.cf/api.php/provide/vod/at/json"
   },
 {
   "key": "p2100",
   "name": "🪜[飘零]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://p2100.net/api.php/provide/vod/at/json"
   },
 {
   "key": "moviegsl99",
   "name": "🪜[新马]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://movie.gsl99.com/api.php/provide/vod/at/json"
   },
 {
   "key": "m3u8apiyhzy",
   "name": "🪜[樱花]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/json"
   },
 {
   "key": "sdzyapi",
   "name": "🪜[闪电]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "http://sdzyapi.com/api.php/provide/vod/at/json"
   },
@@ -1274,7 +1267,7 @@
 {
   "key": "kuaiavzy",
   "name": "🪜[快爱]",
-  "type": 1,
+  "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "http://kuaiavzy.com/api.php/provide/vod/at/json"
   },
