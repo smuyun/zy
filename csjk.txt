@@ -950,8 +950,8 @@
     },
 {"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
 {
-      "key": "新视觉",
-      "name": "📚拾光┃视觉",
+      "key": "视觉",
+      "name": "拾光┃视觉",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -962,7 +962,7 @@
     },
 {
       "key": "csp_Cs1369",
-      "name": "📚拾光┃966",
+      "name": "拾光┃966",
       "type": 3,
       "api": "csp_Cs1369",
       "searchable": 1,
@@ -972,7 +972,7 @@
     },
  {
       "key": "csp_Auete",
-      "name": "📚拾光┃影视",
+      "name": "拾光┃影视",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -982,7 +982,7 @@
     },
 {
       "key": "csp_Nmys",
-      "name": "📚拾光┃NM2K",
+      "name": "拾光┃NM2K",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -992,21 +992,18 @@
     },
 {
       "key": "看球",
-      "name": "📚拾光┃看球",
+      "name": "拾光┃看球",
       "type": 3,
       "api": "csp_Kanqiu",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "gridview": 3,
-      "style": {
-      "type": "list"
-      },
       "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/nm4k.jar"
     },
         {
             "key":"csp_XBPQ新大米",
-            "name":"🌾┃大米┃影视",
+            "name":"大米┃影视",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
@@ -1019,7 +1016,7 @@
         },
         {
             "key":"csp_XBPQ二萌",
-            "name":"🦝┃二萌┃影视",
+            "name":"二萌┃影视",
             "type":3,
             "api":"csp_XBPQ",
             "searchable":1,
@@ -1031,8 +1028,8 @@
             }
         },
         {
-            "key":"csp_Auete",
-            "name":"🏝┃Aue ┃影视",
+            "key":"csp_Aue",
+            "name":"Aue┃影视",
             "type":3,
             "api":"csp_Auete",
             "searchable":1,
