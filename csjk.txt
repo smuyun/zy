@@ -592,14 +592,45 @@
       ]
     },
     {
-    "key":"zy_乱舞8",
-    "name":"影视┃图图",
-    "type":1,
-    "api":"https://ys.md214.cn/api.php/provide/vod/",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "categories":["大陆剧","电影","连续剧","综艺","动漫","直播"]
+{
+      "key": "影探",
+      "name": "拾光┃影探",
+      "type": 3,
+      "api": "https://d.kstore.space/download/4708/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/4708/js/影探4K.js"
+    },
+{
+      "key": "csp_XYQHiker_锐行加速影院",
+      "name": "拾光┃锐行",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://d.kstore.space/download/4708/js/锐行影院.json",
+      "jar": "https://d.kstore.space/download/4708/lib/xyq723.jar"
+    },
+ {
+      "key": "csp_XYQHiker_奇趣影院",
+      "name": "拾光┃奇趣",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://d.kstore.space/download/4708/js/奇趣影视.json",
+      "jar": "https://d.kstore.space/download/4708/lib/xyq723.jar"
+    },
+ {
+      "key": "csp_XYQHiker_电影牛影院",
+      "name": "拾光┃影牛",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://d.kstore.space/download/4708/js/电影牛影院.json",
+      "jar": "https://d.kstore.space/download/4708/lib/xyq723.jar"
     },
   {
     "key":"zy_lziapi",
@@ -655,19 +686,7 @@
         "体育赛事",
         "海外剧"
       ]
-    },
-{
-      "key": "彩虹",
-      "name": "🌈┃彩虹┃4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod",
-      "jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
-    },         
+    },   
 {"key":"csp_xBPQ_不卡影视2","name":"🌟不卡影视","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"嗅探词\":\".m3u8#.mp4\",\"主演\":\"主演：&&</p>\",\"导演\":\"导演：&&</p>\",\"简介\":\"完整版在线免费观看，&&</div>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\":\"#down&&</li>\",\"线路标题\":\">&&</a>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</ul>\",\"播放标题\":\">&&</a>\",\"播放链接前缀\":\"http://kan8.tv\",\"分类\":\"电影$1#剧集$2#综艺$3#动漫$4#伦理$40\",\"搜索url\":\"http://kan8.tv/search.php;post;searchword={wd}\",\"分类url\":\"http://kan8.tv/films/{cateId}_{catePg}.html\"}","jar":"https://agit.ai/sunawy29/1/raw/branch/master/xBPQ.jar"},
 {"key":"csp_xpath_tjyy","name":"📺奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXP/huigutongying.json"},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
