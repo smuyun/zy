@@ -1,4 +1,4 @@
-import { Crypto, load, _ } from 'assets://js/lib/cat.js';
+import { Crypto, load, _ } from 'https://agit.ai/smy/zy/raw/branch/master/cat/js/cat.js';
 /**
  * 直播源
  * author：Leospring
