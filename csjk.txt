@@ -945,27 +945,37 @@
         "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/maiyoux_open.js"
    },
 {
-  "key": "蜜桃视频",
-  "name": "🐾丨蜜桃【🔞】",
-  "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/mtsp_open.js"
-  },
-{
-  "key": "黄色仓库",
-  "name": "🐾丨黄仓【🔞】",
-  "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/hsck_open.js"
-  },
- {
-  "key": "红袖资源",
-  "name": "🐾丨红袖【🔞】",
+  "key": "易看",
+  "name": "易看【🔞】",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-  "ext": "https://hongxiuzy.com/api.php/provide/vod/"
-  },
+  "ext":"https://api.yikanapi.com/api.php/provide/vod/from/yikan"
+  }, 
+{
+  "key": "精东影业",
+  "name": "精东【🔞】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext":"http://chujia.cc/api.php/provide/vod/from/m3u8/" 
+  }, 
+{
+  "key": "91AV",
+  "name": "就要【🔞】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext":{"url": "http://madouse.cc/api.php/provide/vod/",
+  "categories": ["国产传媒","麻豆视频","果冻传媒","天美传媒","蜜桃影像传媒","精东影业","糖心Vlog","日本视频"]} 
+    }, 
+ {
+  "key": "久色资源",
+  "name": "久色【🔞】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext":"https://9szy.net/api.php/provide/vod/at/json" 
+  }, 
 {
   "key": "草榴",
-  "name": "🐾丨草榴【🔞】",
+  "name": "草榴【🔞】",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8"
