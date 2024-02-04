@@ -1196,7 +1196,7 @@
 {
             "key": "番外",
             "name": "🚸番外采集",
-            "type": 3,
+            "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
@@ -1224,7 +1224,7 @@
 {
       "key": "森林专场",
       "name": "森林采集",
-      "type": 3,
+      "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/",
       "playUrl": "",
       "searchable": 1,
