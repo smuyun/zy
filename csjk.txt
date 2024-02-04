@@ -943,7 +943,33 @@
         "name": "麦游",
         "type": 3,
         "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/maiyoux_open.js"
-   },      
+   },
+{
+  "key": "蜜桃视频",
+  "name": "🐾丨蜜桃【🔞】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/mtsp_open.js"
+  },
+{
+  "key": "黄色仓库",
+  "name": "🐾丨黄仓【🔞】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/hsck_open.js"
+  },
+ {
+  "key": "红袖资源",
+  "name": "🐾丨红袖【🔞】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://hongxiuzy.com/api.php/provide/vod/"
+  },
+{
+  "key": "草榴",
+  "name": "🐾丨草榴【🔞】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8"
+  },       
 {
   "key": "api.maozyapi.com",
   "name": "🪜[猫咪]",
