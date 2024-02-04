@@ -190,6 +190,13 @@
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/kkys_open2.js"
   },
+ {
+  "key": "电视直播",
+  "name": "🐾丨直播【🎦】",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://tvbox.serv00.net/live.php"
+  },
 {
   "key": "hw8",
   "name": "🪜[华为]",
