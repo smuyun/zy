@@ -1,4 +1,6 @@
-{"spider":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac","wallpaper":"http://www.kf666888.cn/api/tvbox/img",
+{"spider":"https://agit.ai/smy/zy/raw/branch/master/JAR/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;EC14722944CB094619829A8824876D73",
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   "sites":[
 {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷酷", "name":"酷酷APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.tvkuys.xyz/api.php/app/" }, 
