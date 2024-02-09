@@ -1721,26 +1721,26 @@
       "quickSearch": 1
     },
     {
-      "key": "100AI资源",
-      "name": "💖100AI采集",
+      "key": "久草资源",
+      "name": "💖久草采集",
       "type": 1,
-      "api": "http://www.010aizy.com/API/maxs.php",
+      "api": "http://ww16.jcspcj8.co/sapi",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "100AI资源",
-      "name": "💖100AI采集",
+      "key": "鲍鱼BB资源",
+      "name": "💖鲍鱼BB采集",
       "type": 1,
-      "api": "http://www.010aizy.com/API/maxs.php",
+      "api": "http://baoyub.live/inc/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },
     {
-      "key": "100AI资源",
-      "name": "💖100AI采集",
+      "key": "JIUJIU资源",
+      "name": "💖JIUJIU采集",
       "type": 1,
-      "api": "http://www.010aizy.com/API/maxs.php",
+      "api": "http://99zy.pw/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },    
