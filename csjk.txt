@@ -480,7 +480,7 @@
   "name": "圣城【📺】",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/sc1080_open.js"
-  },    
+  },
 {
   "key": "蚂蚁呀",
   "name": "蚂蚁【📺️】",
@@ -1501,6 +1501,14 @@
       "name": "💖环亚采集",
       "type": 1,
       "api": "http://wmcj8.com/inc/sapi.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+        {
+      "key": "ZHAIKAN",
+      "name": "宅看影视",
+      "type": 1,
+      "api": "http://zhaikanys.xyz/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
     },  
