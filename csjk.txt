@@ -1269,7 +1269,7 @@
       "key":"wenbie",
        "name":"🈵吻别视频",
         "type":1,
-        "api":"https://agwb.top/api.php/provide/vod/",
+        "api":"https://agwb.top/api/xml.php",
         "searchable":1, 
         "quickSearch":1
      },
@@ -1277,7 +1277,7 @@
       "key":"sanyecao",
        "name":"🈵三叶草",
         "type":1,
-        "api":"https://zzn.syc1.motorcycles/api.php/provide/vod/",
+        "api":"https://zzn.syc1.motorcycles/api/xml.php",
         "searchable":1, 
         "quickSearch":1
      },
@@ -1285,7 +1285,7 @@
       "key":"xingcd",
        "name":"🈵杏冲动",
         "type":1,
-        "api":"https://wyg.xcd3.autos/api.php/provide/vod/",
+        "api":"https://wyg.xcd3.autos/api/xml.php",
         "searchable":1, 
         "quickSearch":1
      },
@@ -1293,10 +1293,18 @@
       "key":"meise",
        "name":"🈵魅色",
         "type":1,
-        "api":"https://www.msck1.cfd/api.php/provide/vod/",
+        "api":"https://www.msck1.cfd/api/xml.php",
         "searchable":1, 
         "quickSearch":1
      },
+{
+      "key": "avcsm",
+      "name": "💖AV传送门",
+      "type": 1,
+      "api": "https://www.avcsm1.ink/api/xml.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
 {
 "key": "csp_xBPQ_超清",
 "name": "🚸香蕉超清",
