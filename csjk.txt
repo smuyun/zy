@@ -1050,10 +1050,10 @@
   "ext":"https://api.yikanapi.com/api.php/provide/vod/from/yikan"
   },
    {
-        "key": "hsck",
-        "name": "黄色仓库",
+        "key": "AVcsm",
+        "name": "AV传送门",
         "type": 3,
-        "api": "https://agit.ai/smy/qt/raw/branch/master/B18/黄色仓库资源网.txt"
+        "api": "https://agit.ai/smy/qt/raw/branch/master/B18/AV传送门.txt"
    },
    {
         "key": "xingcd",
