@@ -284,6 +284,17 @@
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://tvbox.serv00.net/live.php"
   },
+  {
+		"key": "在线之家",
+		"name": "🐞在线之家",
+		"type": 3,
+		"api": "csp_Zxzj",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext":"http://dlj.bz/rRAMg4",
+		"jar":"http://dlj.bz/E2BIvf"
+	},
 {
   "key": "hw8",
   "name": "🪜[华为]",
@@ -1037,7 +1048,13 @@
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext":"https://api.yikanapi.com/api.php/provide/vod/from/yikan"
-  }, 
+  },
+{"key":"*字幕网","name":"*字幕网","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"*咪咪资源","name":"*咪咪资源","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"秀色采集","name":"秀色av","type":0,"api":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/","playUrl":"https://api.xiusebf.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"爱播采集","name":"爱播av","type":1,"api":"https://cj.apiabzy.com/api.php/provide/vod/?ac=list","playUrl":"https://player.aibozyplayer.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"7777688","name":"7777688(切)","type":1,"api":"http://m.7777688.com/inc/apijson.php","searchable":1,"quickSearch":1},
+{"key":"影库资源","name":"影库资源(切)","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/at/json","searchable":1,"quickSearch":1}, 
 {
   "key": "精东影业",
   "name": "精东【🔞】",
