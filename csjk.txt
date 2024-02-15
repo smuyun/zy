@@ -92,6 +92,7 @@
 {"key":"时常","name":"时常┃直连","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"playerType":1,"filterable":0,"ext":""},
 {"key":"Bdys_spider","name":"哔滴┃直连","api":"csp_Bdys01","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"NoSearch_csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
+{"key":"欣欣","name":"欣欣┃App","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/xinxin.js"},
 {"key":"csp_Bdys","name":"💥哔嘀┃影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"},
 {"key":"U酷资源","name":"U酷📭资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"最大资源","name":"最大🏠影库","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/","playUrl":"","searchable":1,"quickSearch":1},
