@@ -100,17 +100,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/YSC20231030.jar",
-      "ext": "https://agit.ai/kankan314/cattv/raw/branch/main/XBPQ/%e9%b8%ad%e5%a5%88%e9%a3%9e%e5%bd%b1%e8%a7%86.json"
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/YSC20231030.jar",
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/鸭奈飞影视.json"
     },
     {
       "key": "鸭奈飞",
-      "name": "🦆鸭奈飞",
+      "name": "鸭奈飞",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "filterable": 1,
       "ext": "https://yanetflix.me/api.php/app/"
     },
@@ -122,14 +122,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/spider.jar",
-      "ext": "https://agit.ai/kankan314/gao8/raw/branch/main/影视/EXT/欣欣"
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/spider.jar",
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/欣欣"
     },
     {
       "key": "赞赞",
       "name": "赞赞┃切片",
       "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
       "ext": "http://111.230.51.151:2323/api.php/app/",
       "searchable": 1,
@@ -164,7 +164,7 @@
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn",
-      "jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
     },
     {
       "key": "Auete",
