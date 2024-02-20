@@ -158,6 +158,83 @@
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
     },
     {
+      "key": "开心影视",
+      "name": "开心😄蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/kankan314/cattv/raw/branch/main/XBPQ/kaixinys.json"
+    },
+    {
+      "key": "校长影视",
+      "name": "🎏┃校长┃影视",
+      "type": 3,
+      "api": "csp_XiaoZhang",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/pg/lib/tokenm.json$$$null$$$1",
+      "jar": "https://agit.ai/kankan314/X/raw/branch/main/jar/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"
+    },
+    {
+      "key": "348影视",
+      "name": "🐰┃348┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/json/348.json",
+      "jar": "https://agit.ai/kankan314/X/raw/branch/main/jar/YSC.jar"
+    },
+    {
+      "key": "csp_午夜",
+      "name": "🌉┃午夜┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/alanchaotang/if/raw/branch/main/json/午夜影视.json",
+      "jar": "https://agit.ai/kankan314/X/raw/branch/main/jar/HeChengChaXiu.jar"
+    },
+    {
+      "key": "jojo",
+      "name": "🅾️┃JOJO┃追剧",
+      "type": 3,
+      "jar": "https://agit.ai/kankan314/X/raw/branch/main/jar/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe",
+      "api": "csp_Jiohub",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "danmu": true
+      }
+    },
+    {
+      "key": "猩猩",
+      "name": "✨┃猩猩┃追剧",
+      "type": 3,
+      "api": "csp_Appto",
+      "playerType": 2,
+      "ext": "DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY=$$$null$$$1",
+      "jar": "https://agit.ai/kankan314/X/raw/branch/main/jar/pg.jar;md5;9b30d1d8a5b0656c674590c3c6d2aafe"
+    },
+    {
+      "key": "蜂鸟",
+      "name": "🕊┃蜂鸟┃追剧",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="
+    },
+    {
       "key": "天天",
       "name": "🥇天天",
       "type": 3,
@@ -165,6 +242,17 @@
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn",
       "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
+    },
+    {
+      "key": "csp_biubiu_大米星球",
+      "name": "大米星球(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/大米星球.json",
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/XBiubiuLA3.jar"
     },
     {
       "key": "Auete",
