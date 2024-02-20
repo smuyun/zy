@@ -128,7 +128,7 @@
       "key": "亮亮",
       "name": "💡亮亮┃APP",
       "type": 3,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
       "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
       "searchable": 1,
