@@ -30,6 +30,13 @@
             "ext": ""
         },
 {
+  "key": "影探1",
+  "name": "拾光┃影探",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/drpy2.min.js",
+  "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/影探4K.js"
+  },
+{
       "key": "百度",
       "name": "❤️百度采集",
       "type": 1,
@@ -62,16 +69,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTv2eOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXaDs+dIWMYiwf6td5CWTx6LfL6eTuiMhs2KU5Byw9F+4Y/AHBg4r+LEe+Hm4EM2d8X3ca5zHSj+kjmpXOiGDo4TalFqgTq67eggmthCbV2d131SKc03V+5gruudQQk/Tb9e4lg6SQhA9/5kWOOM/LRmkqIxSt6d0wpu7yKKh65enwKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5lYNmxnWeRnYuLhoZbDqslAfJzg"
-    },
-    {
-      "key": "csp_XBPQ_多剧",
-      "name": "剧多/观影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"免嗅\":\"1\",\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",\"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"
     },
 {"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/奇珍异兽.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key": "drpy_js_腾云驾雾","name": "🐧腾讯","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/腾云驾雾.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
@@ -187,6 +184,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "csp_XBPQ_多剧",
+      "name": "剧多/观影",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\"免嗅\":\"1\",\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",\"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"
     },
 {"key":"csp_Bdys","name":"💥哔嘀┃影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"},
 {"key":"U酷资源","name":"U酷📭资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
