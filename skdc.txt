@@ -52,6 +52,9 @@
 "url":"https://agit.ai/smy/zy/raw/branch/master/独家.txt",
 "name": "独家接口"
 },
+"url":"https://agit.ai/smy/zy/raw/branch/master/kan923.txt",
+"name": "KAN923"
+},
 {
 "url":"https://jihulab.com/jigedos/dym/-/raw/master/master825.json",
 "name": "非凡接口"
