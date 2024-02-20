@@ -14,7 +14,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://pan.shangui.cc/f/YG70iy/yt.jar",
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/yt01.jar",
       "ext": "http://vip98.lyyytv.cn/api.php/app/"
     },
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
