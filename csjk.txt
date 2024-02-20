@@ -91,7 +91,7 @@
 {"key": "drpy_js_酷云77","name": "酷云77","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy.min.js",playUrl": "http://jx.xn--od1aq39b.net:8899/api/?key=uxD8rsV2ISvNHowx5i&url=","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/酷云77.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key":"NoSearch_csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
 {"key": "Freeok","name": "FreeOK线路(BPQ)","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/freeok.json"},
-{"key":"ok","name":"FreeOK","type":1,"api":"https://api.freeok123.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+{"key":"ok","name":"FreeOK","type":1,"api":"https://api.freeok.me/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"xinxin","name":"欣欣┃App","type":3,"api":"csp_xinxin","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/xinxin.js"},
 {"key":"csp_Bdys","name":"💥哔嘀┃影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"},
 {"key":"U酷资源","name":"U酷📭资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
