@@ -1738,6 +1738,19 @@
     ],
 "parses":[
     {
+      "name": "亮亮",
+      "type": 1,
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+      "ext": {
+        "flag": [
+          "seven"
+        ],
+        "header": {
+          "User-Agent": "Lavf/58.12.100"
+        }
+      }
+    },
+    {
       "name": "超级嗅探",
       "type": 3,
       "url": "Web"
