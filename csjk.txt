@@ -251,7 +251,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/大米星球.json",
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/大米星球.json",
       "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/XBiubiuLA3.jar"
     },
     {
