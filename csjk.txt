@@ -1926,41 +1926,6 @@
       }
     },
 {
-      "name": "解析1",
-      "type": 1,
-      "url": "http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url="
-    },
-    {
-      "name": "解析2",
-      "type": 1,
-      "url": "https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url="
-    },
-    {
-      "name": "嗅探1",
-      "type": 0,
-      "url": "https://vip.fkpzw.com/player/?url="
-    },
-    {
-      "name": "嗅探2",
-      "type": 0,
-      "url": "https://vip.fkpzw.com/player/analysis.php?v="
-    },
-    {
-      "name": "嗅探3",
-      "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-    },
-    {
-      "name": "嗅探4",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
-    },
-    {
-      "name": "嗅探5",
-      "type": 0,
-      "url": "https://vip.hfyj.ml/player/?url="
-    },
-{
   "name":"黄金线",
   "type":1,
   "url":"http://jx.xn--od1aq39b.net:8899/api/?key=uxD8rsV2ISvNHowx5i&url=", 
