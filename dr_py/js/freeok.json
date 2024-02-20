@@ -1,0 +1,76 @@
+{
+
+"作者": "小可乐",
+
+"站名": "FreeOK",  
+
+"主页url": "https://www.freeok.vip", 
+
+"编码": "UTF-8",
+
+"首页": "剧集$30",
+
+"请求头": "手机",
+
+"播放请求头": "手机",
+
+"嗅探词": ".m3u8#.mp4#freeok.mp4#/obj/",
+
+"起始页": "1",
+
+
+"影片类型":"module-info-tag\">&&</div></div>",
+
+"影片状态":"更新：&&</div>",
+    
+"导演":"导演：&&</div>",
+    
+"主演":"主演：&&</div>",
+
+"简介":"为您剧情介绍：+module-info-introduction-content\">&&</p>",
+      
+
+"分类url": "/vod-show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;mak",  
+
+"分类": "电影$1#剧集$2#综艺$4#少儿$5",  
+
+"数组":"<a&&</div></div></a>",
+
+"图片":"data-original=\"&&\"",
+    
+"标题":"title=\"&&\"",
+    
+"副标题":"module-item-note\">&&</div>",
+    
+"链接":"href=\"&&\"",
+
+                     
+"线路数组":"data-dropdown-value=&&</div>[不包含:夸克]",
+    
+"线路标题":"<span>&&</small>[替换:</span><small>>>共]+集",
+
+    
+"播放数组":"module-play-list-content&&</div>",
+
+"播放列表":"<a&&</a>",
+    
+"播放标题":"<span>&&</span>",
+
+"播放链接":"href=\"&&\"",
+
+
+"搜索url":"/vod-so/{wd}----------{catePg}---.html",
+
+"搜索模式":"1",
+
+"搜索数组":"<a&&</div></div></a>",
+
+"搜索图片":"data-original=\"&&\"",
+
+"搜索标题": "alt=\"&&\"",
+
+"搜索副标题": "module-item-note\">&&</div>",
+
+"搜索链接": "href=\"&&\""
+   
+}
