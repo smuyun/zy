@@ -29,13 +29,17 @@
             "filterable": 1,
             "ext": ""
         },
-{
-  "key": "影探1",
-  "name": "拾光┃影探",
-  "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/drpy2.min.js",
-  "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/影探4K.js"
-  },
+    {
+      "key": "亮亮",
+      "name": "💡亮亮┃APP",
+      "type": 3,
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
 {
       "key": "百度",
       "name": "❤️百度采集",
@@ -132,17 +136,6 @@
       "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
       "ext": "http://111.230.51.151:2323/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "亮亮",
-      "name": "💡亮亮┃APP",
-      "type": 3,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
