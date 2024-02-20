@@ -92,7 +92,49 @@
 {"key":"NoSearch_csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
 {"key": "Freeok","name": "FreeOK线路(BPQ)","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/freeok.json"},
 {"key":"ok","name":"FreeOK","type":1,"api":"https://api.freeok.vip/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"xinxin","name":"欣欣┃App","type":3,"api":"csp_xinxin","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/xinxin.js"},
+{
+      "key": "欣欣",
+      "name": "☢️欣欣",
+      "type": 3,
+      "api": "csp_Movie2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://agit.ai/kankan314/cattv/raw/branch/main/Jar/spider.jar",
+      "ext": "https://agit.ai/kankan314/gao8/raw/branch/main/影视/EXT/欣欣"
+    },
+    {
+      "key": "dr_home",
+      "name": "🌈┃在线之家┃🦁",
+      "type": 3,
+      "api": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js",
+      "searchable": 2,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/在线之家.js"
+    },
+    {
+      "key": "赞赞",
+      "name": "赞赞┃切片",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://111.230.51.151:2323/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "亮亮",
+      "name": "💡亮亮┃APP",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
 {"key":"csp_Bdys","name":"💥哔嘀┃影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"},
 {"key":"U酷资源","name":"U酷📭资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"最大资源","name":"最大🏠影库","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/","playUrl":"","searchable":1,"quickSearch":1},
@@ -1716,6 +1758,19 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"乐乐","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
 {"name":"巧技解析","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
+{
+      "name": "亮亮",
+      "type": 1,
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+      "ext": {
+        "flag": [
+          "seven"
+        ],
+        "header": {
+          "User-Agent": "Lavf/58.12.100"
+        }
+      }
+    },
 {
       "name": "解析1",
       "type": 1,
