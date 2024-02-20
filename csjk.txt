@@ -1718,7 +1718,7 @@
 {"name":"巧技解析","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {
             "name": "网络1",
-            "type": 2,
+            "type": 0,
             "url": "https://www.playm3u8.cn/jiexi.php?url="
         },
 {
