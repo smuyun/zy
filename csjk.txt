@@ -1717,9 +1717,9 @@
 {"name":"乐乐","type":1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
 {"name":"巧技解析","type":1,"url":"http://pandown.pro/app/kkdy.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {
-            "name": "瞄影嗅探",
-            "type": 0,
-            "url": "http://www.miaoys.cc/vip/?url="
+            "name": "网络1",
+            "type": 2,
+            "url": "https://www.playm3u8.cn/jiexi.php?url="
         },
 {
   "name":"黄金线",
