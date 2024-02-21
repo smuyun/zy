@@ -1233,6 +1233,10 @@
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext":"https://api.yikanapi.com/api.php/provide/vod/from/yikan"
   },
+{"key": "废柴网","name": "废柴网","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/新香蕉废柴网.json"},
+{"key": "Gaoav","name": "GaoAv","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/Gaoav.json.json"},
+{"key": "聚优中文","name": "聚优中文","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/聚优中文资源.json"},
+{"key": "鸭奈非4K","name": "鸭奈非4K","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/鸭奈非4K.json"},
 {
   "key": "精东影业",
   "name": "精东【🔞】",
