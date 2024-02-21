@@ -95,7 +95,7 @@
 {"key": "drpy_js_139影视","name": "139影视","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/139影视.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key": "drpy_js_酷云77","name": "酷云77","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy.min.js",playUrl": "http://jx.xn--od1aq39b.net:8899/api/?key=uxD8rsV2ISvNHowx5i&url=","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/酷云77.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key":"NoSearch_csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
-{"key": "Freeok","name": "FreeOK线路(BPQ)","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/freeok.json"},
+{"key": "Freeok","name": "FreeOK线路","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/freeok.json"},
 {
       "key": "csp_NaiFei",
       "name": "♈️奈飞影视",
@@ -118,6 +118,11 @@
       "filterable": 1,
       "ext": "https://yanetflix.me/api.php/app/"
     },
+{"key": "鸭奈非4K","name": "鸭奈非4K","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/鸭奈非4K.json"},
+{"key": "ok影院","name": "ok影院","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/ok影院.json"},
+{"key": "voflixHD","name": "voflixHD","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/voflixHD.json"},
+{"key": "2个BT","name": "2个BT","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/两个BT.json"},
+{"key": "爱韩剧","name": "爱韩剧","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/爱韩剧.json"},
 {
       "key": "欣欣",
       "name": "☢️欣欣",
@@ -1235,8 +1240,8 @@
   },
 {"key": "废柴网","name": "废柴网","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/新香蕉废柴网.json"},
 {"key": "Gaoav","name": "GaoAv","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/Gaoav.json.json"},
-{"key": "聚优中文","name": "聚优中文","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/聚优中文资源.json"},
-{"key": "鸭奈非4K","name": "鸭奈非4K","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/鸭奈非4K.json"},
+{"key": "麻豆女优","name": "麻豆女优","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/聚优麻豆女优.json"},
+{"key": "超清资源","name": "超清资源","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/超清资源.json"},
 {
   "key": "精东影业",
   "name": "精东【🔞】",
