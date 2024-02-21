@@ -1,15 +1,15 @@
 //永久域名 hsck123.com 备用域名 hsck12.life  hsck12.live
 {
 "站名":"黄仓库",
-"主页url":"https://hsck12.shop/?type=gc&p=1",
+"主页url":"http://hsck613.cc/",
 //"直接播放":"1",
 "数组":"<div class=\"stui-vodlist__box\">&&&</li>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
-//"链接前缀":"https://hsck12.shop",
+//"链接前缀":"http://hsck613.cc/",
 "副标题":"<span class=\"pic-text text-right\">&&</span>",
-"搜索url": "https://hsck12.shop//index.php/ajax/suggest?mid=1&wd={wd}",
+"搜索url": "http://hsck613.cc//index.php/ajax/suggest?mid=1&wd={wd}",
 "搜索模式":"0",
 "搜索数组":"<div class=\"stui-vodlist__box\">&&</li>",
 "搜索图片":"data-original=\"&&\"",
@@ -18,5 +18,5 @@
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "分类":"日韩AV$wz#中文无码$yz",
-"分类url":"https://hsck12.shop/?type={cateId}&p={catePg}"
+"分类url":"http://hsck613.cc/?type={cateId}&p={catePg}"
 }
