@@ -1237,6 +1237,11 @@
         "type": 3,
         "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/maiyoux_open.js"
    },
+{"key": "杏冲动","name": "杏冲动","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/杏冲动.txt"},
+{"key": "玉女色","name": "玉女色","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/玉女色.txt"},
+{"key": "秒播AV","name": "秒播AV","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/秒播AV.txt"},
+{"key": "桃花源","name": "桃花源","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/桃花源.txt"},
+{"key": "番禺视频","name": "番禺视频","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/番禺视频.txt"},
 {
   "key": "易看",
   "name": "易看【🔞】",
