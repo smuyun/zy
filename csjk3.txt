@@ -84,7 +84,6 @@
 {"key": "drpy_js_百忙无果","name": "🥭芒果","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/百忙无果.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key": "drpy_js_优酷","name": "👑优酷","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/优酷.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 { "key": "js_菜狗", "name": "✮爱优腾芒", "type": 3, "api": "https://agit.ai/smy/zy/raw/branch/master/gy/api.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://agit.ai/smy/zy/raw/branch/master/gy/caigou.txt" },
-{"key": "小猫咪","name": "小猫咪","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XB/小猫咪.json"},
 {"key": "drpy_js_菜狗","name": "🐭搜狗","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/菜狗.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key": "drpy_js_奇优影院","name": "奇优影院","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/奇优影院.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key": "drpy_js_哔嘀影视","name": "哔嘀影视","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/哔嘀影视.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
@@ -1274,7 +1273,6 @@
 {"key": "csp_Gaoav","name": "GaoAv","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/Gaoav.json.json"},
 {"key": "csp_麻豆女优","name": "麻豆女优","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/聚优麻豆女优.json"},
 {"key": "csp_香蕉资源","name": "香蕉资源","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/香蕉超清资源.json"},
-{"key": "csp_白虎色","name": "白虎色","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XBCR/白虎色.json"},
 {
       "key": "csp_聚优直播",
       "name": "聚优直播",
