@@ -1266,7 +1266,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-	 "ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/聚优直播.json"
+	 "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/聚优直播.json"
     },
 {
   "key": "精东影业",
