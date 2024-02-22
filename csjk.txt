@@ -1259,6 +1259,16 @@
 {"key": "麻豆女优","name": "麻豆女优","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/聚优麻豆女优.json"},
 {"key": "香蕉资源","name": "香蕉资源","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/香蕉超清资源.json"},
 {
+      "key": "csp_聚优直播",
+      "name": "聚优直播",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	 "ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/聚优直播.json"
+    },
+{
   "key": "精东影业",
   "name": "精东【🔞】",
   "type": 3,
