@@ -1986,24 +1986,6 @@
             }
         }
     ],    
-    "flags": [
-        "youku",
-        "qq",
-        "iqiyi",
-        "qiyi",
-        "letv",
-        "sohu",
-        "tudou",
-        "pptv",
-        "mgtv",
-        "wasu",
-        "bilibili",
-        "renrenmi",
-        "1905",
-        "xigua",
-        "ltnb",
-        "CL4K"
-    ],
     "ijk": [
         {
             "group": "软解码",
