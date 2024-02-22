@@ -1283,6 +1283,11 @@
       "filterable": 1,
 	 "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/聚优直播.json"
     },
+{"key": "csp_黄仓库","name": "黄仓库","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XBCR/黄仓库.json"},
+{"key": "csp_猫咪","name": "猫咪","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XBCR/猫咪.json"},
+{"key": "csp_国产撸","name": "国产撸","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XBCR/国产撸.json"},
+{"key": "csp_香蕉视频","name": "香蕉视频","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XBCR/香蕉视频.json"},
+{"key": "csp_GAOAA","name": "GAOAA","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XBCR/GAOAA.json"},
 {
   "key": "精东影业",
   "name": "精东【🔞】",
@@ -1501,7 +1506,6 @@
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "http://kuaiavzy.com/api.php/provide/vod/at/json"
   },
-{"key":"csp_xBPQ_黄仓库","name":"🏆黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/黄仓库.json"},
 {
       "key":"chengren",
        "name":"🈵伙伴天空",
