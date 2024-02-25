@@ -1245,7 +1245,6 @@
     "ext": "https://agit.ai/smy/zy/raw/branch/master/thzb.txt"
     },
 {"key":"lf_js_lf_live","name":"🍓直播(直连)","type":3,"api":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).js","searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/直播(直连).txt"},
-{"key":"zp028","name":"🔞zp028","type":0,"api":"http://mygzycj.com/api.php?ac=list","searchable":1,"quickSearch":1,"filterable":0},
  {
         "key": "maiyoux_open",
         "name": "麦游",
@@ -1261,7 +1260,6 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{"key": "黄色仓库","name": "黄色仓库","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/黄色仓库.txt"},
 {
   "key": "易看",
   "name": "易看【🔞】",
@@ -1270,9 +1268,6 @@
   "ext":"https://api.yikanapi.com/api.php/provide/vod/from/yikan"
   },
 {"key": "废柴网","name": "废柴网","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/新香蕉废柴网.json"},
-{"key": "GAOAA","name": "GAOAA","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/GAOAA.json"},
-{"key": "18AV","name": "18AV","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/18AV.json"},
-{"key": "香蕉资源","name": "香蕉资源","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/香蕉视频.json"},
 {
       "key": "csp_聚优直播",
       "name": "聚优直播",
@@ -1283,24 +1278,6 @@
       "filterable": 1,
 	 "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/聚优直播.json"
     },
-{
-            "key": "红袖",
-            "name": "红袖添香",
-            "type": 1,
-            "api": "https://hongxiuzy.com/api.php/provide/vod/from/hxm3u8/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "一区","二区","三区","四区","国产裸聊","抖音视频","网红头条","网曝黑料","欧美无码","女优明星","SM调教","无码专区","麻豆传媒","制服诱惑","AI换脸","中文字幕","卡通动漫","极品探花","美女主播","自拍偷拍","熟女人妻","萝莉少女","蜜桃传媒","3P群交","果冻传媒","精东影业","内地传媒","国产精品","日韩有码"
-            ]
-},
-{"key": "csp_黄仓库","name": "黄仓库","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XBCR/黄仓库.json"},
-{"key": "csp_猫咪","name": "猫咪","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XBCR/猫咪.json"},
-{"key": "csp_国产撸","name": "国产撸","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XBCR/国产撸.json"},
-{"key": "csp_香蕉视频","name": "香蕉视频","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XBCR/香蕉视频.json"},
-{"key": "csp_GAOAA","name": "GAOAA","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/MHQTV/raw/branch/master/XBCR/GAOAA.json"},
 {
   "key": "精东影业",
   "name": "精东【🔞】",
