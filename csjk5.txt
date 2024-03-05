@@ -3451,7 +3451,19 @@
       "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 	}],
 
-    "lives":[{"name":"MYZB","type":0,"url":"https://agit.ai/smy/tv/raw/branch/main/1102.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[
+        {
+            "group":"redirect",
+            "channels":[
+                {
+                    "name":"live",
+                    "urls":[
+                        "https://agit.ai/smy/tv/raw/branch/main/1102.txt"
+                    ]
+                }
+            ]
+        }
+    ],
 
 "parses":[
     {
