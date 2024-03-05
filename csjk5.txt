@@ -1,6 +1,4 @@
-{
-"spider":"https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704563972868/fan.txt;md5;d3fb341454f7edebacaad3c0ab1767d6",
-"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+{"spider":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac","wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
 "sites": [
 
@@ -3451,7 +3449,7 @@
       "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
 	}],
 
-    "lives":[{"name":"MYZB","type":0,"url":"https://agit.ai/smy/tv/raw/branch/main/1102.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+    "lives":[{"name":"MYZB","type":0,"url":"https://agit.ai/smy/tv/raw/branch/main/1102.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 
 "parses":[
     {
