@@ -61,6 +61,10 @@
 "name": "测试接口7"
 },
 {
+"url":"https://agit.ai/smy/zy/raw/branch/master/csjk8.txt",
+"name": "测试接口8"
+},
+{
 "url":"https://agit.ai/smy/zy/raw/branch/master/独家.txt",
 "name": "独家接口"
 },
