@@ -2031,7 +2031,93 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-	}],
+	}，
+  {
+      "key": "艾旦影视",
+      "name": "艾旦",
+      "type": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "api": "https://lovedan.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "1",
+      "name": "-end-",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "2",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "3",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "4",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "5",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "6",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "7",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "8",
+      "name": "",
+      "type": 3,
+      "api": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
             
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
