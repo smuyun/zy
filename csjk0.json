@@ -100,33 +100,6 @@
       "ext": "./js/360影视.js"
     },
     {
-      "key": "csp_fk",
-      "name": "影视 | ️菲克蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/菲克高清.json"
-    },
-    {
-      "key": "csp_策驰",
-      "name": "影视 | ️策驰高清",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./js/策驰影视.json"
-    },
-    {
-      "key": "drpy_js_咕噜[V2]",
-      "name": "影视 | 咕噜",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/咕噜[V2].js"
-    },
-    {
       "key": "drpy_js_素白白",
       "name": "影视 | 素白白",
       "type": 3,
