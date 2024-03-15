@@ -25,7 +25,7 @@
 "name": "ZIYONG"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk0.json",
+"url":"https://atomgit.com/smy/zy/raw/master/skjk.json",
 "name": "JHZYJK"
 },
 {
