@@ -1,6 +1,5 @@
 {
   "spider": "./Jar/0324.jar",
-  "warningText": "公众号非凡工具箱提醒您:本接口长期更新 完全免费 请放心使用",
 
 "lives":[{
      "name": "live",
@@ -9,10 +8,10 @@
      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
      "logo": "https://epg.112114.xyz/logo/{name}.png"
             }],
- 
-  "sites": [
-       
- {"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
+"sites": [
+
+{"key":"mtv_pc_酷云七七","name":"爬虫┃酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷酷", "name":"酷酷APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.tvkuys.xyz/api.php/app/" }, 
 {
   "key": "影探1",
@@ -48,71 +47,26 @@
       ]
     },
 {"key":"北极狐", "name": "🦊极狐", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://www.kuin.one/api.php/app/"},
-   {
-      "key": "极速资源lz",
-      "name": "急速",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "记录片",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "电影解说"
-      ]
-    },
-       {"key": "csp_XBPQ_6V","name": "magnet | 宝盒","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
-    {
-      "key": "drpy_js_360影视",
-      "name": "官源 | 360",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/360影视.js"
-    },
-    {
+{
       "key": "drpy_js_奇珍异兽",
       "name": "官源 | 爱奇艺",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
-    {
-      "key": "drpy_js_优酷",
-      "name": "官源 | 优酷",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/优酷.js"
-    },
-    {
+{
       "key": "drpy_js_腾云驾雾",
       "name": "官源 | 腾讯",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/腾云驾雾.js"
+    },
+{
+      "key": "drpy_js_优酷",
+      "name": "官源 | 优酷",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/优酷.js"
     },
     {
       "key": "drpy_js_百忙无果",
@@ -121,7 +75,7 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/百忙无果.js"
     },
-    {
+{
       "key": "csp_77",
       "name": "影视 | 酷云七七",
       "type": 3,
@@ -131,12 +85,19 @@
       "filterable": 1,
       "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"
     },
-    {
+{
       "key": "drpy_js_两个BT",
-      "name": "影视 | 两个BT",
+      "name": "影视|两个BT",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./js/两个BT.js"
+    },
+{
+      "key": "drpy_js_360影视",
+      "name": "官源 | 360",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/360影视.js"
     },
     {
       "key": "drpy_js_素白白",
