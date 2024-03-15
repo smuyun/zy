@@ -25,7 +25,7 @@
 "name": "ZIYONG"
 },
 {
-"url":"https://jihulab.com/smy2/dym/-/raw/master/ziyong1.txt",
+"url":"https://jihulab.com/smy2/dym/-/raw/master/master825.json",
 "name": "ATZYJK"
 },
 {
