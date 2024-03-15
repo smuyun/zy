@@ -25,7 +25,7 @@
 "name": "ZIYONG"
 },
 {
-"url":"https://atomgit.com/smy/zy/raw/master/wljk0.txt",
+"url":"https://jihulab.com/smy2/dym/-/raw/master/ziyong1.txt",
 "name": "ATZYJK"
 },
 {
