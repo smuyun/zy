@@ -25,8 +25,8 @@
 "name": "ZIYONG"
 },
 {
-"url":"https://jihulab.com/smy2/dym/-/raw/master/master825.json",
-"name": "ATZYJK"
+"url":"https://jihulab.com/smy2/dym/-/raw/master/master825.json?ref_type=heads",
+"name": "JHZYJK"
 },
 {
 "url":"https://agit.ai/smy/zy/raw/branch/master/csjk.txt",
