@@ -29,6 +29,10 @@
 "name": "JHZYJK"
 },
 {
+"url":"https://agit.ai/smy/zy/src/branch/master/csjk0.json",
+"name": "AGZYJK"
+},
+{
 "url":"https://agit.ai/smy/zy/raw/branch/master/csjk.txt",
 "name": "测试接口"
 },
