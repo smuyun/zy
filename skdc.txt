@@ -29,7 +29,7 @@
 "name": "JHZYJK"
 },
 {
-"url":"https://agit.ai/smy/zy/src/branch/master/csjk0.json",
+"url":"https://agit.ai/smy/dym/raw/branch/master/ziyong1.json",
 "name": "AGZYJK"
 },
 {
