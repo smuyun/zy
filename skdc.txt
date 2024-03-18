@@ -26,7 +26,7 @@
 },
 {
 "url":"https://atomgit.com/smy/zy/raw/master/skjk.json",
-"name": "JHZYJK"
+"name": "ATZYJK"
 },
 {
 "url":"https://agit.ai/smy/dym/raw/branch/master/ziyong1.json",
