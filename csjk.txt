@@ -1398,6 +1398,20 @@
   "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
   },
 {
+  "key": "奥斯卡资源",
+  "name": "🪜奥斯卡",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://aosikazy.com/api.php/provide/vod/"
+  },
+{
+  "key": "KK写真",
+  "name": "🪜KK写真",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://kkzy.me/api.php/provide/vod/"
+  },
+{
   "key": "siwazywtw",
   "name": "🪜[袜丝]",
   "type": 3,
