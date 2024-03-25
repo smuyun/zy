@@ -448,6 +448,12 @@
 	}
     }, 
   {
+        "key": "tutu_open",
+        "name": "丨图图",
+        "type": 3,
+        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/tutu_open.js"
+    },
+  {
         "key": "耐看点播",
         "name": "丨耐看【📺️】",
         "type": 3,
