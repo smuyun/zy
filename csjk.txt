@@ -653,6 +653,12 @@
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/nmddd_open.js"
   },
+{
+  "key": "玩偶哥哥",
+  "name": "玩偶",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/wogg_open.js"
+  },
    {
         "key": "奈飞影视8",
         "name": "奈飞【📺️】",
