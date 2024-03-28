@@ -37,6 +37,10 @@
 "name": "测试接口"
 },
 {
+"url":"https://d.kstore.space/download/8049/tv/csjk.txt",
+"name": "备用接口"
+},
+{
 "url":"https://agit.ai/smy/zy/raw/branch/master/csjk0.txt",
 "name": "测试接口0"
 },
