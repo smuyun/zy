@@ -1,6 +1,6 @@
 {
 spider: "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;1f58870cbfc2419c6fdd6c8a071bd800", 
-  "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+"wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 "rules":[
 {"host":"www.djuu.com","rule":["mp4.djuu.com","m4a"]},
@@ -1971,7 +1971,6 @@ spider: "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t6
       ]
     }
   ],
-  "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "ads": [
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
