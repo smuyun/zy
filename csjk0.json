@@ -1,7 +1,7 @@
 {
-  https://agit.ai/smy/dym/raw/branch/master/Jar/0324.jar
-  
-  "lives":[{
+  "spider": "https://agit.ai/smy/dym/raw/branch/master/Jar/0324.jar",
+
+"lives":[{
      "name": "live",
      "type": 0,
      "url": "https://agit.ai/smy/tv/raw/branch/main/1102.txt",
