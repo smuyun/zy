@@ -41,7 +41,7 @@
 "name": "备用接口"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk0.txt",
+"url":"https://agit.ai/smy/zy/raw/branch/master/csjk0.json",
 "name": "测试接口0"
 },
 {
