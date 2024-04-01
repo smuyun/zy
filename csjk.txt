@@ -51,13 +51,6 @@ spider: "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t6
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/cntv_open.js"
   },
 {
-  "key": "开心自营",
-  "name": "开心自营 ",
-  "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-  "ext": "http://www.ttkx.site/api.php/provide/vod/at/json"
-  },
-{
       "key": "百度",
       "name": "❤️百度采集",
       "type": 1,
