@@ -1807,5 +1807,5 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;0d6c8210ceb52eef5d408640aa64c643"
+      "spider": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar"
 }
