@@ -1918,5 +1918,5 @@
         "cms.qdwght.com"
     ],
       
-      "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"
+      "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider_1.jar"
 }
