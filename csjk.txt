@@ -227,19 +227,6 @@
       "changeable": 1,
       "jar": "http://61.183.41.92:588/影视/fan1019.jar;md5;c751af3facc83634083d794effe11bc1"
     },
-                {
-      "key": "Panta",
-      "name": "🐉┃胖达秒播┃",
-      "type": 3,
-      "api": "csp_Panta",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "changeable": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
-      "timeout": 60
-    },
 {
       "key": "毛驴",
       "name": "🐉┃毛驴直连┃",
@@ -1292,17 +1279,17 @@
   },
 {
   "key": "siwazywtw",
-  "name": "🪜[袜丝]",
+  "name": "🪜[丝袜]",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://www.siwazyw.tv/api.php/provide/vod/at/json"
   },
 {
   "key": "siwa",
-  "name": "🪜[丝袜]",
+  "name": "🪜[爱豆]",
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "type": 3,
-  "ext": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json"
+  "ext": "http://chujia.cc/api.php/provide/vod/from/m3u8"
   },
 {
   "key": "putaozyw",
