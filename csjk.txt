@@ -175,34 +175,13 @@
       "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/NY影院.json"
     },
 {
-"key": "dr_码上看尘落",
-"name": "🐉┃落尘秒播┃",
-"type": 3,
-"api": "./lib/merge.min.js",
-"searchable": 1, "playerType": 2, 
-"quickSearch": 0,
-"filterable": 1,
-"ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/尘落影视.json"
-},
-{
-"key": "dr_码上看NY",
-"name": "🐉┃南亚影视┃",
-"type": 3
-, "api": "./lib/merge.min.js",
-"searchable": 1,
-"playerType": 2,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/NY影院.json"
-},
-{
       "key": "黑狐",
       "name": "🐉┃黑狐BP播┃",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "playerType": "2",
       "api": "csp_XBPQ",
       "ext": {
@@ -281,20 +260,10 @@
       "changeable": 1
     },
 {
-      "key": "zxzj",
-      "name": "🐉┃在线直连┃",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzj.pro/"
-    },
-{
       "key": "双黄",
       "name": "🐉┃双黄BP播┃",
       "type": 3,
-      "jar": "./lib/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
