@@ -161,6 +161,20 @@
       "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/xyq723.jar"
     },
 {
+      "key": "drpy_js_尘落",
+      "name": "🐉┃落尘秒播┃",
+      "type": 3,
+      "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/尘落影视.json"
+    },
+{
+      "key": "drpy_js_NY影院",
+      "name": "🐉┃南亚影视┃",
+      "type": 3,
+      "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/NY影院.json"
+    },
+{
 "key": "dr_码上看尘落",
 "name": "🐉┃落尘秒播┃",
 "type": 3,
