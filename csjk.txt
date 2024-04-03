@@ -96,7 +96,6 @@
         "电影解说"
       ]
     },
-  {"key": "csp_XBPQ_6V","name": "magnet | 宝盒","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/6V%e7%a3%81.json"},
    {
       "key": "drpy_js_两个BT",
       "name": "影视 | 两个BT",
@@ -132,6 +131,56 @@
              "filterable": 1,"jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar;md5;f20b74480c058b1ff6236601f92d65a8",
             "ext": "http://rihou.cc:88/hccx/苹果影视.json"
         },
+{
+      "key": "drpy_js_网飞TV",
+      "name": "🐉┃网飞影视┃",
+      "type": 3,
+      "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/网飞TV.js"
+    },
+{
+      "key": "T4-yinyuetai",
+      "name": "🐉┃音悦台MV┃",
+      "type": 4,
+      "api": "https://catbox.n13.club/yyt.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": true
+    },
+{
+      "key": "csp_XYQHiker_奇趣影院",
+      "name": "🐉┃奇趣影院┃",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/奇趣影视.json",
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/xyq723.jar"
+    },
+{
+"key": "dr_码上看尘落",
+"name": "🐉┃落尘秒播┃",
+"type": 3,
+"api": "./lib/merge.min.js",
+"searchable": 1, "playerType": 2, 
+"quickSearch": 0,
+"filterable": 1,
+"ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/尘落影视.json"
+},
+{
+"key": "dr_码上看NY",
+"name": "🐉┃南亚影视┃",
+"type": 3
+, "api": "./lib/merge.min.js",
+"searchable": 1,
+"playerType": 2,
+"quickSearch": 1,
+"filterable": 1,
+"ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/NY影院.json"
+},
     {
       "key": "鸭奈飞1",
       "name": "鸭奈飞",
