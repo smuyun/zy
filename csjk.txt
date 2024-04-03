@@ -7,7 +7,7 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://mpimg.cn/down.php/de50ad6ce386187037fbf980b04b229e.txt",
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/fan-2.jar",
       "changeable": 1
     },
 {"key":"酷酷", "name":"酷酷APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.tvkuys.xyz/api.php/app/" }, 
