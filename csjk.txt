@@ -165,7 +165,6 @@
       "name": "🐉┃落尘秒播┃",
       "type": 3,
       "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
-      playUrl": "https://jx.xmflv.com/?url=",
       "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/尘落影视.json"
     },
 {
