@@ -528,6 +528,41 @@
   "ext": "https://tvbox.serv00.net/live.php"
   },
 {
+  "key": "yycj",
+  "name": "业余采集",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "http://154.3.2.163/api.php/provide/vod/"
+  }, 
+{
+  "key": "ffcj",
+  "name": "非凡采集",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
+  }, 
+{
+  "key": "hhcj",
+  "name": "火狐采集",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/"
+  }, 
+{
+  "key": "lzcj",
+  "name": "量子采集",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
+  }, 
+{
+  "key": "jjcj",
+  "name": "聚焦采集",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://www.mjlnl.cn/api.php/v1.vod"
+  }, 
+{
   "key": "hw8",
   "name": "🪜[华为]",
   "type": 3,
