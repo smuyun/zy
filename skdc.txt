@@ -25,12 +25,12 @@
 "name": "ZIYONG"
 },
 {
-"url":"https://atomgit.com/smy/zy/raw/master/csjk.txt",
-"name": "ATZYJK"
+"url":"https://agit.ai/smy/dym/raw/branch/master/ziyong1.json",
+"name": "ZIYONG1"
 },
 {
-"url":"https://agit.ai/smy/dym/raw/branch/master/ziyong1.json",
-"name": "AGZYJK"
+"url":"https://atomgit.com/smy/zy/raw/master/csjk.txt",
+"name": "ATZYJK"
 },
 {
 "url":"https://agit.ai/smy/zy/raw/branch/master/csjk.txt",
