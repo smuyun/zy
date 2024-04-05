@@ -549,8 +549,8 @@
   "ext": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/"
   }, 
 {
-  "key": "lzcj",
-  "name": "量子采集",
+  "key": "yingtucj",
+  "name": "影图采集",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
@@ -560,7 +560,7 @@
   "name": "聚焦采集",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-  "ext": "https://www.mjlnl.cn/api.php/v1.vod"
+  "ext": "https://cj.vodimg.top/api.php/provide/vod/at/json"
   }, 
 {
   "key": "hw8",
