@@ -227,19 +227,6 @@
       "changeable": 1,
       "jar": "http://61.183.41.92:588/影视/fan1019.jar;md5;c751af3facc83634083d794effe11bc1"
     },
-                {
-      "key": "Panta",
-      "name": "🐉┃胖达秒播┃",
-      "type": 3,
-      "api": "csp_Panta",
-      "jar": "http://www.wya6.cn/tz/wypg.php",
-      "changeable": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/PG推送.json$$$https://www.91panta.cn/$$$null$$$1",
-      "timeout": 60
-    },
 {
       "key": "毛驴",
       "name": "🐉┃毛驴直连┃",
@@ -373,17 +360,6 @@
        "ext":"http://4k.953365.cn:8090/xgapp.php/v3/"
      },
     {
-      "key": "赞赞",
-      "name": "赞赞┃切片",
-      "type": 3,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://111.230.51.151:2323/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "可口可乐",
       "name": "♐┃可乐┃4K",
       "type": 3,
@@ -413,29 +389,10 @@
       "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/大米星球.json",
       "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/XBiubiuLA3.jar"
     },
-    {
-      "key": "csp_XBPQ_多剧",
-      "name": "剧多/观影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"免嗅\":\"1\",\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",\"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"
-    },
 {"key":"U酷资源","name":"U酷📭资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"最大资源","name":"最大🏠影库","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"晴天","name":"🎀晴天","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 {"key":"豪华资源","name":"豪华🛫原生","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{
-      "key": "NOAD",
-      "name": "🏞️NOVIP",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext":"https://notabug.org/ygfxz/6/raw/main/XBPQ/NOVIP.json"},
 {
   "key": "csp_XBPQ_lz",
   "name": "💖乐竹",
@@ -471,7 +428,6 @@
     "线路数组":"<h3&&</h3>",
     "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html",
     "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
-{"key":"csp_lgz_feifei","name":"🤣开心坊","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{ \"免嗅\":\"1\", \"演员\":\"主演：&&\", \"简介\":\"class=\\\"video-info-item video-info-content vod_content\\\"&&\", \"副标题\":\"class=\\\"module-item-text\\\">&&\", \"数组\":\"class=\\\"module-item-pic&&\", \"线路数组\":\"class=\\\"module-tab-item tab-item&&\", \"线路标题\":\"&&\", \"播放数组\": \"class=\\\"scroll-content&&\", \"分类\":\"电影$dianying#剧集$fenlei2#国产剧$guochanju#综艺$zongyi#动漫$dongman\", \"分类url\":\"https://www.kaixinfang.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html/\"}"},
 {
         "key": "zhuiyi",
         "name": "⭕️追忆",
@@ -540,6 +496,41 @@
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://tvbox.serv00.net/live.php"
   },
+{
+  "key": "yycj",
+  "name": "业余采集",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "http://154.3.2.163/api.php/provide/vod/"
+  }, 
+{
+  "key": "ffcj",
+  "name": "非凡采集",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
+  }, 
+{
+  "key": "hhcj",
+  "name": "火狐采集",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/"
+  }, 
+{
+  "key": "yingtucj",
+  "name": "影图采集",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
+  }, 
+{
+  "key": "jjcj",
+  "name": "聚焦采集",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://cj.vodimg.top/api.php/provide/vod/at/json"
+  }, 
 {
   "key": "hw8",
   "name": "🪜[华为]",
@@ -927,17 +918,6 @@
         "战争片"
       ]
     },
-{
-      "key": "csp_XYQHiker_奇趣影院",
-      "name": "拾光┃奇趣",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://d.kstore.space/download/4708/js/奇趣影视.json",
-      "jar": "https://d.kstore.space/download/4708/lib/xyq723.jar"
-    },
   {
     "key":"zy_lziapi",
     "name":"量子影视",
@@ -1146,7 +1126,6 @@
     "filterable":1,
     "categories":["最新","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","记录片","短片","动画片","泰国剧","惊悚片","家庭片","古装片","悬疑片","犯罪片","篮球","伦理片","足球"]
     },
-{"key": "csp_xpNmys","name": "🌾农民〔SP〕","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/农民.json"},
 {
       "key": "视觉3",
       "name": "拾光┃视觉",
@@ -1158,19 +1137,6 @@
       "ext": "https://www.80yy3.com/",
       "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/nm4k.jar"
     },
-        {
-            "key":"csp_XBPQ二萌",
-            "name":"二萌┃影视",
-            "type":3,
-            "api":"csp_XBPQ",
-            "searchable":1,
-            "quickSearch":1,
-            "filterable":0,
-            "ext":{
-                "分类":"电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
-                "分类url":"https://ys.ccmoe.cc/vodshow/{cateId}--{by}--{class}----{cateid}---{year}/"
-            }
-        },
 {"key": "csp_Alist","name": "Alist","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/smy/zy/raw/branch/master/alist.json","jar":"https://agit.ai/smy/zy/raw/branch/master/Tangrenjie.jar"},
 {"key":"drpy_js_Ali","name":"网盘 | Alist","type":3,"api":"https://agit.ai/smy/zy/raw/branch/master/JS/lib/alist.min.js","ext":"https://agit.ai/smy/zy/raw/branch/master/gy/alist.json"},
 {
@@ -1233,12 +1199,19 @@
       "filterable": 0
     },
 {
-  "key": "易看",
-  "name": "易看【🔞】",
+  "key": "kuaiavzycj",
+  "name": "快爱",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-  "ext":"https://api.yikanapi.com/api.php/provide/vod/from/yikan"
-  },
+  "ext": "http://kuaiavzy.com/api.php/provide/vod/at/json"
+  }, 
+{
+  "key": "jumaozycj",
+  "name": "橘猫",
+  "type": 3,
+  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "ext": "https://to.to-long.com/api.php/provide/vod/at/json"
+  }, 
 {"key": "废柴网","name": "废柴网","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/新香蕉废柴网.json"},
 {"key":"tianmi","name":"甜蜜资源","type":1,"style":{"type":"rect","ratio":1.485},"api":"https://timizy10.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {
@@ -1276,13 +1249,6 @@
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://aosikazy.com/api.php/provide/vod/"
   },
-  {
-  "key": "奥斯卡资源",
-  "name": "🪜奥斯卡",
-  "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
-  "ext": "https://aosikazy.com/api.php/provide/vod/"
-  },
 {
   "key": "KK写真",
   "name": "🪜KK写真",
@@ -1292,17 +1258,17 @@
   },
 {
   "key": "siwazywtw",
-  "name": "🪜[袜丝]",
+  "name": "🪜[丝袜]",
   "type": 3,
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "ext": "https://www.siwazyw.tv/api.php/provide/vod/at/json"
   },
 {
   "key": "siwa",
-  "name": "🪜[丝袜]",
+  "name": "🪜[爱豆]",
   "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
   "type": 3,
-  "ext": "https://haiwai.siwazyw.org/api.php/provide/vod/at/json"
+  "ext": "http://chujia.cc/api.php/provide/vod/from/m3u8"
   },
 {
   "key": "putaozyw",
@@ -1661,25 +1627,7 @@
             "quickSearch":1,
             "filterable":0,"jar":"",
             "ext":"https://agit.ai/o/o/raw/branch/o/o/%e5%88%86%e4%ba%ab%e7%9f%ad%e8%a7%86%e9%a2%91.json"
-        }, {
-      "key": "Yiso",
-      "name": "ᥬ🤪᭄易搜(仅搜索)",
-      "type": 3,
-      "api": "csp_Yiso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-    }, {
-      "key": "AliPS",
-      "name": "💫阿狸盘搜(仅搜索)",
-      "type": 3,
-      "api": "csp_AliPanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-    }, {
+        },{
       "key": "zhaozy",
       "name": "🔥找资源(仅搜索)",
       "type": 3,
