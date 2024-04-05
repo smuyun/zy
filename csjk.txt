@@ -1627,25 +1627,7 @@
             "quickSearch":1,
             "filterable":0,"jar":"",
             "ext":"https://agit.ai/o/o/raw/branch/o/o/%e5%88%86%e4%ba%ab%e7%9f%ad%e8%a7%86%e9%a2%91.json"
-        }, {
-      "key": "Yiso",
-      "name": "ᥬ🤪᭄易搜(仅搜索)",
-      "type": 3,
-      "api": "csp_Yiso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-    }, {
-      "key": "AliPS",
-      "name": "💫阿狸盘搜(仅搜索)",
-      "type": 3,
-      "api": "csp_AliPanSou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-    }, {
+        },{
       "key": "zhaozy",
       "name": "🔥找资源(仅搜索)",
       "type": 3,
