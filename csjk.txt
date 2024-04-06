@@ -2,6 +2,26 @@
     "sites": [ 
 {"key":"csp_ky77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"https://notabug.org/qdpdwjx/ziyuan/raw/master/JAR/XYQ.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"}, 
 {"key":"酷酷", "name":"酷酷APP", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
+{
+      "key": "csp_XBPQ_ 乐猪影视",
+      "name": "乐猪影视【XBPQ】",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "{\r\n\"站名\":\"乐猪影视\",\r\n\"主页url\":\"http://www.lezhutv.com\",\r\n\"请求头\":\"Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Mobile Safari/537.36\",\r\n\"cookie\":\"\",\r\n\"倒序播放\":\"1\",\r\n\"数组\":\"class=\\\"vbox\\\">&&</li>\",\r\n\"图片\":\"data-original=\\\"&&\\\"\",\r\n\"标题\":\"title=\\\"&&\\\"\",\r\n\"链接\":\"href=\\\"&&\\\"\",\r\n\"副标题\":\"<span>&&</span>\",\r\n\"线路数组\":\"icon-pin\\\">&&/h3>[替换:1.在线视频 (支持手机)>>👉线路♥<序号>]\",\r\n\"线路标题\":\"</i>&&<\",\r\n\"播放数组\":\"class=\\\"list_block show\\\"&&</ul>\",\r\n\"影片类型\":\"class=\\\"yac\\\">&&</p>\",\r\n\"导演\":\"导演：&&</p>\",\r\n\"主演\":\"主演：&&</p>\",\r\n\"简介\":\"class=\\\"tbox_js\\\">&&</div>\",\r\n\"播放列表\":\"<li>&&</li>\",\r\n\"播放标题\":\"\\\">&&</a>\",\r\n\"播放链接\":\"href=\\\"&&\\\"\",\r\n//\"搜索url\": \"/index.php?m=vod-search;post;wd={wd}&search=\",\r\n\"搜索url\":\"http://www.lezhutv.com/index.php?m=vod-search&wd={wd}\",\r\n\"搜索模式\":\"1\",\r\n\"搜索数组\":\"class=\\\"vbox\\\">&&</li>\",\r\n\"搜索图片\":\"data-original=\\\"&&\\\"\",\r\n\"搜索标题\":\"title=\\\"&&\\\"\",\r\n\"搜索链接\":\"href=\\\"&&\\\"\",\r\n\"搜索副标题\":\"<span>&&</span>\",\r\n\"搜索后缀\":\"/detail/\",\r\n\"嗅探词\":\"m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a\",\r\n\"过滤词\":\"51.la#cnzz.com#baidu.com#bilibili.com\",\r\n\"播放请求头\":\"\",\r\n\"免嗅\":\"0\",\r\n\"分类\":\"电影&连续剧&综艺&韩剧&美剧\",\r\n\"分类值\":\"1&2&3&14&15\",\r\n\"分类url\":\"http://www.lezhutv.com/type/{cateId}-{catePg}.html\"\r\n}"
+    },
+{
+      "key": "csp_XBPQ_电视盒子",
+      "name": "电视盒子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/电视盒子.json"
+    },
 {"key": "csp_酷影APP","name": "酷影APP", "type": 3,"api": "csp_Nmys", "searchable": 1,"changeable": 1,"ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/酷影APP.json"},
 {"key":"NoSearch_csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -1353,6 +1373,16 @@
  },
 {"key":"美少女","name":"🈴美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},    
 {"key": "鸡坤资源", "name": "🔞鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{
+      "key": "玉兔",
+      "name": "玉兔【福利】",
+      "type": 1,
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+      "playUrl": "https://yutujx.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 {"key": "玉兔专场","name": "🚸玉兔采集","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": [    
 "精品推荐","国产精品","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","童真萝莉","三级伦理","卡通动漫","丝袜OL","口爆颜射","自拍偷拍","日本片商","Cosplay","素人自拍","台湾色情","韩国自拍","性感港姐","东南亚情色","凌辱束缚","剧情介绍","多P 3P","91系列","网红系列","野外系列","女仆系列","学生中出","性感旗袍","兽耳作品","瑜伽裤","骚货护士","及膝袜","网曝系列","麻豆传媒","女同人妖","恋腿癖"]},
 {
