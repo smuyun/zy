@@ -135,19 +135,20 @@
         "电影解说"
       ]
     },
+{"key": "drpy_js_免费看","name": "免费看","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/免费看.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},   
    {
       "key": "drpy_js_两个BT",
       "name": "影视 | 两个BT",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/两个BT.js"
+      "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/两个BT.js"
     },
     {
       "key": "drpy_js_素白白",
       "name": "影视 | 素白白",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/素白白.js"
+      "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
+      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/素白白.js"
     },
 {
       "key": "七七备用",
