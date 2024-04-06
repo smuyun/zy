@@ -135,9 +135,9 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-             "filterable": 1,"jar": "http://rihou.cc:88/hccx/HeChengChaXiu.jar;md5;f20b74480c058b1ff6236601f92d65a8",
-            "ext": "http://rihou.cc:88/hccx/苹果影视.json"
-        },
+             "filterable": 1,
+            "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/苹果影视.json"
+        },       
 {"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/230929.jar"},
 {"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/230929.jar"},
 {"key":"csp_IQIYI","name": "🥝爱奇艺","type":3,"api":"csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/230929.jar"},
