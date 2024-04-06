@@ -113,7 +113,7 @@
 "name": "南风线路"
 },
 {
-"url": "https://agit.ai/wsdhl123/whtv/raw/branch/master/TVBox/tv.json",
+"url": "https://help.agit.ai/iswhat/TVBox/raw/commit/74b2de7d5b9dd50459d18f6abde6903831fc2f1c/XC.json",
 "name": "烟圈夜猫子线路"
 },
 {
