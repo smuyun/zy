@@ -137,7 +137,7 @@
     },
 {"key": "drpy_js_免费看","name": "免费看","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/免费看.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},   
    {
-      "key": "drpy_js_两个BT",
+      "key": "drpy_js_LGBT",
       "name": "影视 | 两个BT",
       "type": 3,
       "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
