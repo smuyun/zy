@@ -20,6 +20,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "playUrl":"https://jxxcc-cc1.dianshia.top/api/?key=RxSlfyMCzxKoFWMdv4&url=",
       "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/酷影APP.json"
     },
 {"key":"NoSearch_csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
