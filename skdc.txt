@@ -113,7 +113,7 @@
 "name": "南风线路"
 },
 {
-"url": "https://agit.ai/zw8881/dc/raw/branch/master/ymz/api.json",
+"url": "https://agit.ai/1452635819/h/raw/commit/a02bcc9ed2b34a4fdd71c5d7b8ef6b55539436df/尤东风.json",
 "name": "烟圈夜猫子线路"
 },
 {
