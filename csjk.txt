@@ -748,9 +748,8 @@
           "key": "素白白",
           "name": "丨素白【📺️】",
           "type": 3,
-          "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/subaibai_open.js",
-          "playUrl": "http://crl3.digicert.com/DigiCertGlobalRootCA.crl0="
-    },
+          "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/subaibai_open.js"
+          },
     {
         "key": "南瓜影视",
         "name": "丨南瓜【📺️】",
