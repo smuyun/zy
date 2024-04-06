@@ -22,7 +22,7 @@
 {"key": "drpy_js_4K电影网","name": "4K电影网","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/4K电影网.js"},
 {"key": "drpy_js_4K电影网","name": "4K电影网","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/4K电影网.js"},
 {"key": "drpy_js_乐鱼影视","name": "乐鱼影视","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/乐鱼影视.js"},
-{"key": "drpy_js_看韩剧","name": "看韩剧","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/看韩剧.js"},
+{"key": "drpy_js_看韩剧","name": "看韩剧","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/看韩剧.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
 {"key": "drpy_js_Icio影视","name": "Icio影视","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/Icio影视.js"},
 {"key": "drpy_js_热播库","name": "热播库","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/热播库.js"},
 {"key": "drpy_js_免费看","name": "免费看","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/免费看.js"},
@@ -714,12 +714,6 @@
         "type": 3,
         "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/zjm_open.js"
    },  
- {
-        "key": "热播之家",
-        "name": "丨热播【📺️】",
-        "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/rbzj_open.js"
-   },
  {
         "key": "影渣渣",
         "name": "丨影渣【📺️】",
