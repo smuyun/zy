@@ -869,7 +869,7 @@
       "quickSearch": 1,
       "filterable": 1,"jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"
     },
-{"key":"suying影视","name":"🍓速映影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/suying.json"},
+{"key":"suying影视","name":"🍓速映影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/JS/js/suying.json"},
    {
           "key": "subaibai",
           "name": "素白【📺】",
@@ -1822,8 +1822,87 @@
         }
       }
     },
-            {
-      "name": "天微1",
+  {
+		"name": "影探",
+		"type": 1,
+		"url": "http://lflong.lyyytv.cn/json.php?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	},
+	  {
+      "name": "天微科技解析",
+      "type": 1,
+      "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "tucheng",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "yzm",
+          "aliyun",
+          "RJuMao",
+          "bilibili",
+          "1905",
+          "xinvip",
+          "XAL",
+          "qiqi",
+          "XALS",
+          "YuMi-vip"
+        ]
+      }
+    },
+	{
+		"name": "蚂蚁",
+		"type": 1,
+		"url": "http://118.99.2.230:6688/api/?key=vAhZ67qzRdW2czQEo2&url=",
+		"ext": {
+			"flag": ["NBY"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	},
+	{
+		"name": "玉米",
+		"type": 1,
+		"url": "http://42.157.128.109:2323/CH/zy/Yumi.php?url=",
+	    "ext": {
+			"flag": ["YuMi-vip"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	},
+{
+	    "name": "车哥", 
+	    "type": 1, 
+	    "url": "https://hd.396pay.cn/api/?key=WYfoc47cVuA6xeED4H&url=", 
+	    "ext": { "flag": [ "JHA", "JHB", "mmal"] }
+	},
+  {
+	    "name": "车弟", 
+	    "type": 1, 
+	    "url": "https://xjx.tvcms.top/api/?key=a035e75110289821feec5033ffde2bec&url=", 
+	    "ext": { "flag": [ "TD", "JHA", "JHB", "mmal", "FY" ] }
+	},
+  {
+		"name": "精选1",
+		"type": 0,
+		"url": "https://svip.ikumiao.icu/dm/?uid=4292751&key=dikpqruyBHLNQW0346&url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent": "Lavf/58.12.100"}
+		}    
+	},
+    {
+      "name": "天微",
       "type": 1,
       "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
       "ext": {
@@ -1836,7 +1915,7 @@
       }
     },
     {
-      "name": "天微",
+      "name": "天微1",
       "type": 1,
       "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
       "ext": {
