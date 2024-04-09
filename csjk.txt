@@ -1722,11 +1722,7 @@
 {"name":"Web聚合","type":3,"url":"Web"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{
-      "name": "解析1",
-      "type": 1,
-      "url": "http://xn--wnup5g.xn--z7x900a.love:63/Art0425/analysis.php?v="
-    },
+{"name":"解析1","type":1,"url":"http://jx.84jia.top:8020/fflzm3u8ts.php?url="},
     {
       "name": "解析2",
       "type": 1,
