@@ -65,8 +65,8 @@
 "name": "测试接口5"
 },
 {
-"url":"https://agit.ai/cyl518/a/raw/branch/master/bjtv.json",
-"name": "测试接口9"
+"url":"https://agit.ai/smy/zy/raw/branch/master/csjk6.txt",
+"name": "测试接口6"
 },
 {
 "url":"https://agit.ai/smy/zy/raw/branch/master/csjk7.txt",
