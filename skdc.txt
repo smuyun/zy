@@ -105,6 +105,10 @@
 "name": "网络接口2"
 },
 {
+"url":"http://tipu.xjqxz.top/a001.asp",
+"name": "网络接口3"
+},
+{
 "url":"https://agit.ai/smy/zy/raw/branch/master/daozhang.txt",
 "name": "道长接口"
 },
