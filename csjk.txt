@@ -1736,7 +1736,7 @@
 {
 "name":"解析1",
 "type":0,
-"url":"https://api.huohua.vip/api/?key=pDkBdh5kqfFc6wrCCQ&url="
+"url":"http://json.84jia.com/home/api?type=ys&uid=24462983&key=gkrswxzBCGLMRWZ027&url="
 },
 {"name":"bozrc","type":0,"url": "https://jx.bozrc.com:4433/player/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "leshi", "LS", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header": {"User-Agent": ""}}},
 {
