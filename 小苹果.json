@@ -9,7 +9,7 @@
 "filterable":1,
 "jar":"http://tipu.xjqxz.top/1119/xpg240228.jar;md5;e98a7f7d8ab52fa6d6ddd3ca12c0de0a"
 },
-{"key":"豪华资源1","name":"豪华🛫原生","type":1,"api":"http://tipu.xjqxz.top/api.php/v3.vod/","searchable":1,"quickSearch":1},
+{"key":"豪华资源1","name":"豪华🛫原生","type":1,"api":"http://tipu.xjqxz.top/api.php/v3.vod?ac=list","searchable":1,"quickSearch":1},
 {
 "key":"360_spider",
 "name":"🥎360影视官方",
