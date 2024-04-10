@@ -2,12 +2,11 @@
  {
 "key":"小苹果",
 "name":"🍎主力源",
-"type":3,
+"type":1,
 "api":"csp_LiteApple",
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"playUrl":"",
 "jar":"http://tipu.xjqxz.top/1119/xpg240228.jar;md5;e98a7f7d8ab52fa6d6ddd3ca12c0de0a"
 },
 {
