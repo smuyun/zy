@@ -2,7 +2,7 @@
  {
 "key":"小苹果",
 "name":"🍎主力源",
-"type":0,
+"type":2,
 "api":"csp_LiteApple",
 "searchable":1,
 "quickSearch":1,
