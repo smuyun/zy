@@ -10,6 +10,16 @@
 "jar":"http://tipu.xjqxz.top/1119/xpg240228.jar;md5;e98a7f7d8ab52fa6d6ddd3ca12c0de0a"
 },
 {
+			"key": "小苹果1",
+			"name": "🍎主力源1",
+			"type": 3,
+			"api": "csp_LiteApple",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
+		},
+{
 "key":"360_spider",
 "name":"🥎360影视官方",
 "api":"csp_SP33",
