@@ -51,34 +51,12 @@
 "name":"🍎BT备份",
 "type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bf8","name":"🍎南瓜备份","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"雨哥影视","name":"🍟雨哥影视(聚)","type":1,"api":"http://cj.baozi66.top:66/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"影图影视","name":"🍎影图影视(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{
-      "key": "csp_QQ",
-      "name": "🐧腾讯（官）",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_MGTV",
-      "name": "🥭芒果（官）",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_IQIYI",
-      "name": "🥝爱奇艺（官）",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+{"key":"csp_QQ","name":"🐧腾讯（官）","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MGTV","name":"🥭芒果（官）","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_IQIYI","name":"🥝爱奇艺（官）","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"youku","name":"👑优酷（官）","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":0,"quickSearch":0,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
 {"key":"234PQ","name":"🌙月亮影院","type":3,"api":"csp_XBPQ","searchable":1,"filterable":1,"quickSearch":1,
 "ext":{
 "分类url":"https://www.zqzdzj.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
