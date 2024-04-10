@@ -7,7 +7,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"playUrl":"https://m3u8player.org/player.html?url=",
+"playUrl":"https://jx.m3u8.tv/jiexi/?url=",
 "jar":"http://tipu.xjqxz.top/1119/xpg240228.jar;md5;e98a7f7d8ab52fa6d6ddd3ca12c0de0a"
 },
 {
@@ -335,7 +335,6 @@
 },
 {"name":"解析6","type":0,"url":"https://okjx.cc/?url="},
 {"name":"解析7","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"解析8","type":0,"url":"https://okjx.cc/?url="},
 {"name":"解析9","type":1,"url":""},
 {"name":"解析10","type":0,"url":"https://jx.xmflv.com/?url="},
 {"name":"解析11","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
