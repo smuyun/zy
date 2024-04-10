@@ -269,7 +269,7 @@
 {"key":"海玉影视","name":"🍬海玉影视(聚)","type":1,"api":"http://tv2.hykjtv.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"百淘影视","name":"🍨百淘影视(聚)","type":1,"api":"http://ys.58g8.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"阿里影视","name":"🥤阿里影视(聚)","type":1,"api":"http://aliys.cn:90/api.php/provide/vod/","searchable":0,"quickSearch":0}],
-"spider":"http://194.147.100.39/box/0114.jar;md5;67ab191a8dc3da999e50d0334c81e422","wallpaper":"http://www.kf666888.cn/api/tvbox/img", 
+"spider":"https://agit.ai/smy/zy/raw/branch/master/JAR/0114.jar;md5;67ab191a8dc3da999e50d0334c81e422","wallpaper":"http://www.kf666888.cn/api/tvbox/img", 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3RpcHUueGpxeHoudG9wL2xpdmUxMjEzLnR4dA=="]}]}],
 "parses":[
 {
