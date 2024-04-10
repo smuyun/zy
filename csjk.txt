@@ -85,16 +85,6 @@
 "线路标题":"💠++>&&</a>"}},
 {"key":"酷酷", "name":"酷酷APP", "type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 {
-      "key": "csp_XBPQ_酷影APP",
-      "name": "酷影APP",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/酷影APP.json"
-    },
-{
   "key": "聚视网",
   "name": "央视【🌏️】",
   "type": 3,
@@ -287,7 +277,7 @@
       }
     },
         {
-      "key": "csp_Bttoo",
+      "key": "csp_Bttoo1",
       "name": "🐉┃苹果主力┃",
       "type": 3,
       "api": "csp_Bttwoo",
