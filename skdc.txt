@@ -105,8 +105,8 @@
 "name": "网络接口2"
 },
 {
-"url":"http://tipu.xjqxz.top/a001.asp",
-"name": "网络接口3"
+"url":"https://agit.ai/smy/zy/raw/branch/master/小苹果.json",
+"name": "小苹果接口"
 },
 {
 "url":"https://agit.ai/smy/zy/raw/branch/master/daozhang.txt",
