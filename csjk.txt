@@ -39,16 +39,6 @@
 "jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/xpg240228.jar;md5;e98a7f7d8ab52fa6d6ddd3ca12c0de0a"
 },
 {
-"key":"小苹果1",
-"name":"🍎主力源1",
-"type":3,
-"api":"csp_LiteApple",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/fan1019.jar;md5;c751af3facc83634083d794effe11bc1"
-},
-{
 "key":"bf3",
 "name":"🍎快看备份",
 "type":3,
@@ -294,7 +284,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "http://61.183.41.92:588/影视/fan1019.jar;md5;c751af3facc83634083d794effe11bc1"
+      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/fan1019.jar;md5;c751af3facc83634083d794effe11bc1"
     },
 {
       "key": "毛驴",
