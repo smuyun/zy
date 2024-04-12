@@ -73,16 +73,6 @@
 {"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/230929.jar"},
 {"key":"csp_IQIYI","name": "🥝爱奇艺","type":3,"api":"csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/230929.jar"},
 {"key": "csp_Nmys","name": "农民影视", "type": 3,"api": "csp_Nmys", "searchable": 1,"changeable": 1,"ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/农民影视.json"},
-    {
-      "key": "csp_XBPQ_多剧",
-      "name": "剧多┃观影",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "{\"免嗅\":\"1\",\"演员\":\"主演：&&</div>\",\"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",\"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"
-    },
 {
       "key": "49zy",
       "name": "♻️┃49Z┃2K",
@@ -128,7 +118,6 @@
         "海外剧"
       ]
     },
-{"key": "kuin","name": "APP/北极狐[V2]","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/appysv2.js","ext": "https://www.kuin.one/api.php/app/"},
 {"key": "火狐资源","name": "采集/火狐","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js","ext":{"url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8","categories": [ "内地剧","欧美剧","香港剧","台湾剧","马泰剧","韩剧","日剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","记录片","","动画片","中国动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]	}},
     {
       "key": "豪华资源",
