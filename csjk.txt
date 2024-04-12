@@ -38,10 +38,6 @@
 "filterable":1,
 "jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/xpg240228.jar;md5;e98a7f7d8ab52fa6d6ddd3ca12c0de0a"
 },
-{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
-{"key":"csp_apple","name":"🍎苹果┃SP","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"wabc(腾讯直采)","name":"wabc(腾讯直采)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
-{"key":"wabc(爱奇艺直采)","name":"wabc(爱奇艺直采)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {
 "key":"bf3",
 "name":"🍎快看备份",
@@ -68,7 +64,6 @@
 "简介":"友情提醒🔺勿信广告，避免受骗🔺+id=\"cText\">&&</a>",
 "线路数组":"channelname swiper-slide\">&&</a>",
 "线路标题":"💠+&nbsp;&&<[排序:腾讯>奇艺>优酷>芒果>搜狐]"}},
-{"key":"csp_Jianying","name":"✨简影丨SP","api":"csp_JianYing","type":3,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozODkxMywiQ3JlYXRlZEF0IjoiMjAyMi0xMS0yMlQyMjowNDoyNi42MzUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTExLTIyVDIyOjA0OjI2LjYzNSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjEyNjYwOTk2QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6ImU2M2Y5ZDRiLTE3YjQtNDJiZS1hNDlkLWQ3NDhjZGEwNDA2OSIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY5NzMwNjgwLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.HUvbbfvU_s7mfmKAsJ7Pg_Wo9tShQtdbZbnuUixZHrM"},
 {
       "key": "csp_Xunlei8",
       "name": "🧲迅雷吧",
