@@ -1,31 +1,31 @@
 {
 "urls": [
 {
-"url": "https://agit.ai/smy/tv/raw/branch/main/5555.txt",
+"url": "http://www.uuneed.cn/smy/tv/raw/main/5555.txt",
 "name": "公共"
 },
 {
-"url": "https://agit.ai/smy/zy/raw/branch/master/5555.txt",
+"url": "http://www.uuneed.cn/smy/zy/raw/master/5555.txt",
 "name": "SS1"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/221222.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/221222.txt",
 "name": "SS2"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/221223.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/221223.txt",
 "name": "SS3"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/221224.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/221224.txt",
 "name": "SS4"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/ziyong.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/ziyong.txt",
 "name": "ZIYONG"
 },
 {
-"url":"https://agit.ai/smy/dym/raw/branch/master/ziyong1.json",
+"url":"http://www.uuneed.cn/smy/dym/raw/master/master/ziyong1.json",
 "name": "ZIYONG1"
 },
 {
@@ -33,7 +33,7 @@
 "name": "ATZYJK"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/csjk.txt",
 "name": "测试接口"
 },
 {
@@ -41,47 +41,47 @@
 "name": "备用接口"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk0.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/csjk0.txt",
 "name": "测试接口0"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk1.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/csjk1.txt",
 "name": "测试接口1"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk2.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/csjk2.txt",
 "name": "测试接口2"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk3.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/csjk3.txt",
 "name": "测试接口3"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk4.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/csjk4.txt",
 "name": "测试接口4"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk5.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/csjk5.txt",
 "name": "测试接口5"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk6.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/csjk6.txt",
 "name": "测试接口6"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk7.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/csjk7.txt",
 "name": "测试接口7"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/csjk8.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/csjk8.txt",
 "name": "测试接口8"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/独家.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/独家.txt",
 "name": "独家接口"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/kan923.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/kan923.txt",
 "name": "KAN923"
 },
 {
@@ -93,23 +93,23 @@
 "name": "GONGJIN线路"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/gqxl.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/gqxl.txt",
 "name": "高清线路"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/wljk1.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/wljk1.txt",
 "name": "网络接口1"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/wljk2.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/wljk2.txt",
 "name": "网络接口2"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/小苹果.json",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/小苹果.json",
 "name": "小苹果接口"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/daozhang.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/daozhang.txt",
 "name": "道长接口"
 },
 {
@@ -133,7 +133,7 @@
 "name": "巧技"
 },
 {
-"url":"https://agit.ai/smy/zy/raw/branch/master/thzx.txt",
+"url":"http://www.uuneed.cn/smy/zy/raw/master/thzx.txt",
 "name": "挺好线路1"
 },
 {
@@ -141,7 +141,7 @@
 "name": "挺好线路2"
 },
 {
-"url": "https://agit.ai/smy/zy/raw/branch/master/CRJK2.txt",
+"url": "http://www.uuneed.cn/smy/zy/raw/master/CRJK2.txt",
 "name": "CR1线路"
 },
 { "url": "https://www.hmg.pw:9999/杨家枪法/api.json", "name": "🚀杨家枪法" },
