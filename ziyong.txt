@@ -1,5 +1,6 @@
-    "sites": [ 
-{"key":"csp_ky77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"https://notabug.org/qdpdwjx/ziyuan/raw/master/JAR/XYQ.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"}, 
+ {
+ "sites": [ 
+{"key":"csp_ky77","name":"七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"jar":"http://www.uuneed.cn/smy/zy/raw/master/JAR/XYQ.jar;md5;6120D08F4EB1EDCE507BFCD1B339C482"}, 
 {
       "key": "csp_XBPQ_电视盒子",
       "name": "电视盒子",
