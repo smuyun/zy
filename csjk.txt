@@ -9,24 +9,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/电视盒子.json"
+      "ext": "http://www.uuneed.cn/smy/zy/raw/master/JS/js/电视盒子.json"
     },
 {"key":"NoSearch_csp_DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/奇珍异兽.js"},
-{"key": "drpy_js_腾云驾雾","name": "🐧腾讯","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/腾云驾雾.js"},
-{"key": "drpy_js_百忙无果","name": "🥭芒果","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/百忙无果.js"},
-{"key": "drpy_js_优酷","name": "👑优酷","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/优酷.js"},
-{"key": "drpy_js_菜狗","name": "🐭搜狗","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/菜狗.js"},
-{"key": "drpy_js_奇优影院","name": "奇优影院","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/奇优影院.js"},
-{"key": "drpy_js_4K电影网","name": "4K电影网","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/4K电影网.js"},
-{"key": "drpy_js_4K电影网","name": "4K电影网","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/4K电影网.js"},
-{"key": "drpy_js_乐鱼影视","name": "乐鱼影视","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/乐鱼影视.js"},
-{"key": "drpy_js_看韩剧","name": "看韩剧","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/看韩剧.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},
-{"key": "drpy_js_Icio影视","name": "Icio影视","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/Icio影视.js"},
-{"key": "drpy_js_免费看","name": "免费看","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/免费看.js"},
-{"key":"csp_Bdys","name":"💥哔嘀┃影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"},
-{"key": "csp_XYQHiker_哔嘀影视","name":"🧲哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/cat/js/bidi.js","jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"},
+{"key": "drpy_js_奇珍异兽","name": "🥝爱奇艺","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/奇珍异兽.js"},
+{"key": "drpy_js_腾云驾雾","name": "🐧腾讯","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/腾云驾雾.js"},
+{"key": "drpy_js_百忙无果","name": "🥭芒果","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/百忙无果.js"},
+{"key": "drpy_js_优酷","name": "👑优酷","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/优酷.js"},
+{"key": "drpy_js_菜狗","name": "🐭搜狗","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/菜狗.js"},
+{"key": "drpy_js_奇优影院","name": "奇优影院","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/JS/js/奇优影院.js"},
+{"key": "drpy_js_4K电影网","name": "4K电影网","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/4K电影网.js"},
+{"key": "drpy_js_4K电影网","name": "4K电影网","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/4K电影网.js"},
+{"key": "drpy_js_乐鱼影视","name": "乐鱼影视","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/乐鱼影视.js"},
+{"key": "drpy_js_看韩剧","name": "看韩剧","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/看韩剧.js","jar": "http://www.uuneed.cn/smy/zy/raw/master/gy/02.jar"},
+{"key": "drpy_js_Icio影视","name": "Icio影视","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/Icio影视.js"},
+{"key": "drpy_js_免费看","name": "免费看","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/免费看.js"},
+{"key":"csp_Bdys","name":"💥哔嘀┃影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.uuneed.cn/smy/zy/raw/master/JAR/custom_spider.jar"},
+{"key": "csp_XYQHiker_哔嘀影视","name":"🧲哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.uuneed.cn/smy/zy/raw/master/cat/js/bidi.js","jar":"http://www.uuneed.cn/smy/zy/raw/master/JAR/custom_spider.jar"},
 {"key":"csp_WoGG","name":"👽玩偶影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 {
 "key":"小苹果",
@@ -36,7 +36,7 @@
 "searchable":1,
 "quickSearch":1,
 "filterable":1,
-"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/xpg240228.jar;md5;e98a7f7d8ab52fa6d6ddd3ca12c0de0a"
+"jar":"http://www.uuneed.cn/smy/zy/raw/master/JAR/xpg240228.jar;md5;e98a7f7d8ab52fa6d6ddd3ca12c0de0a"
 },
 {
 "key":"bf3",
@@ -72,9 +72,9 @@
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,"jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/custom_spider.jar"
+      "filterable": 1,"jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/custom_spider.jar"
     },
-{"key":"suying影视","name":"🍓速映影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/JS/js/suying.json"},
+{"key":"suying影视","name":"🍓速映影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.uuneed.cn/smy/zy/raw/master/JS/js/suying.json"},
 
 {"key":"好戏xBPQ","name":"🌟H234影视","type":3,"api":"csp_XBPQ","playerType":1,"searchable":1,"filterable":1,
 "ext":{
@@ -88,7 +88,7 @@
   "key": "聚视网",
   "name": "央视【🌏️】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/cntv_open.js"
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/cntv_open.js"
   },
 {
       "key": "百度",
@@ -151,20 +151,20 @@
         "电影解说"
       ]
     },
-{"key": "drpy_js_免费看","name": "免费看","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/免费看.js","jar": "https://agit.ai/smy/zy/raw/branch/master/gy/02.jar"},   
+{"key": "drpy_js_免费看","name": "免费看","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js","ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/免费看.js","jar": "http://www.uuneed.cn/smy/zy/raw/master/gy/02.jar"},   
    {
       "key": "drpy_js_LGBT",
       "name": "影视 | 两个BT",
       "type": 3,
-      "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/两个BT.js"
+      "api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js",
+      "ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/两个BT.js"
     },
     {
       "key": "drpy_js_素白白",
       "name": "影视 | 素白白",
       "type": 3,
-      "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/subaibai_open.js"
+      "api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js",
+      "ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/subaibai_open.js"
     },
 {
       "key": "七七备用",
@@ -173,7 +173,7 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/fan-2.jar",
+      "jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/fan-2.jar",
       "changeable": 1
     },
 {
@@ -186,16 +186,16 @@
       "filterable": 1,
       "ext": "http://vipcms.lyyytv.cn/api.php/app/"
     },     
-{"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/230929.jar"},
-{"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/230929.jar"},
-{"key":"csp_IQIYI","name": "🥝爱奇艺","type":3,"api":"csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0,"jar":"https://agit.ai/smy/zy/raw/branch/master/JAR/230929.jar"},
-{"key": "csp_Nmys","name": "农民影视", "type": 3,"api": "csp_Nmys", "searchable": 1,"changeable": 1,"ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/农民影视.json"},
+{"key":"teng","name":"🐧腾讯","type":3,"api":"csp_Qtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.uuneed.cn/smy/zy/raw/master/JAR/230929.jar"},
+{"key":"MGT","name":"🍋芒果","type":3,"api":"csp_Mtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.uuneed.cn/smy/zy/raw/master/JAR/230929.jar"},
+{"key":"csp_IQIYI","name": "🥝爱奇艺","type":3,"api":"csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0,"jar":"http://www.uuneed.cn/smy/zy/raw/master/JAR/230929.jar"},
+{"key": "csp_Nmys","name": "农民影视", "type": 3,"api": "csp_Nmys", "searchable": 1,"changeable": 1,"ext": "http://www.uuneed.cn/smy/zy/raw/master/JS/js/农民影视.json"},
 {
       "key": "drpy_js_网飞TV",
       "name": "🐉┃网飞影视┃",
       "type": 3,
-      "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/网飞TV.js"
+      "api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js",
+      "ext": "http://www.uuneed.cn/smy/zy/raw/master/JS/js/网飞TV.js"
     },
 {
       "key": "T4-yinyuetai",
@@ -216,22 +216,22 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/奇趣影视.json",
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/xyq723.jar"
+      "ext": "http://www.uuneed.cn/smy/zy/raw/master/JS/js/奇趣影视.json",
+      "jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/xyq723.jar"
     },
 {
       "key": "drpy_js_尘落",
       "name": "🐉┃落尘秒播┃",
       "type": 3,
-      "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/尘落影视.json"
+      "api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js",
+      "ext": "http://www.uuneed.cn/smy/zy/raw/master/JS/js/尘落影视.json"
     },
 {
       "key": "drpy_js_NY影院",
       "name": "🐉┃南亚影视┃",
       "type": 3,
-      "api": "https://agit.ai/smy/zy/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/JS/js/NY影院.json"
+      "api": "http://www.uuneed.cn/smy/zy/raw/master/JS/lib/drpy2.min.js",
+      "ext": "http://www.uuneed.cn/smy/zy/raw/master/JS/js/NY影院.json"
     },
 {
       "key": "黑狐",
@@ -240,7 +240,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "playerType": "2",
       "api": "csp_XBPQ",
       "ext": {
@@ -284,7 +284,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/fan1019.jar;md5;c751af3facc83634083d794effe11bc1"
+      "jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/fan1019.jar;md5;c751af3facc83634083d794effe11bc1"
     },
 {
       "key": "毛驴",
@@ -309,7 +309,7 @@
       "key": "双黄",
       "name": "🐉┃双黄BP播┃",
       "type": 3,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/c.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
       "ext": {
         "嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4",
@@ -338,22 +338,22 @@
       "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/c.txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "filterable": 1,
       "ext": "https://yanetflix.me/api.php/app/"
     },
-{"key": "鸭奈非4K","name": "鸭奈非4K","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/鸭奈非4K.json"},
-{"key": "ok影院","name": "ok影院","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/ok影院.json"},
-{"key": "voflix","name": "voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/voflix.json"},
-{"key": "2个BT","name": "2个BT","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/两个BT.json"},
-{"key": "起飞影视","name": "起飞影视","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/起飞影视.json"},
-{"key": "圣城影视","name": "圣城影视","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/圣城影视.json"},
-{"key": "速映影视","name": "速映影视","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/速映影视.json"},
-{"key": "酷茶影视","name": "酷茶影视","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/酷茶影视.json"},
-{"key": "野菊花电影网","name": "野菊花","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/野菊花电影网.json"},
-{"key": "达达龟","name": "达达龟","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/达达龟.json"},
-{"key": "磁力熊","name": "磁力熊","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/磁力熊.json"},
-{"key": "看了吗","name": "看了吗","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/看了吗.json"},
+{"key": "鸭奈非4K","name": "鸭奈非4K","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/鸭奈非4K.json"},
+{"key": "ok影院","name": "ok影院","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/ok影院.json"},
+{"key": "voflix","name": "voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/voflix.json"},
+{"key": "2个BT","name": "2个BT","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/两个BT.json"},
+{"key": "起飞影视","name": "起飞影视","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/起飞影视.json"},
+{"key": "圣城影视","name": "圣城影视","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/圣城影视.json"},
+{"key": "速映影视","name": "速映影视","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/速映影视.json"},
+{"key": "酷茶影视","name": "酷茶影视","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/酷茶影视.json"},
+{"key": "野菊花电影网","name": "野菊花","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/野菊花电影网.json"},
+{"key": "达达龟","name": "达达龟","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/达达龟.json"},
+{"key": "磁力熊","name": "磁力熊","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/磁力熊.json"},
+{"key": "看了吗","name": "看了吗","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/看了吗.json"},
   {
       "key": "蜜果视界",
       "name": "🍊蜜果",
@@ -435,7 +435,7 @@
       "api": "csp_TTian",
       "playerType": 1,
       "ext": "http://op.ysdqjs.cn",
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
+      "jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac"
     },
     {
       "key": "csp_biubiu_大米星球",
@@ -445,8 +445,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/大米星球.json",
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/XBiubiuLA3.jar"
+      "ext": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/大米星球.json",
+      "jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/XBiubiuLA3.jar"
     },
 {"key":"U酷资源","name":"U酷📭资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"最大资源","name":"最大🏠影库","type":1,"api":"https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/","playUrl":"","searchable":1,"quickSearch":1},
@@ -533,9 +533,9 @@
          "jar": "http://47.93.215.151/YSZYZ.jar",
         "ext": "ZhuiYi#tvbox.aleoe.cc#3.0.231015"
     },
-{"key": "csp_QQ","name":"🐧腾讯视频💎","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/0804.jar"},
-{"key": "爱奇艺","name":"🍦爱奇艺💎","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/0804.jar"},
-{"key": "csp_MGTV","name":"🍊芒果TV💎","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/0804.jar"},
+{"key": "csp_QQ","name":"🐧腾讯视频💎","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/0804.jar"},
+{"key": "爱奇艺","name":"🍦爱奇艺💎","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/0804.jar"},
+{"key": "csp_MGTV","name":"🍊芒果TV💎","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/0804.jar"},
 {
       "key": "49ZY",
       "name": "四九🦁观影",
@@ -587,77 +587,77 @@
   "key": "电视直播",
   "name": "🐾丨直播【🎦】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://tvbox.serv00.net/live.php"
   },
 {
   "key": "yycj",
   "name": "业余采集",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "http://154.3.2.163/api.php/provide/vod/"
   }, 
 {
   "key": "ffcj",
   "name": "非凡采集",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/"
   }, 
 {
   "key": "hhcj",
   "name": "火狐采集",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/"
   }, 
 {
   "key": "yingtucj",
   "name": "影图采集",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8"
   }, 
 {
   "key": "jjcj",
   "name": "聚焦采集",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://cj.vodimg.top/api.php/provide/vod/at/json"
   }, 
 {
   "key": "hw8",
   "name": "🪜[华为]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://hw8.live/api.php/provide/vod/at/json"
   }, 
 {
   "key": "apiapibdzy",
   "name": "🪜[百度]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://api.apibdzy.com/api.php/provide/vod/at/json"
   },
 {
   "key": "apiwujinapi",
   "name": "🪜[无尽]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://api.wujinapi.net/api.php/provide/vod/at/json"
   },
 {
   "key": "apitiankongapi",
   "name": "🪜[天空]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://api.tiankongapi.com/api.php/provide/vod/at/json"
   },
 {
   "key": "索尼资源",
   "name": "丨索尼【☯️】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext":{"url": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
   "categories": ["国产剧","欧美剧","海外剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","伦理片","大陆综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫" ]
 	}
@@ -666,7 +666,7 @@
          "key": "火狐资源",
          "name":丨火狐【☯️】",
          "type": 3,
-         "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+         "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
          "ext":{"url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
          "categories": [ "内地剧","欧美剧","香港剧","台湾剧","马泰剧","韩剧","日剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","记录片","伦理片","动画片","中国动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]
 	}
@@ -675,295 +675,295 @@
         "key": "tutu_open",
         "name": "丨图图",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/tutu_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/tutu_open.js"
     },
   {
         "key": "耐看点播",
         "name": "丨耐看【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/nkvod_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/nkvod_open.js"
     },
  {
         "key": "视觉1",
         "name": "丨新视觉【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/xinshijue_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/xinshijue_open.js"
     }, 
  {
         "key": "996影视",
         "name": "丨九六【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ys996_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/ys996_open.js"
     }, 
  {
         "key": "非凡资源",
         "name": "丨非凡【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ff_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/ff_open.js"
    },
    {
         "key": "人人影视",
         "name": "丨人人【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/rttks_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/rttks_open.js"
    },
    {
         "key": "看了么",
         "name": "丨看么【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/klm_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/klm_open.js"
    },
    {
         "key": "免费看",
         "name": "丨免费【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/mfk_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/mfk_open.js"
    },  
    {
         "key": "多瑙影视",
         "name": "丨多瑙【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/dnys_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/dnys_open.js"
    }, 
    {
         "key": "追剧迷",
         "name": "丨追剧【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/zjm_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/zjm_open.js"
    },  
  {
         "key": "影渣渣",
         "name": "丨影渣【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/yzz_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/yzz_open.js"
    }, 
    {
         "key": "奈飞影视",
         "name": "丨奈飞【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/wf_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/wf_open.js"
    }, 
    {
         "key": "量子资源",
         "name": "丨量子【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/lz_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/lz_open.js"
    }, 
    {
         "key": "voflix1",
         "name": "丨Vofx【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/voflix_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/voflix_open.js"
    },  
 {
           "key": "素白白",
           "name": "丨素白【📺️】",
           "type": 3,
-          "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/subaibai_open.js"
+          "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/subaibai_open.js"
           },
     {
         "key": "南瓜影视",
         "name": "丨南瓜【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ng_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/ng_open.js"
    },
    {
         "key": "libvio",
         "name": "丨立播【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/libvio_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/libvio_open.js"
    }, 
    {
         "key": "在线之家1",
         "name": "丨在线【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/zxzj_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/zxzj_open.js"
    }, 
    {
         "key": "一起看2",
         "name": "丨一起【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/yqktv_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/yqktv_open.js"
    }, 
   {
         "key": "爱看机器人",
         "name": "丨爱看【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ikanbot_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/ikanbot_open.js"
     },
  {
   "key": "kczyapi",
   "name": "🪜[快车]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://caiji.kczyapi.com/api.php/provide/vod/at/json"
   }, 
  {
   "key": "qhzyapi",
   "name": "🪜[奇虎]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://caiji.qhzyapi.com/api.php/provide/vod/at/json"
   }, 
 {
   "key": "taopianapi",
   "name": "🪜[淘片]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://taopianapi.com/cjapi/mc10/vod/json.html"
   },
 {
   "key": "apizuidapi",
   "name": "🪜[最大]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
   },
 {
   "key": "inmi",
   "name": "🪜[映迷]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://www.inmi.app/api.php/provide/vod/at/json"
   },
 {
   "key": "82156",
   "name": "🪜[至圣]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "http://82.156.40.118:1234/api.php/provide/vod/at/json"
   },
 {
   "key": "p2100",
   "name": "🪜[飘零]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://p2100.net/api.php/provide/vod/at/json"
   },
 {
   "key": "moviegsl99",
   "name": "🪜[新马]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://movie.gsl99.com/api.php/provide/vod/at/json"
   },
 {
   "key": "m3u8apiyhzy",
   "name": "🪜[樱花]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/json"
   },
 {
   "key": "sdzyapi",
   "name": "🪜[闪电]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "http://sdzyapi.com/api.php/provide/vod/at/json"
   },
 {
   "key": "nmddd_open",
   "name": "nmdd【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/nmddd_open.js"
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/nmddd_open.js"
   },
    {
         "key": "奈飞影视8",
         "name": "奈飞【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/wf_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/wf_open.js"
    }, 
    {
         "key": "4kys_open",
         "name": "4K影视【📺️】",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/4kys_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/4kys_open.js"
    },            
 {
   "key": "klm_open",
   "name": "库洛米【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/klm_open.js"
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/klm_open.js"
   },
 {
   "key": "ggys_open",
   "name": "官谷【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ggys_open.js"
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/ggys_open.js"
    },
 {
   "key": "996open",
   "name": "九六【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/996_open.js"
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/996_open.js"
   },           
 {
   "key": "ddys_open",
   "name": "荻荻【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/ddys_open.js"
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/ddys_open.js"
    },
 {
   "key": "sc1080",
   "name": "圣城【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/sc1080_open.js"
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/sc1080_open.js"
   },
 {
   "key": "蚂蚁呀",
   "name": "蚂蚁【📺️】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/mayiya_open.js"
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/mayiya_open.js"
   },
 {
   "key": "hongniu",
   "name": "红牛【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext":{"url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
   },
 {
   "key": "ikun",
   "name": "爱坤【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": {"url":"https://ikunzyapi.com/api.php/provide/vod","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
   },
 {
   "key": "jinying",
   "name": "金鹰【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext":{"url": "https://jinyingzy.com/provide/vod/from/jinyingm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
   }, 
 {
   "key": "qihu",
   "name": "奇虎【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext":{"url": "https://caiji.qhzyapi.com/api.php/provide/vod/from/qhm3u8/","categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]}
   },
 {
   "key": "caiji",
   "name": "采集【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji_open.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji_open.js",
   "ext": "https://ikunzyapi.com/api.php/provide/vod"
     },
 {
   "key": "鸭奈飞",
   "name": "鸭鸭【📺】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/appysv2.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/appysv2.js",
   "ext": "https://yanetflix.me/api.php/app/"
   },
-{"key": "火狐资源","name": "采集/火狐","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js","ext":{"url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8","categories": [ "内地剧","欧美剧","香港剧","台湾剧","马泰剧","韩剧","日剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","记录片","","动画片","中国动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]	}},
-{"key": "新浪资源","name": "采集/新浪","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js","ext":{"url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8","categories": ["大陆剧","港澳剧","台湾剧","欧美剧","韩剧","日剧","泰剧","动漫","动漫电影","综艺","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","纪录片",""]}},
-{"key": "红牛资源","name": "采集/红牛","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js","ext":{"url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/","categories": ["国产剧","港澳剧","台湾剧","欧美剧","日剧","泰剧","韩剧","综艺","动漫","动漫电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片",""]}},
-{"key": "极速资源","name": "采集/极速","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js","ext":{"url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","categories": ["内地剧","欧美剧","香港剧","台湾剧","马泰剧","韩剧","日剧","","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","记录片","动画片","中国动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]}},
-{"key": "光速资源","name": "采集/光速","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js","ext":{"url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8","categories": ["大陆剧","欧美剧","港澳剧","台湾剧","泰剧","韩剧","日剧","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片","伦理片","动漫电影"]}},
-{"key": "yingszj","name": "鑫鑫影视[V2]","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/appysv2.js","ext": "http://yingszj.xn--654a.cc/api.php/app/"}, 
-{"key": "mjlnl","name": "聚焦[v1]","type": 3,"api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/appysv2.js","ext": "https://www.mjlnl.cn/api.php/v1.vod"},                 
+{"key": "火狐资源","name": "采集/火狐","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js","ext":{"url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8","categories": [ "内地剧","欧美剧","香港剧","台湾剧","马泰剧","韩剧","日剧","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","记录片","","动画片","中国动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]	}},
+{"key": "新浪资源","name": "采集/新浪","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js","ext":{"url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8","categories": ["大陆剧","港澳剧","台湾剧","欧美剧","韩剧","日剧","泰剧","动漫","动漫电影","综艺","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","纪录片",""]}},
+{"key": "红牛资源","name": "采集/红牛","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js","ext":{"url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/","categories": ["国产剧","港澳剧","台湾剧","欧美剧","日剧","泰剧","韩剧","综艺","动漫","动漫电影","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","纪录片",""]}},
+{"key": "极速资源","name": "采集/极速","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js","ext":{"url": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8/","categories": ["内地剧","欧美剧","香港剧","台湾剧","马泰剧","韩剧","日剧","","动作片","爱情片","喜剧片","科幻片","恐怖片","剧情片","战争片","灾难片","悬疑片","犯罪片","奇幻片","记录片","动画片","中国动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]}},
+{"key": "光速资源","name": "采集/光速","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js","ext":{"url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8","categories": ["大陆剧","欧美剧","港澳剧","台湾剧","泰剧","韩剧","日剧","动作片","爱情片","喜剧片","科幻片","恐怖片","战争片","伦理片","动漫电影"]}},
+{"key": "yingszj","name": "鑫鑫影视[V2]","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/appysv2.js","ext": "http://yingszj.xn--654a.cc/api.php/app/"}, 
+{"key": "mjlnl","name": "聚焦[v1]","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/appysv2.js","ext": "https://www.mjlnl.cn/api.php/v1.vod"},                 
          {
             "key": "csp_Bttoo",
             "name": "✌比特┃直连",
@@ -1056,7 +1056,7 @@
     },   
 {"key":"csp_xBPQ_不卡影视2","name":"🌟不卡影视","type":3,"api":"csp_XBPQ","playerType":2,"searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"免嗅\":\"0\",\"嗅探词\":\".m3u8#.mp4\",\"主演\":\"主演：&&</p>\",\"导演\":\"导演：&&</p>\",\"简介\":\"完整版在线免费观看，&&</div>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\":\"#down&&</li>\",\"线路标题\":\">&&</a>\",\"播放数组\":\"class=\\\"stui-content__playlist&&</ul>\",\"播放标题\":\">&&</a>\",\"播放链接前缀\":\"http://kan8.tv\",\"分类\":\"电影$1#剧集$2#综艺$3#动漫$4#伦理$40\",\"搜索url\":\"http://kan8.tv/search.php;post;searchword={wd}\",\"分类url\":\"http://kan8.tv/films/{cateId}_{catePg}.html\"}","jar":"https://agit.ai/sunawy29/1/raw/branch/master/xBPQ.jar"},
 {"key":"csp_xpath_tjyy","name":"📺奇优影院(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/zzzgit/zzz/raw/branch/main/MaooXP/huigutongying.json"},
-{"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/smy/zy/raw/branch/master/dr_py/js/农民影视.json"},
+{"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/农民影视.json"},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/"},
     {
       "key": "csp_XYQHiker_‍dyx",
@@ -1181,10 +1181,10 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.80yy3.com/",
-      "jar": "https://agit.ai/smy/zy/raw/branch/master/JAR/nm4k.jar"
+      "jar": "http://www.uuneed.cn/smy/zy/raw/master/JAR/nm4k.jar"
     },
-{"key": "csp_Alist","name": "Alist","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/smy/zy/raw/branch/master/alist.json","jar":"https://agit.ai/smy/zy/raw/branch/master/Tangrenjie.jar"},
-{"key":"drpy_js_Ali","name":"网盘 | Alist","type":3,"api":"https://agit.ai/smy/zy/raw/branch/master/JS/lib/alist.min.js","ext":"https://agit.ai/smy/zy/raw/branch/master/gy/alist.json"},
+{"key": "csp_Alist","name": "Alist","type": 3,"api": "csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://www.uuneed.cn/smy/zy/raw/master/alist.json","jar":"http://www.uuneed.cn/smy/zy/raw/master/Tangrenjie.jar"},
+{"key":"drpy_js_Ali","name":"网盘 | Alist","type":3,"api":"http://www.uuneed.cn/smy/zy/raw/master/JS/lib/alist.min.js","ext":"http://www.uuneed.cn/smy/zy/raw/master/gy/alist.json"},
 {
       "key": "csp_DiDuan",
       "name": "⤵️低端影视",
@@ -1226,14 +1226,14 @@
     "key": "直播转点播",
     "name": "📛TH┃福利点播",
     "type": 3,
-    "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/点播1.js",
-    "ext": "https://agit.ai/smy/zy/raw/branch/master/thzb.txt"
+    "api": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/点播1.js",
+    "ext": "http://www.uuneed.cn/smy/zy/raw/master/thzb.txt"
     },
  {
         "key": "maiyoux_open",
         "name": "麦游",
         "type": 3,
-        "api": "https://agit.ai/smy/zy/raw/branch/master/dr_py/js/maiyoux_open.js"
+        "api": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/maiyoux_open.js"
    },
  {
       "key": "zp011",
@@ -1248,78 +1248,78 @@
   "key": "kuaiavzycj",
   "name": "快爱",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "http://kuaiavzy.com/api.php/provide/vod/at/json"
   }, 
 {
   "key": "jumaozycj",
   "name": "橘猫",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://to.to-long.com/api.php/provide/vod/at/json"
   }, 
 {
   "key": "luolizycj",
   "name": "萝莉",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://api.g14o.cc/api.php/provide/vod/at/json"
   }, 
-{"key": "废柴网","name": "废柴网","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "https://agit.ai/smy/qt/raw/branch/master/XBPQ/新香蕉废柴网.json"},
+{"key": "废柴网","name": "废柴网","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"playerType":2,"filterable": 1,"ext": "http://www.uuneed.cn/smy/qt/raw/master/XBPQ/新香蕉废柴网.json"},
 {"key":"tianmi","name":"甜蜜资源","type":1,"style":{"type":"rect","ratio":1.485},"api":"https://timizy10.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {
   "key": "精东影业",
   "name": "精东【🔞】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext":"http://chujia.cc/api.php/provide/vod/from/m3u8/" 
   }, 
  {
   "key": "久色资源",
   "name": "久色【🔞】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext":"https://9szy.net/api.php/provide/vod/at/json" 
   }, 
 {
   "key": "草榴",
   "name": "草榴【🔞】",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8"
   },       
 {
   "key": "api.maozyapi.com",
   "name": "🪜[猫咪]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
   },
 {
   "key": "奥斯卡资源",
   "name": "🪜奥斯卡",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://aosikazy.com/api.php/provide/vod/"
   },
 {
   "key": "KK写真",
   "name": "🪜KK写真",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://kkzy.me/api.php/provide/vod/"
   },
 {
   "key": "siwazywtw",
   "name": "🪜[丝袜]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://www.siwazyw.tv/api.php/provide/vod/at/json"
   },
 {
   "key": "siwa",
   "name": "🪜[爱豆]",
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "type": 3,
   "ext": "http://chujia.cc/api.php/provide/vod/from/m3u8"
   },
@@ -1327,49 +1327,49 @@
   "key": "putaozyw",
   "name": "🪜[葡萄]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://caiji.putaozyw.net/inc/apijson_vod.php"
   },
 {
   "key": "apiddapi",
   "name": "🪜[滴滴]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://api.ddapi.cc/api.php/provide/vod/at/json"
   },
 {
   "key": "apixbapi",
   "name": "🪜[️雪豹]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://api.xbapi.cc/api.php/provide/vod/at/json"
   },
 {
   "key": "timizy10",
   "name": "🪜[甜蜜]",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://timizy10.cc/api.php/provide/vod/at/json"
   },
 {
   "key": "apittzy.com",
   "name": "🪜天天",
   "type": 3,
-  "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+  "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
   "ext": "https://apittzy.com/api.php/provide/vod/at/json"
   },
  {
  "key": "apilsbzy1",
  "name": "🪜色逼",
  "type": 3,
- "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
  "ext": "https://apilsbzy1.com/api.php/provide/vod/at/json"
  },
  {
  "key": "ziyuan",
  "name": "🪜速看",
  "type": 3,
- "api": "https://agit.ai/smy/zy/raw/branch/master/cat/js/caiji.js",
+ "api": "http://www.uuneed.cn/smy/zy/raw/master/cat/js/caiji.js",
  "ext": "https://ziyuan.skm3u8.com/api.php/provide/vod/at/json"
  },
 {"key":"美少女","name":"🈴美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},    
@@ -1629,7 +1629,7 @@
     "lives":[
      {"group":"redirect","channels":[
     {"name":"live","urls":[
-    "proxy://do=live&type=txt&ext=https://agit.ai/smy/tv/raw/branch/main/1101.txt"
+    "proxy://do=live&type=txt&ext=http://www.uuneed.cn/smy/tv/raw/main/1101.txt"
     ]}]}],
 
     "parses": [
@@ -2187,6 +2187,6 @@
         "cms.qdwght.com"
     ],
       
-     "spider": "https://agit.ai/smy/zy/raw/branch/master/JAR/Yoursmile.jar;md5;EC14722944CB094619829A8824876D73",
+     "spider": "http://www.uuneed.cn/smy/zy/raw/master/JAR/Yoursmile.jar;md5;EC14722944CB094619829A8824876D73",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302"
 }
