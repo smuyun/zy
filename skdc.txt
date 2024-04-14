@@ -25,7 +25,7 @@
 "name": "ZIYONG"
 },
 {
-"url":"http://www.uuneed.cn/smy/dym/raw/master/master/ziyong1.json",
+"url":"http://www.uuneed.cn/smy/dym/raw/master/ziyong1.json",
 "name": "ZIYONG1"
 },
 {
