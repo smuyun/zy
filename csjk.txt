@@ -1614,7 +1614,9 @@
             "quickSearch":0,
             "filterable":0,
             "ext": "3a49cf29cf20410997247c6eb4509be9"
-        },{
+        },
+    {"key": "阿里盘寻","name": "(仅搜索)丨盘寻","type": 3,"api": "http://www.uuneed.cn/smy/zy/raw/master/dr_py/js/pansearch_open.js","ext": "填入你的阿里token"},    
+    {
       "key": "zhaozy",
       "name": "🔥找资源(仅搜索)",
       "type": 3,
